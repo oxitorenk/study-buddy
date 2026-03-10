@@ -1,0 +1,1880 @@
+{
+    "department": "Görsel İletişim Tasarımı",
+    "courses": [
+        {
+            "courseName": "Dijital Kültür",
+            "semiExam": [
+                {
+                    "questionText": "Mathieu Tremblin'in bir stok imaj sitesinin filigranını boş duvarın üzerine tebeşirle çizerek yaptığı ve sonra fotoğrafını çekerek ürettiği Watermark (Filigran) isimli proje Yeni Estetik açısından nasıl yorumlanabilir?",
+                    "options": {
+                        "A": "Sayısal olan yapay zekânın, insan zekası ile boy ölçüşemeyeceği",
+                        "B": "Sayısal dünya haricinde sanat yapıtından bahsedilemez olduğu",
+                        "C": "Sayısal imgeleme tekniklerinin geleneksel yöntemlerden üstün olduğu",
+                        "D": "Sayısal yöntemlerle üretilen sanatın gerilemekte olduğu",
+                        "E": "Sayısal dünyanın fiziksel dünyaya sızdığı"
+                    },
+                    "correctAnswer": "E"
+                },
+                {
+                    "questionText": "İlk çevrimiçi topluluk aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Wikipedia",
+                        "B": "WELL",
+                        "C": "YouTube",
+                        "D": "eBay",
+                        "E": "BitTorrent"
+                    },
+                    "correctAnswer": "B"
+                },
+                {
+                    "questionText": "Aşağıdakilerden hangisi bir medya platformu değildir?",
+                    "options": {
+                        "A": "Tiktok",
+                        "B": "Twitter",
+                        "C": "Facebook",
+                        "D": "Star Trek",
+                        "E": "Tumblr"
+                    },
+                    "correctAnswer": "D"
+                },
+                {
+                    "questionText": "1968 yılında icat edilen ve ağırlığı sebebiyle 'Demokles'in Kılıcı' yakıştırması yapılan sistem, aşağıdaki terimlerden hangisinin ilk defa insanlar tarafından sayısal olarak deneyimlenmesini sağlamıştır?",
+                    "options": {
+                        "A": "Siber uzay",
+                        "B": "Sanal gerçeklik",
+                        "C": "Artırılmış gerçeklik",
+                        "D": "Karma gerçeklik",
+                        "E": "Fiziksel gerçeklik"
+                    },
+                    "correctAnswer": "C"
+                },
+                {
+                    "questionText": "Kriptoparaların elektronik ortamda en büyük eksikliklerden olan güvenlik ve kopyalanma sorununu aşmasını sağlayan teknoloji aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Blokzincir",
+                        "B": "Internet",
+                        "C": "Ağ mimarisi",
+                        "D": "Endüstri 4.0",
+                        "E": "Merkezsizlik"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "questionText": "Bitcoin'in işlem şeffaflığı ve kullanıcı mahremiyeti arasındaki dengeyi korumak için kullandığı ve kırılması günümüz süper bilgisayarları tarafından bile on yıllar sürebilecek olan güvenlik standardı aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "SHA256",
+                        "B": "FIPS 46",
+                        "C": "SHA512",
+                        "D": "ERC20",
+                        "E": "SHA-1"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "questionText": "Bitcoin'i geliştirerek blokzincir ve kriptopara uygulamalarının popülerlik kazanmasını sağlayan ve kim(ler) olduğu tam olarak bilinmeyen kişi veya grup aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Hiro Nakamura",
+                        "B": "Martti Malmi",
+                        "C": "Vitalik Buterin",
+                        "D": "Satoshi Nakamoto",
+                        "E": "Tim Berners-Lee"
+                    },
+                    "correctAnswer": "D"
+                },
+                {
+                    "questionText": "Sayısal ortamlar sayesinde insan hayatında ne gibi bir değişiklik ortaya çıkmıştır?",
+                    "options": {
+                        "A": "İnsanların birbirleri ile olan iletişimi azalmıştır.",
+                        "B": "İnsanların zihinsel aktivitelerinde yavaşlama görülmüştür.",
+                        "C": "İnsanların sportif aktivitelerine engel olmuştur.",
+                        "D": "Sanat akımları ile insanlar sayısallaşmaya karşı durmaya başlamıştır.",
+                        "E": "Günlük yapılan aktiviteler sayısal ortamlara taşınmıştır."
+                    },
+                    "correctAnswer": "E"
+                },
+                {
+                    "questionText": "Artırılmış gerçeklik ya da sanal gerçeklik uygulamalarıyla gerçek fiziki coğrafi mekân ve dijital mekânın iç içe geçtiği mekânlara ne ad verilir?",
+                    "options": {
+                        "A": "Melez/hibrit mekân",
+                        "B": "Gerçek mekân",
+                        "C": "Özel mekân",
+                        "D": "Ortak mekân",
+                        "E": "Kamusal mekân"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "questionText": "Bireylerin kendileriyle benzer yaş, cinsiyet, etnik köken, sosyoekonomik durum ve kişisel inançlar gibi tanımlayıcı özellikleri paylaşan diğer insanlarla güçlü sosyal bağlantılar kurma eğilimini ifade eden kavram aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Siber zorbalık",
+                        "B": "Nefret söylemi",
+                        "C": "Anonimlik",
+                        "D": "Homofili",
+                        "E": "Trollük"
+                    },
+                    "correctAnswer": "D"
+                },
+                {
+                    "questionText": "İnsanların, 2010'lu yıllardan itibaren giderek daha da akıllı hale gelen mobil cihazlar sayesinde internet üzerindeki içeriği sadece tüketmekle kalmayıp kendi içeriğini de kolayca üretebilir hale gelmesi ve kolaylıkla yayıncı olabilmesi hangi dönemi başlatmıştır?",
+                    "options": {
+                        "A": "Dijital çağ",
+                        "B": "Endüstri 4.0",
+                        "C": "Bilgi çağı",
+                        "D": "Yeni medya",
+                        "E": "Sosyal Ağ"
+                    },
+                    "correctAnswer": "D"
+                },
+                {
+                    "questionText": "Aşağıdakilerden hangisi internet üzerinde topluluk oluşturmada kullanılan mecralardan biri değildir?",
+                    "options": {
+                        "A": "Whatsapp",
+                        "B": "Facebook",
+                        "C": "Kıraathane",
+                        "D": "İnternet forumları",
+                        "E": "Telegram"
+                    },
+                    "correctAnswer": "C"
+                },
+                {
+                    "questionText": "Dijital oyun yayıncılığının yayıncılara gelir kazandırdığı ilk büyük mecra aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Twitch",
+                        "B": "Facebook",
+                        "C": "Blogger",
+                        "D": "Twitter",
+                        "E": "Youtube"
+                    },
+                    "correctAnswer": "E"
+                },
+                {
+                    "questionText": "Bazı çevrimiçi topluluklar ticari işlemlerde satıcıları ortadan kaldırıp alıcıları doğrudan tedarikçilere bağlayarak ____ gibi avantajlar da sağlar. Boşluğu hangisi tamamlar?",
+                    "options": {
+                        "A": "aktivizm",
+                        "B": "veri güvenliği",
+                        "C": "anonimlik",
+                        "D": "konum verisi",
+                        "E": "aracısızlaştırma"
+                    },
+                    "correctAnswer": "E"
+                },
+                {
+                    "questionText": "Bitcoin'i resmi para birimi olarak kabul eden ilk devlet aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Endonezya",
+                        "B": "Çin",
+                        "C": "Paraguay",
+                        "D": "El Salvador",
+                        "E": "Dominik Cumhuriyeti"
+                    },
+                    "correctAnswer": "D"
+                },
+                {
+                    "questionText": "Mark Skwarek, Sander Veenhof ve Tamiko Thiel'in sanatçıları arasında bulunduğu, 2010 yılında New York Modern Sanat Müzesinde (MoMa) gerçekleşen WeARinMoMa sergisinin öne çıkan özelliği aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Sergi için müzeden izin alınmamış olması",
+                        "B": "İlk defa içinde karma gerçeklik ile üretilmiş eserler bulunan sergi olması",
+                        "C": "İlk defa içinde genişletilmiş gerçeklik ile üretilmiş eserler bulunan sergi olması",
+                        "D": "İlk defa içinde sanal gerçeklik ile üretilmiş eserler bulunan sergi olması",
+                        "E": "İlk defa içinde artırılmış gerçeklik ile üretilmiş eserler bulunan sergi olması"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "questionText": "Clement Valla'nın 'Google Earth'den Posta Kartları' isimli çalışması hangi fikre dayanarak oluşturmuştur?",
+                    "options": {
+                        "A": "Sanal gerçeklik sanat manifestosuna",
+                        "B": "Yazılımın içerisindeki kodların birbirleri ile çakışması fikrine",
+                        "C": "Artırılmış gerçeklik sanat manifestosuna",
+                        "D": "Karma gerçeklik sanat manifestosuna",
+                        "E": "Uydu görüntüleriyle kuş bakışı dünyanın güzelliğinin izleyicileri etkileyeceğine"
+                    },
+                    "correctAnswer": "B"
+                },
+                {
+                    "questionText": "Aşağıdakilerden hangisi konum verilerinin kullanımına ilişkin etik ve sorumlu yaklaşımları desteklemek amacıyla oluşturulan Locus Charter İlkeleri'nden biri değildir?",
+                    "options": {
+                        "A": "Verilerin daha sonra bireylerin veya konumlarının tanınmasına neden olacak şekilde kullanılmasını engellemek için önlemler alınması",
+                        "B": "Veri kullanıcılarının, bireysel veya toplu konum verilerinin ayrımcılık, istismar veya zarar amaçlı kullanımını önlemekle sorumlu olması",
+                        "C": "Konum verilerini toplayan platform ve araştırmacıların, kullanıcılara verilerinin kullanacağını belirterek yasal ve etik sorumluluktan kaçınabilmeleri",
+                        "D": "Veri setlerindeki yanlılığı anlamaya ve ayrımcı sonuçlardan kaçınmaya özen gösterilmesi",
+                        "E": "Belirli bir amaçla konum verisini kullanacak olanların yalnızca yeterli, ilgili ve hedefle sınırlı kişisel verileri kullanması"
+                    },
+                    "correctAnswer": "C"
+                },
+                {
+                    "questionText": "Aşağıdakilerden hangisi Büyük Veri kaynaklarından biri değildir?",
+                    "options": {
+                        "A": "Ağlar",
+                        "B": "Ses ve görüntü cihazları",
+                        "C": "Oyuncaklar",
+                        "D": "Internet",
+                        "E": "Kayıtlar (logs)"
+                    },
+                    "correctAnswer": "C"
+                },
+                {
+                    "questionText": "Facebook bir ____ alanı olarak görülebilir.",
+                    "options": {
+                        "A": "kriptopara",
+                        "B": "hava alma",
+                        "C": "kütüphane",
+                        "D": "jeolojik unsur",
+                        "E": "dijital aktivizm"
+                    },
+                    "correctAnswer": "E"
+                },
+                {
+                    "questionText": "Aşağıdakilerden hangisi Büyük Veri'yi geleneksel veri yönetiminden ayıran temel özelliklerden biridir?",
+                    "options": {
+                        "A": "Verinin yalnızca yapılandırılmış (structured) formatta saklanması",
+                        "B": "Veri kaynaklarının yalnızca kurumsal sistemlerle sınırlı olması",
+                        "C": "Geleneksel yöntemlerle kolayca işlenebilir olması",
+                        "D": "Sadece metin tabanlı verilerden oluşması",
+                        "E": "Verinin yüksek hacimli, çeşitli ve yüksek hızda üretiliyor olması"
+                    },
+                    "correctAnswer": "E"
+                },
+                {
+                    "questionText": "Bir anlatıyı/hikayeyi izleyiciye, dinleyiciye ya da okuyucuya anlatmak için birden çok mecradan yararlanılan, her bir yeni mecranın hikayeye farklı ve değerli bir katkı sunduğu durum aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Yeni medya",
+                        "B": "Transmedya",
+                        "C": "Geleneksel medya",
+                        "D": "Yapay zeka",
+                        "E": "Dijital medya"
+                    },
+                    "correctAnswer": "B"
+                },
+                {
+                    "questionText": "Manuel Castells tarihsel olarak toplumsal ağların her zaman bulunduğunu; ağ toplumunu ayıran kilit faktörün ise bu dönemde ____ ve ____ teknolojilerinin kullanımının yaygınlaşması olduğunu vurgular.",
+                    "options": {
+                        "A": "bilgi / iletişim",
+                        "B": "kurum / elektronik",
+                        "C": "kitap / çoğaltma",
+                        "D": "çoğaltma / baskı",
+                        "E": "VR / AR"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "questionText": "Aşağıdakilerden hangisi artırılmış gerçeklik teknolojisinin eğitim alanında sunduğu en önemli avantajlarından biridir?",
+                    "options": {
+                        "A": "Öğrencilerin fiziksel ortamdan tamamen soyutlanarak tamamen sanal bir dünyaya geçiş yapmalarını sağlaması",
+                        "B": "Eğitimin yalnızca belirli bir yaş grubu için uygulanabilir olmasını desteklemesi",
+                        "C": "Öğrencilerin yalnızca teorik bilgileri ezberleyerek öğrenmelerine odaklanması",
+                        "D": "Öğrencilerin sadece görsel içeriklerle sınırlı kalmasını sağlayarak deneyimsel öğrenmeyi kısıtlaması",
+                        "E": "Fiziksel ortamın olanaklarını sayısal ortamın avantajlarıyla birleştirerek etkileşimli bir öğrenme deneyimi sunması"
+                    },
+                    "correctAnswer": "E"
+                },
+                {
+                    "questionText": "Adorno ve Horkheimer'in Kültür Endüstrisi teorisine göre popüler kültürün temel işlevi aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Sanat ve medya yoluyla toplumsal yapıları politikadan bağımsız olarak şekillendirmek",
+                        "B": "Kültürel üretimi bireylerin kontrolüne bırakarak medya tekellerini ortadan kaldırmak",
+                        "C": "Kapitalist düzeni eleştiren bağımsız medya içeriklerinin çoğalmasını sağlamak",
+                        "D": "Toplumu edilgenliğe itmek için standartlaşmış kültürel ürünler üretmek",
+                        "E": "Bireylerin özgün ifade biçimlerini teşvik etmek ve siyasete katılımı artırmak"
+                    },
+                    "correctAnswer": "D"
+                },
+                {
+                    "questionText": "Büyük Veri ve yapay zekâ algoritmalarında toplumsal cinsiyet önyargılarının oluşmasının temel nedeni aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Algoritmaların tamamen tarafsız ve nesnel matematiksel işlemlerle oluşturulması",
+                        "B": "Algoritmaların, belirli bir cinsiyet veya etnik grubun bakış açısını yansıtan sınırlı veri setleriyle geliştirilmesi",
+                        "C": "Yapay zekâ çalışmalarının yalnızca kadın araştırmacılar tarafından yürütülmesi",
+                        "D": "Büyük Veri'nin insan etkisinden bağımsız olarak kendiliğinden şekillenmesi",
+                        "E": "Algoritmaların tüm toplumsal grupları eşit şekilde temsil eden veri setleriyle eğitilmesi"
+                    },
+                    "correctAnswer": "B"
+                },
+                {
+                    "questionText": "Kamusal alanı; devletten, sermayeden / piyasadan ve ailenin mahrem hayatından ayrı bir güç ve demokrasinin ön koşulu olarak gören teorisyen aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Staler",
+                        "B": "Castells",
+                        "C": "Habermas",
+                        "D": "Van Dijk",
+                        "E": "Malina"
+                    },
+                    "correctAnswer": "C"
+                },
+                {
+                    "questionText": "Alan Turing'in bilgisayar tarihindeki önemi aşağıdakilerden hangisine dayanmaktadır?",
+                    "options": {
+                        "A": "4. dereceden polinominal fonksiyonları tanımlamıştır.",
+                        "B": "Fortran bilgisayar dilinin mucididir.",
+                        "C": "Yapay zekâya giden yoldaki en önemli fikirlerden birinin sahibidir.",
+                        "D": "İkili kod sistemini bulmuştur.",
+                        "E": "Dokuma tezgahları için kart sistemini bulmuştur."
+                    },
+                    "correctAnswer": "C"
+                },
+                {
+                    "questionText": "Blokzincir uygulamalarını daha etkin ve işleyişi daha yönetilebilir hale getiren inovasyon ____.",
+                    "options": {
+                        "A": "ağ mimarisidir",
+                        "B": "dağıtık ağ mimarisidir",
+                        "C": "Internet'tir",
+                        "D": "akıllı sözleşmelerdir",
+                        "E": "nesnelerin internetidir"
+                    },
+                    "correctAnswer": "D"
+                },
+                {
+                    "questionText": "Platon'un Mağara Alegorisi'nde 'gerçeklik' hakkında yansıtılan görüş aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Çevremizde duyumsadıklarımızın gerçeğin kendisi olduğu",
+                        "B": "Gerçeğe ancak idealar yoluyla varılabileceği",
+                        "C": "Gerçekliğin yalnızca Tanrı tarafından gözlemlenebildiği",
+                        "D": "Gerçekliğin makineler tarafından üretilebileceği",
+                        "E": "Gerçeğin sadece doğada var olduğu"
+                    },
+                    "correctAnswer": "B"
+                },
+                {
+                    "questionText": "18. yüzyılda ortaya çıkan, rakipleriyle satranç oynayan, Mekanik Türk adı verilen robot aşağıdaki teknolojilerden hangisinin ilham kaynağı olarak görülmektedir?",
+                    "options": {
+                        "A": "Yapay zekâ",
+                        "B": "Hesap makinesi",
+                        "C": "Metaverse",
+                        "D": "Dijital bilgisayarlar",
+                        "E": "Analog bilgisayarlar"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "questionText": "Konum tabanlı servislerin yaygınlaşmasıyla birlikte sosyal medya kullanıcıları aşağıdakilerden hangisini yapma olanağına sahip olmuştur?",
+                    "options": {
+                        "A": "Konum verilerini yalnızca kamu görevlileriyle paylaşma zorunluluğu",
+                        "B": "Sadece geçmişe dönük konum bilgilerini paylaşabilme",
+                        "C": "Sosyal medya platformlarında anonim olarak konum paylaşma",
+                        "D": "Konum verilerinin yalnızca bireysel kullanım için saklanması",
+                        "E": "Konum bildirimlerine fotoğraf, video ve yorum ekleyebilme"
+                    },
+                    "correctAnswer": "E"
+                },
+                {
+                    "questionText": "'Trollük' kavramının tanımı aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Dijital ortamda belirli bir bağlantıya tıklamanızı sağlamak için abartılı başlıklar kullanmak",
+                        "B": "Dijital iletişim teknolojilerine erişimde gözlenen eşitsizlikler",
+                        "C": "Bir birey ya da grubu yıldırma, taciz etme amaçlı teknoloji kullanımı",
+                        "D": "Internet'te insanların keyfini kaçırmak ya da münakaşa başlatmak için tohum ekmeye çalışmak, alaycı söylemlerle hakaret etmek",
+                        "E": "Mevcut bir görüntüdeki kişinin başka bir kişinin görüntüsü ile değiştirilmesi"
+                    },
+                    "correctAnswer": "D"
+                },
+                {
+                    "questionText": "Jenny Preece'e (2000) göre aşağıdakilerden hangisi çevrimiçi bir topluluğun temel bileşenlerinden biridir?",
+                    "options": {
+                        "A": "Fiziksel mekânda yüz yüze etkileşim kuran bireyler",
+                        "B": "Rastgele bir araya gelmiş ve ortak amacı olmayan bireyler",
+                        "C": "Topluluk üyelerinin davranışlarını yönlendiren prensipler",
+                        "D": "Sadece bireysel amaçlara hizmet eden kişisel dijital alanlar",
+                        "E": "Dijital platformlardan bağımsız olarak reysel kullanım"
+                    },
+                    "correctAnswer": "C"
+                },
+                {
+                    "questionText": "Artırılmış gerçeklik ortamını geniş kitlelerin deneyimlemesini sağlayan ilk oyun aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Catan World Explorers",
+                        "B": "Harry Potter Wizards Unite",
+                        "C": "Zombies, Run",
+                        "D": "Ingress",
+                        "E": "Pokemon GO"
+                    },
+                    "correctAnswer": "E"
+                },
+                {
+                    "questionText": "Sanal gerçeklik kavramını aşağıdakilerden hangisi tanımlar?",
+                    "options": {
+                        "A": "Sayısal gerçeklikteki medya deneyimlerini belirten bir terimdir.",
+                        "B": "Kullanıcıların sayısal dünyanın içine tam olarak gömüldüğü bir sistemdir.",
+                        "C": "Kullanıcıların gerçek tehlikelere maruz kaldığı bir durumu ifade eder.",
+                        "D": "Sanal gerçeklikte ses ve görsel duyumsamaların oluşturulma şeklini belirten bir terimdir.",
+                        "E": "Bilgisayar oyunlarındaki etkileşimleri ifade eden bir terimdir."
+                    },
+                    "correctAnswer": "B"
+                },
+                {
+                    "questionText": "Teknolojik determinizm kuramsal yaklaşımı aşağıdakilerden hangisini savunur?",
+                    "options": {
+                        "A": "Sosyal değişimin merkezinde medya teknolojileri vardır.",
+                        "B": "Sosyal yapılar teknolojiyi belirler.",
+                        "C": "Teknoloji sadece bir araçtır.",
+                        "D": "Teknoloji ve toplum birbirinden bağımsızdır.",
+                        "E": "Kültürel değerler teknolojik gelişimi engeller."
+                    },
+                    "correctAnswer": "E"
+                },
+                {
+                    "questionText": "Blokzincir teknolojisi ile dijital bir defterde depolanan ve dijital bir varlığın benzersiz olduğunu onaylayan veri birimi aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Byte",
+                        "B": "IOTA",
+                        "C": "NFT",
+                        "D": "DAO",
+                        "E": "SHA256"
+                    },
+                    "correctAnswer": "C"
+                },
+                {
+                    "questionText": "Kriptoparaların ortaya çıkışında etkili olan temel görüş aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Kriptoparalar sadece dijital teknolojik gelişmelerle var olmuştur.",
+                        "B": "Bankacılık sistemini kurtarma operasyonlarına alternatif olma ihtiyacı.",
+                        "C": "Sadece 2008 ABD Finans Krizi'nin etkisi.",
+                        "D": "Dijitalleşme sonrasında paradaki merkezsizleşme ihtiyacı ve toplulukların etkisi.",
+                        "E": "Gazetelerin dijital medyaya geçişiyle benzerlik göstermesi."
+                    },
+                    "correctAnswer": "D"
+                },
+                {
+                    "questionText": "Rheingold'un çevrimiçi topluluklar hakkındaki görüşü aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Başarının temel nedeni, insanların toplumsal olarak aidiyet ihtiyacı hissetmeleridir.",
+                        "B": "Sadece eğlence amaçlı kullanıldığında başarılı olacaktır.",
+                        "C": "Sadece bilgi almak için kullanılır, etkileşim ihtiyaç değildir.",
+                        "D": "Elektronik iletişimin gerçek topluluk özellikleri taşımadığını savunmuştur.",
+                        "E": "Dijital oyun grupları dışında kullanımı amacına hizmet etmez."
+                    },
+                    "correctAnswer": "A"
+                }
+            ],
+            "finalExam": [],
+            "summerExam": []
+        },
+        {
+            "courseName": "Tipografi",
+            "semiExam": [
+                {
+                    "questionText": "Gutenberg’in dönemin baskı tekniğine getirdiği en büyük yenilik aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Tahta baskı yapılabilmesi",
+                        "B": "Döküm yapabilmesi",
+                        "C": "Mühür ve silindir yapabilmesi",
+                        "D": "Kâğıt üretebilmesi",
+                        "E": "Metal baskıyı hareketli hurufat ile yapabilmesi"
+                    },
+                    "correctAnswer": "E"
+                },
+                {
+                    "questionText": "İbrahim Müteferrika tarafından basılan ilk kitap aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Haklar Bildirgesi",
+                        "B": "Vankulu Lügatı",
+                        "C": "Cihannüma",
+                        "D": "Tuhfetü’l Kibar",
+                        "E": "Temel Olaylar Atlası"
+                    },
+                    "correctAnswer": "B"
+                },
+                {
+                    "questionText": "Aşağıdakilerden hangisi \"ideogram\"ın tanımıdır?",
+                    "options": {
+                        "A": "Elle yazılan sanatsal eserlerdir.",
+                        "B": "Tahta baskılar dışında kullanılan baskıların genel adıdır.",
+                        "C": "Bir düşünceyi betimlemek için kullanılan resim ya da grafik gibi basit göstergelerdir.",
+                        "D": "Bir düşünceyi betimlemek için ciltlenen göstergelerdir.",
+                        "E": "Bir düşünceyi betimlemek için kullanılan karmaşık göstergelerdir."
+                    },
+                    "correctAnswer": "C"
+                },
+                {
+                    "questionText": "Tek tek yazı karakterlerini iki yana yaslı satırlarda basmak için kullanılan makine aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Linotype",
+                        "B": "Hurufat",
+                        "C": "Fotogravür",
+                        "D": "Monotype",
+                        "E": "Fournier"
+                    },
+                    "correctAnswer": "D"
+                },
+                {
+                    "questionText": "Kare kapital ve rustik yazı dışında 4. yüzyıldan itibaren resmi yazışmalar için tercih edilen biçem aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Adasal",
+                        "B": "Gotik",
+                        "C": "Lombard",
+                        "D": "Karolenj",
+                        "E": "Anziyal"
+                    },
+                    "correctAnswer": "E"
+                },
+                {
+                    "questionText": "Geometrik bölmelere sahip asimetrik sayfa düzeninin ve geometrik yapıda kalın, köşeli tırnaksız (sans serif) yazı karakterinin kullanıldığı sanat akımı aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "İsviçre Stili",
+                        "B": "De Stijl",
+                        "C": "New York Okulu",
+                        "D": "Dadaizm",
+                        "E": "Fütürizm"
+                    },
+                    "correctAnswer": "B"
+                },
+                {
+                    "questionText": "İsviçre Tipografisi ile ilişkilendirilen Univers fontunun tasarımcısı aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Max Bill",
+                        "B": "Max Miedinger",
+                        "C": "Paul Rand",
+                        "D": "Adrian Frutiger",
+                        "E": "Jan Tschichold"
+                    },
+                    "correctAnswer": "D"
+                },
+                {
+                    "questionText": "Ağırlıklar, genişlikler, optik boyut, tırnaklıdan (serif) tırnaksıza (sans serif) gibi çeşitli varyasyonların oluşturulmasına olanak sağlayan font formatı aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Değişken Fontlar",
+                        "B": "OpenType",
+                        "C": "Bitmap Font",
+                        "D": "Postscript Type 1",
+                        "E": "Metafont"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "questionText": "1960’lı yıllarda basılı sayfa üzerinde hareket algısı ile New York şehrinin canlılığını aktarmak için kavramsal tipografiyi kullanan tasarımcı aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Piet Mondrian",
+                        "B": "Van Doesburg",
+                        "C": "Leo Lionni",
+                        "D": "Vilmos Huszar",
+                        "E": "Laszlo Moholy-Nagy"
+                    },
+                    "correctAnswer": "C"
+                },
+                {
+                    "questionText": "Jan Tschichold aşağıdaki akımlardan hangisinin öncüsü olarak görülmüştür?",
+                    "options": {
+                        "A": "De Stijl",
+                        "B": "Yeni Tipografi",
+                        "C": "Sürrealizm",
+                        "D": "Bauhaus",
+                        "E": "Dadaizm"
+                    },
+                    "correctAnswer": "B"
+                },
+                {
+                    "questionText": "Mother & Child, Marriage gibi logotayplara sahip, harfleri ve sözcükleri imgelere dönüştürerek tasarımlarında figüratif tipografiye yer veren tasarımcı aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Siegfried Odermatt",
+                        "B": "Adrian Frutiger",
+                        "C": "Herb Lubalin",
+                        "D": "Gene Federico",
+                        "E": "Don Egensteiner"
+                    },
+                    "correctAnswer": "C"
+                },
+                {
+                    "questionText": "Emigre dergisi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+                    "options": {
+                        "A": "Geleneksel tasarım kurallarına uygun tasarlanmıştır.",
+                        "B": "Dergide moda, siyaset ve film gibi içeriklere yer verilmektedir.",
+                        "C": "Dergide tasarımında kullanılan, boşluk, noktalama, yazı karakteri kullanımı alışılmış tipografi kurallarına uygundur.",
+                        "D": "Sayfa tasarımlarında tipografi daha önce görülmemiş yeni bir anlayış ile ele alınmıştır.",
+                        "E": "Dergide temel tipografi anlayışı okunabilirlik üzerinedir."
+                    },
+                    "correctAnswer": "D"
+                },
+                {
+                    "questionText": "Mrs Eaves yazı karakteri aşağıdaki fontların hangisinden ilham alınarak tasarlanmıştır?",
+                    "options": {
+                        "A": "Baskerville",
+                        "B": "Times New Roman",
+                        "C": "Helvetica",
+                        "D": "Bodoni",
+                        "E": "Futura"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "questionText": "Fudoni yazı karakteri aşağıdaki hangi iki yazı karakterinin birleşimi ile üretilmiştir?",
+                    "options": {
+                        "A": "Helvetica - Baskerville",
+                        "B": "Futura - Bodoni",
+                        "C": "Filosofia - Futura",
+                        "D": "Rosetta - Times New Roman",
+                        "E": "Maxmix - Helvetica"
+                    },
+                    "correctAnswer": "B"
+                },
+                {
+                    "questionText": "Karakterleri/harfleri oluşturan çizgilerin (stroke) sonundaki küçük yatay çizgiler ya da ayaklara ne ad verilir?",
+                    "options": {
+                        "A": "Bitiş (Finial)",
+                        "B": "Kol (Arm)",
+                        "C": "Kuyruk (Tail)",
+                        "D": "Kulak (Ear)",
+                        "E": "Tırnak (Serif)"
+                    },
+                    "correctAnswer": "E"
+                },
+                {
+                    "questionText": "Grafik ve yazıların tanınmasına ve yazıcıya ulaştırılarak çıktı alınmasını sağlayan tanımlama dili aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Linotype",
+                        "B": "Tex",
+                        "C": "Truetype",
+                        "D": "Postscript",
+                        "E": "Microsoft"
+                    },
+                    "correctAnswer": "D"
+                },
+                {
+                    "questionText": "Bir yazı karakterinin belli bir açı oranıyla eğilmesiyle oluşturulan varyasyona ne ad verilir?",
+                    "options": {
+                        "A": "Oblique",
+                        "B": "Extended",
+                        "C": "Light",
+                        "D": "Condensed",
+                        "E": "Thin"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "questionText": "Bir satırdaki metnin tüm harflerinin aynı düzlemde yan yana dizildiği çizgiye ne ad verilir?",
+                    "options": {
+                        "A": "Descent",
+                        "B": "Orta Çizgi (Mean Line)",
+                        "C": "Taban Çizgi (Baseline)",
+                        "D": "Ascent",
+                        "E": "Büyük Harf Çizgisi (Cap Line)"
+                    },
+                    "correctAnswer": "C"
+                },
+                {
+                    "questionText": "1894 yılında Linn Boyd Benton tarafından tasarlanan ilk büyük Amerikan yazı karakteri aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Century",
+                        "B": "Black Letter",
+                        "C": "Baskerville",
+                        "D": "Jenson",
+                        "E": "Garamond"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "questionText": "Aşağıdakilerden hangisi tırnaklı (serif) yazı karakterlerinden biri değildir?",
+                    "options": {
+                        "A": "Baskerville",
+                        "B": "Garamond",
+                        "C": "Didot",
+                        "D": "Rockwell",
+                        "E": "Gill Sans"
+                    },
+                    "correctAnswer": "E"
+                },
+                {
+                    "questionText": "Roma İmparatorluğunda kazanılan zaferler için anıtların üzerine yazılan yazılara ne ad verilmiştir?",
+                    "options": {
+                        "A": "Venedik Kapital",
+                        "B": "Floransa Kapital",
+                        "C": "Milano Kapital",
+                        "D": "Antik Kapital",
+                        "E": "Trajan Kapital"
+                    },
+                    "correctAnswer": "E"
+                },
+                {
+                    "questionText": "1455 yılında, Gutenberg basımevinde baskısının yapıldığı belgelenen ilk kitap aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Biblia Sacra",
+                        "B": "Astronomi Takvimi",
+                        "C": "Mainz Mezmurlar Kitabı",
+                        "D": "Kırkiki Satırlı İncil",
+                        "E": "Vankulu Lügatı"
+                    },
+                    "correctAnswer": "D"
+                },
+                {
+                    "questionText": "----- alfabe, piktogramik alfabelerden tamamen farklı olarak, seslerin yazılı olarak gösterilmesini sağlayan semboller veya harfler bütünüdür. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+                    "options": {
+                        "A": "Uygur",
+                        "B": "Fonetik",
+                        "C": "Piktogramik",
+                        "D": "Latin",
+                        "E": "Göktürk"
+                    },
+                    "correctAnswer": "B"
+                },
+                {
+                    "questionText": "Bir kavram ya da sözcüğü temsil eden ve resim özelliği taşıyan simgelere ne ad verilir?",
+                    "options": {
+                        "A": "İdeogram",
+                        "B": "Hiyeroglif",
+                        "C": "Yazı",
+                        "D": "Piktogram",
+                        "E": "Alfabe"
+                    },
+                    "correctAnswer": "D"
+                },
+                {
+                    "questionText": "Palmiye yaprakları, ağaç kabukları, ahşap, keten bezi, fildişi, kemik, kabuk, papirüs, parşömen, bambu, deri, ipek gibi malzemelerin eski çağlardaki kullanım amacı aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Yazı yüzeyi",
+                        "B": "Mürekkep boya",
+                        "C": "Fırça ucu",
+                        "D": "Cilt kaplaması",
+                        "E": "Kurşun kalem"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "questionText": "Sayfa üzerindeki metin ve Görsellerin dengeyi sağlamak adına metin ya da Görsellerin ağırlığının bir tarafa hâkim bir şekilde yerleştirilmesine ne ad verilir?",
+                    "options": {
+                        "A": "Simetrik kompozisyon",
+                        "B": "Dengeli kompozisyon",
+                        "C": "Zıt kompozisyon",
+                        "D": "Açık kompozisyon",
+                        "E": "Asimetrik kompozisyon"
+                    },
+                    "correctAnswer": "E"
+                },
+                {
+                    "questionText": "Aaşağıdakilerden hangileri Fütürizmin en temel özelliklerindendir?",
+                    "options": {
+                        "A": "Seslerin ve hareketin kullanımı",
+                        "B": "Tekrarlama, bulanıklaştırma, büyültme, küçültme",
+                        "C": "Doğru okumayı etkileyen tasarımlar",
+                        "D": "Hız, hareket, eşzamanlılık, özgünlük, heyecan ve ses kavramları",
+                        "E": "Gerçekçi, görünür, etkileyeci tasarımlar"
+                    },
+                    "correctAnswer": "B"
+                },
+                {
+                    "questionText": "De Stijl akımında ünlü eserler veren sanatçı aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Herbert Bayer",
+                        "B": "Pablo Picasso",
+                        "C": "Piet Mondrian",
+                        "D": "Alexander Rodchenko",
+                        "E": "Flippo Tommaso Marinetti"
+                    },
+                    "correctAnswer": "C"
+                },
+                {
+                    "questionText": "-----, Walter Gropius’un öncülüğünde ----- tarihinde açılan çağdaş sanat ve tasarım anlayışı güden bir sanat ve tasarım okuludur. Yukarıdaki cümlede boş bırakılan yerleri aşağıdakilerden hangisi sırasıyla ve doğru olarak tamamlar?",
+                    "options": {
+                        "A": "Bauhaus - 1919",
+                        "B": "De Stijl - 1920",
+                        "C": "HAAS - 1930",
+                        "D": "Futura - 1935",
+                        "E": "Bauer - 1950"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "questionText": "MetaDesign, (1979) United Designers (2002) ve Edenspiekermann (2009) gibi önemli tasarım stüdyolarını kurucusu ve Heidelberg Printing, Volkswagen ve Berlin Transit gibi uluslararası şirketlerin tasarım süreçlerinin yöneticiliğini yapmış kişi aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Jonathan Barnbrook",
+                        "B": "Erik Spiekermann",
+                        "C": "Zuzana Licko",
+                        "D": "Neville Brody",
+                        "E": "Eric Van Blokland"
+                    },
+                    "correctAnswer": "B"
+                },
+                {
+                    "questionText": "Aşağıdakilerden hangisinde vektör yazı karakteri oluşturma teknolojileri birlikte ve doğru olarak verilmiştir?",
+                    "options": {
+                        "A": "Postscript - TrueType - Metafont",
+                        "B": "Bitmap - TrueType - Değişken Font",
+                        "C": "TEX - Bitmap - Metafont",
+                        "D": "Display Font - Postscript - TrueType",
+                        "E": "Bitmap - Display Font - Postscript"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "questionText": "Aşağıdakilerden hangisi PostScript'in tanımıdır?",
+                    "options": {
+                        "A": "Sayısal tipografinin yeni yollarının adıdır.",
+                        "B": "Adobe tarafından kullanıma sunulan Type formatıdır.",
+                        "C": "Aldus tarafından üretilen Pagemaker sayfa düzenleme programıdır.",
+                        "D": "Apple Macintosh bilgisayarlarının yeni sürümüdür.",
+                        "E": "Adobe yazılım firması tarafından geliştirilmiş tanımlama ve baskı denetim dilidir."
+                    },
+                    "correctAnswer": "E"
+                },
+                {
+                    "questionText": "1957’de Max Miedinger tarafından tasarlanan, dünyada en yaygın olarak kullanılan, son derece okunaklı sans serif yazı karakteri aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Univers",
+                        "B": "Helvetica",
+                        "C": "Arial",
+                        "D": "Akzidens Grotesk",
+                        "E": "Trajan"
+                    },
+                    "correctAnswer": "B"
+                },
+                {
+                    "questionText": "Matbaacılıkta bazı yazı karakteri ailelerinde, büyük harf görünümünde olan, ancak boyları küçük harf “x” yüksekliğinde olacak şekilde tasarlanan harflere ne ad verilir?",
+                    "options": {
+                        "A": "Small Caps",
+                        "B": "Minuscules",
+                        "C": "Uppercase",
+                        "D": "Lowercase",
+                        "E": "Point Size"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "questionText": "M.Ö 2000’lerde icat edildiği Bergama’dan gelen -------, özel yöntemlerle hazırlanarak kağıda benzer bir özellik kazanan hayvan derisidir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+                    "options": {
+                        "A": "papirüs",
+                        "B": "tablet",
+                        "C": "hasır",
+                        "D": "kağıt",
+                        "E": "parşömen"
+                    },
+                    "correctAnswer": "E"
+                },
+                {
+                    "questionText": "Madeni sikkeleri icat ederek değiş-tokuş ile yapılan ticareti para ile yapmaya başlayan ilk uygarlık aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Likyalılar",
+                        "B": "Hititler",
+                        "C": "Lidyalılar",
+                        "D": "Sümerler",
+                        "E": "Asurlular"
+                    },
+                    "correctAnswer": "C"
+                },
+                {
+                    "questionText": "Duygu ve düşünceleri başkalarına bildirmek için herhangi bir madde üzerine çizerek, kazıyarak gösterilen şekil ve işaretlere ------- denir. Yukarıdaki cümleyi aşağıdakilerden hangisi doğru şekilde tamamlar?",
+                    "options": {
+                        "A": "piktogram",
+                        "B": "tipografi",
+                        "C": "alfabe",
+                        "D": "yazı",
+                        "E": "ideogram"
+                    },
+                    "correctAnswer": "D"
+                },
+                {
+                    "questionText": "----- ışık açısı ve nesnelerin tonlamayı etkilemesiyle fotoğraf kağıdı üzerine yansıyan siluet olarak adlandırılabilir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+                    "options": {
+                        "A": "Kaligram",
+                        "B": "Linotype",
+                        "C": "Tipogram",
+                        "D": "Monotype",
+                        "E": "Fotogram"
+                    },
+                    "correctAnswer": "E"
+                },
+                {
+                    "questionText": "Tolbert Lanston 1887 yılında, sıcak metalden tek karakterler oluşturan ------- makinesini icat etmiştir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+                    "options": {
+                        "A": "litografi",
+                        "B": "el baskı makinesi",
+                        "C": "monotype",
+                        "D": "linotype",
+                        "E": "matbaa"
+                    },
+                    "correctAnswer": "C"
+                },
+                {
+                    "questionText": "Aşağıdakilerden hangisi Max Kisman’ı sayısal font tasarımında öncü yapan çalışmalarından biridir?",
+                    "options": {
+                        "A": "Blur",
+                        "B": "Berliner Grotesk",
+                        "C": "FF Meta",
+                        "D": "Fudoni",
+                        "E": "Harlem"
+                    },
+                    "correctAnswer": "D"
+                },
+                {
+                    "questionText": "Fred Woodward’ın tasarım anlayışı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+                    "options": {
+                        "A": "Yazıların görsel anlatısına önem göstermiş, yazı karakterlerini ve görselleri içerikle eşleştirmiştir.",
+                        "B": "İçeriği yansıtacak tasarımlar üretmemiştir.",
+                        "C": "Modern tipografi anlayışına sık sıkıya bağlıdır.",
+                        "D": "Yazıları özgürce kullanmamış geleneksel tipografi kurallarına uygun tasarımlar üretmiştir.",
+                        "E": "Bir dergiyi tek bir font ile tasarlayabilir"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "questionText": "Aşağıdakilerden hangisi Ligature'ın tanımıdır?",
+                    "options": {
+                        "A": "Tırnaklı yazı karakterlerinde görülen en ince çizgidir.",
+                        "B": "Ard arda gelen iki harfin birleştirilerek tek bir harf haline dönüştürülmesidir.",
+                        "C": "Sadece iki katlı küçük harflerin alt kısmına verilen özel isimdir.",
+                        "D": "Harflerin yatay ya da yukarı doğru çıkan eğik çizgilerine verilen isimdir.",
+                        "E": "Karakterlerin taban çizgisinin altında kalan parçalarıdır."
+                    },
+                    "correctAnswer": "B"
+                },
+                {
+                    "questionText": "Aşağıdakilerden hangisi eşit-en sistemi alt yapılarını gösteren temel geometrik formlardır?",
+                    "options": {
+                        "A": "Üçgen, daire, beşgen",
+                        "B": "Halka, kare, Küp",
+                        "C": "Elips, yamuk, dikdörtgen",
+                        "D": "Beşgen, daire, kare",
+                        "E": "Küp, silindir, altıgen"
+                    },
+                    "correctAnswer": "B"
+                },
+                {
+                    "questionText": "Aşağıdakilerden hangisi eski biçem (old style) geometrik alt yapılı yazı karakterlerinden biridir?",
+                    "options": {
+                        "A": "Gill Sans",
+                        "B": "Times New Roman",
+                        "C": "Helvetica",
+                        "D": "Humanist",
+                        "E": "Baskerville"
+                    },
+                    "correctAnswer": "E"
+                },
+                {
+                    "questionText": "Bir metni, yazı tipi boyutunu veya satır aralığını değiştirmeden gerekli bir alana sığdırmak için ''-------'' ayarı yapılabilir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+                    "options": {
+                        "A": "thin",
+                        "B": "x-yüksekliği",
+                        "C": "leading",
+                        "D": "italic",
+                        "E": "tracking"
+                    },
+                    "correctAnswer": "E"
+                }
+            ],
+            "finalExam": [],
+            "summerExam": []
+        },
+        {
+            "courseName": "Görsel İletişim ve Tasarım Tarihi",
+            "semiExam": [
+                {
+                    "questionText": "Kağıt ve matbaanın kökeninin dayandığı medeniyet aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Antik Yunanistan",
+                        "B": "Almanya",
+                        "C": "Çin",
+                        "D": "Mısır",
+                        "E": "Maya"
+                    },
+                    "correctAnswer": "C"
+                },
+                {
+                    "questionText": "Aşağıdaki yazı yüzeylerinin hangisinin daha kaliteli versiyonuna “Vellum” denilmiştir?",
+                    "options": {
+                        "A": "Parşömen",
+                        "B": "Papirüs",
+                        "C": "Kil tablet",
+                        "D": "Kağıt",
+                        "E": "Mermer"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "questionText": "Kullanılan harflerin bir sesi işaret ettiği sesçil (fonetik) alfabeyi ilk kullanan uygarlık aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Mısır",
+                        "B": "Çin",
+                        "C": "İndus",
+                        "D": "Fenike",
+                        "E": "Roma"
+                    },
+                    "correctAnswer": "D"
+                },
+                {
+                    "questionText": "Matbaacılık tarihinde ilk resimli İncil’i üreten kişi aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Martin Luther",
+                        "B": "Aldus Manutius",
+                        "C": "Günther Zainer",
+                        "D": "Albrect Dürer",
+                        "E": "Gutenberg"
+                    },
+                    "correctAnswer": "C"
+                },
+                {
+                    "questionText": "Dünya tarihinde bilinen ilk basılı kitap aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Elmas Sutra",
+                        "B": "Gutenberg İncili",
+                        "C": "Dresden Kodeksi",
+                        "D": "Kells Kitabı",
+                        "E": "Vatican Virgil"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "questionText": "Fransa’da yalnızca kraliyetin kullanımı için tasarlanan yazıyüzü aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "İtalik",
+                        "B": "Roman",
+                        "C": "Sans Serif",
+                        "D": "Romain du Roi",
+                        "E": "Serif"
+                    },
+                    "correctAnswer": "D"
+                },
+                {
+                    "questionText": "Aşağıdakilerden hangisi ''Petroglif''in tanımıdır?",
+                    "options": {
+                        "A": "Kayaların üstüne ellerin şablon gibi koyularak yapılan resimlerdir.",
+                        "B": "Kayaların üzerine püskürtme yolu ile yapılan resimlerdir.",
+                        "C": "Kayaların üzerine kazıma ve oyma yoluyla yapılan resimlerdir.",
+                        "D": "Kayaların üzerine aşıboyası damlatılarak yapılan resimlerdir.",
+                        "E": "Kayaların üzerine fırça ile yapılan resimlerdir."
+                    },
+                    "correctAnswer": "C"
+                },
+                {
+                    "questionText": "“Şüpheye düştüğünüzde ------- kullanın” özdeyişi matbaacılar arasında günümüze kadar gelmiştir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+                    "options": {
+                        "A": "Garamond",
+                        "B": "Baskerville",
+                        "C": "Didot",
+                        "D": "Bodoni",
+                        "E": "Caslon"
+                    },
+                    "correctAnswer": "E"
+                },
+                {
+                    "questionText": "Baskı teknolojisini Avrupa’ye getiren kâşif aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Kristof Kolomb",
+                        "B": "Marco Polo",
+                        "C": "Ricoldus de Monte Crucis",
+                        "D": "Pîrî Reis",
+                        "E": "Ugolino Vivaldi"
+                    },
+                    "correctAnswer": "B"
+                },
+                {
+                    "questionText": "Almanya’da bilinen en eski basım örneği bir ------- şiirinin basıldığı bir kitap yaprağıdır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+                    "options": {
+                        "A": "Virgil",
+                        "B": "Biblia Latina",
+                        "C": "Sibylline",
+                        "D": "Aristoteles",
+                        "E": "Ars Moriendi"
+                    },
+                    "correctAnswer": "C"
+                },
+                {
+                    "questionText": "Yazar John Ruskin ve Tasarımcı William Morris, 19. yüzyıl sonlarına doğru Endüstriyel devrimin getirdiği sanatsal karmaşaya karşı bir duruş sergilenme ihtiyacı hissetmiştir. Bu iki önemli ismin başlattığı sanat hareketi aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Viktorya Sanatı",
+                        "B": "Vienna Secession (Viyana Stili)",
+                        "C": "Jugendstil",
+                        "D": "Art Nouveau (Yeni Sanat)",
+                        "E": "Arts&Crafts (Sanat&Zanaat)"
+                    },
+                    "correctAnswer": "E"
+                },
+                {
+                    "questionText": "Aşağıdakilerden hangisi Arts&Crafts (Sanat ve Zanaat) hareketinin özelliklerinden biri değildir?",
+                    "options": {
+                        "A": "El Sanatlarını daha ucuz maliyet ile üretmek",
+                        "B": "Anti-akademik yaklaşımlar ile üretim yapmak",
+                        "C": "El sanatlarını yeniden canlandırmak",
+                        "D": "Tasarımları sadece el ile üretmek",
+                        "E": "El sanatlarını seri imalat haline getirmek"
+                    },
+                    "correctAnswer": "D"
+                },
+                {
+                    "questionText": "Dünya tarihinde ilk gerçek reklam ajansı aşağıdaki ülkelerden hangisinde açılmıştır?",
+                    "options": {
+                        "A": "İngiltere",
+                        "B": "Amerika",
+                        "C": "Fransa",
+                        "D": "Belçika",
+                        "E": "Almanya"
+                    },
+                    "correctAnswer": "B"
+                },
+                {
+                    "questionText": "Aşağıdakilerden hangisi Art Nouveau sanat hareketinin esinlendiği kaynaklardan biri değildir?",
+                    "options": {
+                        "A": "Psikoloji bilimi",
+                        "B": "Doğal motifler",
+                        "C": "Japon ahşap baskıları",
+                        "D": "Rubens, Fragonard gibi romantik dönem ressamları",
+                        "E": "Fransız kabare kültürü"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "questionText": "“Zoetrope” ve “Praxinascope” (Hayat Tekerleği) adlı oyuncaklar aşağıdaki sanat alanlarından hangisine dair geliştirilmiş örnekleri temsil eder?",
+                    "options": {
+                        "A": "Fotoğraf",
+                        "B": "Animasyon",
+                        "C": "Grafik Tasarım",
+                        "D": "Baskı Sanatları",
+                        "E": "Sinema"
+                    },
+                    "correctAnswer": "B"
+                },
+                {
+                    "questionText": "Sanat tarihinde gerçekçi olma geleneğini yıkan ------- doğadan bağımsız bir sanat kavramı yaratarak yeni bir sanatsal gelenek ve görme biçimi kazandırmıştır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+                    "options": {
+                        "A": "Futurizm",
+                        "B": "Art Deco",
+                        "C": "De Stijl",
+                        "D": "Sürrealizm",
+                        "E": "Kubizm"
+                    },
+                    "correctAnswer": "E"
+                },
+                {
+                    "questionText": "Tekrar eden harfler ile ses kavramını ifade etme denemeleri aşağıdaki sanat akımlarından hangisi ile başlamıştır?",
+                    "options": {
+                        "A": "Art Deco",
+                        "B": "Sürrealizm",
+                        "C": "Kubizm",
+                        "D": "Futurizm",
+                        "E": "Dadaizm"
+                    },
+                    "correctAnswer": "D"
+                },
+                {
+                    "questionText": "Marcel Duchamp aşağıdaki modern sanat akımlarından hangisinin en önemli temsilcilerinden biridir?",
+                    "options": {
+                        "A": "Kubizm",
+                        "B": "Dadaizm",
+                        "C": "Futurizm",
+                        "D": "Sürrealizm",
+                        "E": "De Stijl"
+                    },
+                    "correctAnswer": "B"
+                },
+                {
+                    "questionText": "De Stijl sanat akımının başaladığı ülke aşağıdaki hangisidir?",
+                    "options": {
+                        "A": "Hollanda",
+                        "B": "İtalya",
+                        "C": "İngiltere",
+                        "D": "Almanya",
+                        "E": "Fransa"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "questionText": "Aşağıdakilerden hangisi Art Deco’nun özelliklerinden biri değildir?",
+                    "options": {
+                        "A": "Aydınlık renkler",
+                        "B": "Düz ve keskin hatlar",
+                        "C": "Tüketim kültürüne gönderme",
+                        "D": "Yumuşatılmış formlar",
+                        "E": "Çiçekli formlar"
+                    },
+                    "correctAnswer": "E"
+                },
+                {
+                    "questionText": "Wang Zhen’in 1298 yılında matbaacılığa getirdiği yenilik aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Harfler için tahta baskı tekniğini bulmuştur.",
+                        "B": "Matbaada dört renkli baskıyı bulmuştur.",
+                        "C": "Matbaayı Avrupa kıtasına tanıtmıştır.",
+                        "D": "Dizgi için döner masayı icat etmiştir.",
+                        "E": "Kağıt parayı icat etmiştir."
+                    },
+                    "correctAnswer": "D"
+                },
+                {
+                    "questionText": "Aşağıdakilerden hangisi Avrupa’da 14. yüzyılda uygulanmaya başlanan ahşap blok baskının bilinen ilk örneklerinden biridir?",
+                    "options": {
+                        "A": "Sibyls Kitabı",
+                        "B": "Ars Moriendi",
+                        "C": "Dört Azizli Bakire ve Çocuk",
+                        "D": "Mappa Mundi",
+                        "E": "Biblia Latina"
+                    },
+                    "correctAnswer": "C"
+                },
+                {
+                    "questionText": "İlk ahşap baskılarda aşağıdaki temalardan hangisi kullanılmamıştır?",
+                    "options": {
+                        "A": "Azizler",
+                        "B": "İllüstrasyonlar",
+                        "C": "Oyun Kartları",
+                        "D": "Krallar",
+                        "E": "Dini imgeler"
+                    },
+                    "correctAnswer": "D"
+                },
+                {
+                    "questionText": "Christoffel van Dyck aşağıdaki yayınevlerinden hangisinin yazıyüzlerini tasarlayarak büyük üne kavuşmuştur?",
+                    "options": {
+                        "A": "Aldine Yayınevi",
+                        "B": "Gutenberg Matbaası",
+                        "C": "Elsevier Yayınevi",
+                        "D": "Harvard Üniversitesi Yayınları",
+                        "E": "Kraliyet Yayınevi"
+                    },
+                    "correctAnswer": "C"
+                },
+                {
+                    "questionText": "William Morris'in kitap tasarımındaki önemli eserlerinden biri olan \"Golden\", \"Troy\" ve \"Ghaucer\" adlı harf tasarımlarının yarattığı etki aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Gotik türündeki harf tasarımlarına olan ilgiyi azaltmıştır.",
+                        "B": "Sayfaları çevreleyen bordürlerin sade ve monoton olduğu gözlenmiştir.",
+                        "C": "Morris'in eserlerindeki motifler Orta Çağ sanatlarından ziyade modern sanatlara daha yakındır.",
+                        "D": "William Morris'in tasarım kuralları, sanat dünyasında olumsuz eleştirilier almıştır?",
+                        "E": "Kitap tasarımlarındaki kendine has düzenleme anlayışı, harf tasarımlarındaki incelikler ve ayrıntılar gelecek nesillere bu konuda yararlanılabilecek önemli bir kaynak olmuş ve kitap tasarımını bir sanat haline getirmiştir."
+                    },
+                    "correctAnswer": "E"
+                },
+                {
+                    "questionText": "Aşağıdakilerden hangisi “sanatı toplumun yaşam alanı ile buluşturan” ilk hareket olarak bilinir?",
+                    "options": {
+                        "A": "Kontrüktivizm",
+                        "B": "Art Nouveau",
+                        "C": "Sanat ve Zanaat",
+                        "D": "Dadaizm",
+                        "E": "Art Deco"
+                    },
+                    "correctAnswer": "B"
+                },
+                {
+                    "questionText": "Viyana Ayrılıkçılığı hareketinin etkisi altındaki sanatçılardan biri olan Gustav Klimt'in sanat anlayışını yansıtan ögeler aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Mimari tasarımlar",
+                        "B": "Köşeli hatlar ve kütlesel tipografik düzenlemeler",
+                        "C": "Soyut ekspresyonizm eserleri",
+                        "D": "Doğa manzaralarının detaylı resimlemeleri",
+                        "E": "Çiçekli ve yoğun dekoratif desenler"
+                    },
+                    "correctAnswer": "E"
+                },
+                {
+                    "questionText": "Modern sanat ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+                    "options": {
+                        "A": "Modern sanatta her şey bireyi ilgilendirir.",
+                        "B": "Sanatçılar yapıtlarında daha çok kendi bireysel yaklaşımlarını vermeye çalışmışlardır.",
+                        "C": "Sanat için sanat değil, toplum için sanat üretme anlayışı yaygınlaşır.",
+                        "D": "Modern sanat için makineleşme geleceğin sembolü olarak görülmüştür.",
+                        "E": "Modern sanat için sanat ve endüstriyi ayırmak gereklidir."
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "questionText": "Taş baskı (litografi) tekniğinin gelişim sürecine dair aşağıdaki ifadelerden hangisi doğrudur?",
+                    "options": {
+                        "A": "II. Mahmut döneminde sarayın ihtiyaçları için ilk taş baskı atölyesi kurmuştur.",
+                        "B": "Litografi tekniğinin gelişimi sadece 18. yüzyılda Viktorya dönemi oyun yazarı William Shakespeare tarafından başlatılmıştır.",
+                        "C": "Modern litografi, fotokimyasal metotlar ile hazırlanmış çinko ve alüminyum levhaların kullanılmasıyla gerçekleştirilmektedir.",
+                        "D": "Litografi tekniğinin uygulanmasında yağlı mürekkep kullanılarak hazırlanan bir kasnak yardımıyla çizimler yapılmaktadır.",
+                        "E": "Taş baskı tekniği, II.Mahmut döneminde özellikle Aşevlerinde asılı afişlerde kullanılmıştır."
+                    },
+                    "correctAnswer": "C"
+                },
+                {
+                    "questionText": "De Stijl akımının öncüleri tarafından belirlenen temel özellikler aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Tipografide kavisli çizgileri vurgulama ve asimetrik sayfa tasarımı",
+                        "B": "Temel renklerin dışındaki renkleri yoğun olarak kullanma",
+                        "C": "Eğrisel çizgilerin ağırlıklı kullanımı ve duygusallığa vurgu yapma",
+                        "D": "Görsel elemanlarda öznelik ve duygusallığı teşvik etme",
+                        "E": "Sübjektivizme karşı duruş ve eğrisel çizgiler, yuvarlatılmış formlara sahip her ögenin dışlanması"
+                    },
+                    "correctAnswer": "E"
+                },
+                {
+                    "questionText": "Üretici ve el işçiliğini bir araya getirmenin çabası, modern yaşam, makine çağı kültürüne ait motifler, tüketim kültürüne gönderme gibi özellikler aşağıdaki akımlardan hangisine aittir?",
+                    "options": {
+                        "A": "Dada",
+                        "B": "Art Deco",
+                        "C": "Kubizm",
+                        "D": "Futurizm",
+                        "E": "Sürrealizm"
+                    },
+                    "correctAnswer": "B"
+                },
+                {
+                    "questionText": "-----, soyut bir sanat akımı görünümünde olmasına rağmen gerçekçi bir sanat akımı olan realizmden daha fazla gerçekle ilgilenmiştir çünkü somut bir kavramı soyut hâle getirmek için öncelikle onun çok iyi bir biçimde analiz edilmesi gerekmektedir. Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+                    "options": {
+                        "A": "Kübizm",
+                        "B": "Sembolizm",
+                        "C": "Art Deco",
+                        "D": "Futurizm",
+                        "E": "Sürrealizm"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "questionText": "I.Dünya Savaşı’nın katliamlarına ve savaşa duyulan nefretten doğan -----, teknolojik ilerlemeye körü körüne bağlanmanın yüzeyselliğini, toplumunun yozlaşmasını, savaş, toplum, gelenek, din ve sanat gibi tüm yerleşik değerleri alaycı bir dil kullanarak ve izleyicide şok etkisi yaratan etkilerle protesto etmiştir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+                    "options": {
+                        "A": "Art Deco",
+                        "B": "Futurizm",
+                        "C": "Kubizm",
+                        "D": "Sürrealizm",
+                        "E": "Dadizm"
+                    },
+                    "correctAnswer": "E"
+                },
+                {
+                    "questionText": "Aşağıdakilerden hangisi italik yazı biçiminin ortaya çıkışı ve kullanımıyla ilgili en doğru tanımı içerir?",
+                    "options": {
+                        "A": "Antik metinlerin basımında kullanılmak üzere Francesco Griffo tarafından tasarlanmış ve ilk kez Aldus Manutius'un 1501'de basılan Virgil Operası'nda uygulanmıştır.",
+                        "B": "Albrecht Dürer'in gravür sanatındaki çalışmaları sırasında ortaya çıkmış ve daha sonra yaygınlaşmıştır.",
+                        "C": "19. yüzyılda litografi tekniği ile birlikte geliştirilmiş ve özellikle sanatsal metinlerde kullanılmıştır.",
+                        "D": "\"Lettre de somme\" yuvarlak hatlı gothic yazı tipinin daha estetik bir alternatifi olarak geliştirilmiştir.",
+                        "E": "Kilise ve resmi yayınlar için geliştirilmiş \"lettre de forme\" gothic yazı tipinin yerini almak üzere tasarlanmıştır."
+                    },
+                    "correctAnswer": "A"
+                }
+            ],
+            "finalExam": [],
+            "summerExam": []
+        },
+        {
+            "courseName": "Anadolu Kültür Tarihi",
+            "semiExam": [
+                {
+                    "questionText": "Dairesel kent suru ve şehir planı ile dikkati çeken Geç Hitit Krallığı aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Kargamış",
+                        "B": "Sam’al",
+                        "C": "Melid",
+                        "D": "Gurgum",
+                        "E": "Tabal"
+                    },
+                    "correctAnswer": "B"
+                },
+                {
+                    "questionText": "Konya-İvriz kaya kabartmasında tasvirlerini gördüğümüz tanrı ve kral çifti aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Teişiba-Sarduri",
+                        "B": "Teşup-Muwatalli",
+                        "C": "Tarhunza-Warpalawas",
+                        "D": "Attis-Midas",
+                        "E": "Fırtına Tanrısı-Murşili"
+                    },
+                    "correctAnswer": "C"
+                },
+                {
+                    "questionText": "Lidya Krallığı’na son veren aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Medler",
+                        "B": "Persler",
+                        "C": "Babilliler",
+                        "D": "Mısırlılar",
+                        "E": "Kimmerler"
+                    },
+                    "correctAnswer": "B"
+                },
+                {
+                    "questionText": "İlk sikkeler aşağıdaki maden alaşımlardan hangisinden yapılmıştır?",
+                    "options": {
+                        "A": "Elektron",
+                        "B": "Altın",
+                        "C": "Gümüş",
+                        "D": "Bronz",
+                        "E": "Bakır"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "questionText": "MÖ. 47 yılında Anadolu’ya giren Iulius Caesar’in (Jül Sezar) kısa sürede başarı elde etmesi sonucunda, önceki Romalı generallere gönderme yapmak ve kendi zaferini yüceltmek için meşhur, “Geldim, gördüm, yendim, (veni, vidi, vici)” deyişini ifade ettiği merkezimiz aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Efes (İzmir)",
+                        "B": "Smyrna (İzmir)",
+                        "C": "Gordion (Ankara)",
+                        "D": "Zela (Tokat)",
+                        "E": "Hattusa (Çorum)"
+                    },
+                    "correctAnswer": "D"
+                },
+                {
+                    "questionText": "Aşağıdaki süreçlerden hangisi kültür evresine ait bir dönemi göstermemektedir?",
+                    "options": {
+                        "A": "Paleolitik",
+                        "B": "Mezolitik",
+                        "C": "Holosen",
+                        "D": "Neolitik",
+                        "E": "Tunç çağları"
+                    },
+                    "correctAnswer": "C"
+                },
+                {
+                    "questionText": "Traianus Tapınağı, Hadrianus Tapınağı, Augustus Tapınağı veya Aizanoi’deki Zeus Tapınağı gibi birçok yapı ve basılmış yüzlerce sikkedeki tasarımlar aracılığıyla Roma’nın Anadolu’da propagandasını yapmaya çalıştığı dinsel/politik düşünce aşağıdakilerden hangisinde belirtilmiştir?",
+                    "options": {
+                        "A": "Krallık Kültü",
+                        "B": "Mutlak Monarşi",
+                        "C": "Dictatore Kültü",
+                        "D": "Tiran Kültü",
+                        "E": "İmparatorluk Kültü"
+                    },
+                    "correctAnswer": "E"
+                },
+                {
+                    "questionText": "Yazılıkaya B Odası’nın hangi amaçla inşa edildiği düşünülmektedir?",
+                    "options": {
+                        "A": "Ölü Kültüne adanmış mekan",
+                        "B": "Tapınak avlusu",
+                        "C": "Sığınma alanı",
+                        "D": "Depo",
+                        "E": "Kabul salonu"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "questionText": "Tunç Çağında doğal liman olan körfezlerde ve koylarda yeni yerleşmelerin kurulmasına ve küçük köylerin de büyüyerek kasabalara dönüşmesine neden olan gelişme hangisidir?",
+                    "options": {
+                        "A": "Deniz ticaretinin artması",
+                        "B": "Yeni mimari yapı tekniklerinin geliştirilmesi",
+                        "C": "Maden ticaretinin başlaması",
+                        "D": "İlk gerçek anlamda kentlerin ortaya çıkması",
+                        "E": "Soylu-Elit sınıfın ortaya çıkışı"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "questionText": "Lidya’da hüküm süren Mermnad Sülalesinin ilk kralı aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Gyges",
+                        "B": "Lydos",
+                        "C": "Argon",
+                        "D": "Daskylos",
+                        "E": "Mopsos"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "questionText": "Aşağıdakilerden hangisi kaya zemin üzerine kurulmuş yamaç yerleşmelerine örnektir?",
+                    "options": {
+                        "A": "Orman Fidanlığı",
+                        "B": "Çatalhöyük",
+                        "C": "Karain Mağarası",
+                        "D": "Arslantepe",
+                        "E": "Göbekli Tepe"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "questionText": "Daha önce Obeyd döneminde kültürel birliğe kavuşmuş olan Mezopotamya’da, ilk defa siyasal birlik aşağıdakilerden hangisi ile sağlanmıştır?",
+                    "options": {
+                        "A": "Anadolu’ya yapılan askeri seferler",
+                        "B": "Halaf dönemi",
+                        "C": "Akkad Krallığı",
+                        "D": "Uruk dönemi",
+                        "E": "Asur ticaret kolonileri"
+                    },
+                    "correctAnswer": "C"
+                },
+                {
+                    "questionText": "Aşağıdakilerden hangisi, Roma’nın Anadolu’da (Küçük Asya) kurduğu eyaletlerden biri değildir?",
+                    "options": {
+                        "A": "Asia Eyaleti",
+                        "B": "Kilikya Eyaleti",
+                        "C": "Bithynia – Pontos Eyaleti",
+                        "D": "Panionia Eyaleti",
+                        "E": "Galatia Eyaleti"
+                    },
+                    "correctAnswer": "D"
+                },
+                {
+                    "questionText": "Devasa tanrı heykeli tasarımlarıyla Hellenistik Dönem’in Doğu-Batı sentezini uygulamaya çalışan Kommagene kralı I. Antiokhos’un tümülüsü hangi ilimiz sınırları içerisinde yer almaktadır?",
+                    "options": {
+                        "A": "Çorum",
+                        "B": "Konya",
+                        "C": "Eskişehir",
+                        "D": "Adıyaman",
+                        "E": "Uşak"
+                    },
+                    "correctAnswer": "D"
+                },
+                {
+                    "questionText": "Frig kralı Midas aşağıdaki Aiol kentlerinden hangisinin prensesi ile evlenmiştir?",
+                    "options": {
+                        "A": "Kyme",
+                        "B": "Pitane",
+                        "C": "Myrina",
+                        "D": "Gryneion",
+                        "E": "Larissa"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "questionText": "Geç Hitit Dönemi beyliği Gurgum (Maraş)’da ortaya çıkan ve krali olmayan mezar stellerinin Anadolu sanatına getirdiği yenilik aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Kayalara işlenen ilk tasvirler olmaları",
+                        "B": "Tasvirlerdeki figürlerin yüzlerine ifade verilmiş olması",
+                        "C": "Saç biçimlerindeki farklılık",
+                        "D": "Giysilerdeki farklılık",
+                        "E": "Kadın ve erkeğin birlikte tasvir edilmiş olması"
+                    },
+                    "correctAnswer": "B"
+                },
+                {
+                    "questionText": "Lydia kralları ve kraliyet ailesinin mensuplarının gömüldükleri tümülüslerin günümüzdeki adı aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Sakarya Mezar Anıtları",
+                        "B": "Bin Tepe Mezarlığı",
+                        "C": "Kocatepe",
+                        "D": "Kartepe",
+                        "E": "Büyük Kral Mezarlığı"
+                    },
+                    "correctAnswer": "B"
+                },
+                {
+                    "questionText": "İTÇ Dönemi Küllüoba ve Demircihöyük’ün yerleşim planları hangi tip yerleşim planı tipine girer?",
+                    "options": {
+                        "A": "b-Trakya tipi yerleşim planı",
+                        "B": "İTÇ tipi yerleşim planı",
+                        "C": "Troas tipi yerleşim planı",
+                        "D": "Frigya tipi yerleşim planı",
+                        "E": "Anadolu tipi yerleşim planı"
+                    },
+                    "correctAnswer": "E"
+                },
+                {
+                    "questionText": "Anadolu’da karşımıza çıkan ve Roma uygarlığındaki en önemli etkinliklerden biri olan Via Sebaste terimi aşağıdakilerden hangisi ile ilgilidir?",
+                    "options": {
+                        "A": "Ordu teşkilatı",
+                        "B": "Meclis binası",
+                        "C": "Tapınak modeli",
+                        "D": "Standart para birimi",
+                        "E": "Yol ağı sistemi"
+                    },
+                    "correctAnswer": "E"
+                },
+                {
+                    "questionText": "Avcı ve toplayıcı toplumların zamanla göçebeliği terk edip, üretici konumuna gelmeleri ve yıl boyunca iskân edilen ilk sürekli yerleşmeleri kurdukları dönem aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Mezolitik Dönem",
+                        "B": "Epipaleolitik Dönem",
+                        "C": "Kalkolitik Dönem",
+                        "D": "Neolitik Dönem",
+                        "E": "Paleolitik Dönem"
+                    },
+                    "correctAnswer": "D"
+                },
+                {
+                    "questionText": "Eşit şartlarda iki büyük devlet, yani Hititler ile Mısırlılar arasında dostluk ve kardeşliğin sonsuza kadar devam edeceğini belirten, Boğazköy’deki kazılarda ele geçirilen Sonsuz Barış Antlaşması’nın bakır bir kopyası, günümüzde Türkiye Cumhuriyeti dışında nerede sergilenmektedir?",
+                    "options": {
+                        "A": "UNICEF Binası",
+                        "B": "Avrupa Birliği Binası",
+                        "C": "İstanbul Arkeoloji Müzesi",
+                        "D": "NATO Binası",
+                        "E": "Birleşmiş Milletler Binası"
+                    },
+                    "correctAnswer": "E"
+                },
+                {
+                    "questionText": "Yaklaşık olarak MÖ. 20. yüzyılın başlarından 18. yüzyılın sonlarına kadar iki yüz yıl boyunca Asurluların Anadolu’da bulunmalarındaki temel amaç aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Ticari etkinlik",
+                        "B": "Askeri etkinlik",
+                        "C": "Dini propaganda",
+                        "D": "Siyasal yayılım",
+                        "E": "Kültürel alışveriş"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "questionText": "Asurlu tüccarın Anadolu’da kurmuş olduğu ve ticari merkez olarak düşünebileceğimiz bütün karum'ların merkezi, bugün hangi ilimizin sınırları içerisinde kalmaktadır?",
+                    "options": {
+                        "A": "Aksaray",
+                        "B": "Kayseri",
+                        "C": "Kahramanmaraş",
+                        "D": "Nevşehir",
+                        "E": "Malatya"
+                    },
+                    "correctAnswer": "B"
+                },
+                {
+                    "questionText": "Ön Asya ve Anadolu’da görülen en erken tapınak yapılarının saptandığı yerleşme aşağıdakilerden hangisidir ve hangi döneme tarihlenir?",
+                    "options": {
+                        "A": "Göbekli Tepe - Çanak Çömleksiz Neolitik Dönem",
+                        "B": "Nevali Çori - Çanak Çömleksiz Neolitik Dönem",
+                        "C": "Caferhöyük-İlk Tunç Çağı",
+                        "D": "Çatalhöyük –Erken Kalkolitik",
+                        "E": "Aşıklıhöyük- Çanak Çömlekli Neolitik Dönem"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "questionText": "Avrupa’dan gelerek Anadolu’yu yurt edinen ve başkentleri Gordion etrafında MÖ. 9. yüzyıl ve 7. yüzyıl arasında Orta Anadolu’da etkin olan uygarlık aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Frigler",
+                        "B": "Thraklar",
+                        "C": "Hititler",
+                        "D": "Urartular",
+                        "E": "Lidyalılar"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "questionText": "Diğer dönemlere göre en kısa süren dördüncü jeolojik devir (Kuaterner) içerisinde kalan Paleolitik dönemi, kültür tarihi açısından en önemli zaman dilimi kılan özellik aşağıdakilerden hangisinde belirtilmiştir?",
+                    "options": {
+                        "A": "İlk buzul çağının sonlanması ve iklimin dünya genelinde daha ılıman olması",
+                        "B": "Dinozorların neslinin tükenmiş olması",
+                        "C": "Tarımsal etkinliklere yönelik ilk izlerin belirmesi",
+                        "D": "İnsanların ilk kez bu dönemde ortaya çıkması",
+                        "E": "Siyasal açıdan gelişmiş devletlerin görülmesi"
+                    },
+                    "correctAnswer": "D"
+                },
+                {
+                    "questionText": "Geç Tunç Çağı Anadolu’sunda bölgenin belirleyici siyasi gücü ve Anadolu’nun ilk merkezi krallığı aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Hititler",
+                        "B": "Urartular",
+                        "C": "Akadlar",
+                        "D": "Lidyalılar",
+                        "E": "Frigler"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "questionText": "Hellenistik Dönem sanatında bağımsız olarak da karşımıza çıkan sunaklar, dönemin askeri ve politik gelişmelerine paralel sahneler sunmuşlardır. Buna göre, şu an Berlin’de sergilenen ünlü Zeus Sunağı’nda, “kötülere” (Galatlara) karşı mücadelesinde “iyileri” gösteren krallık aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Kommagene Krallığı",
+                        "B": "Pontus Krallığı",
+                        "C": "Kapadokya Krallığı",
+                        "D": "Bithynia Krallığı",
+                        "E": "Bergama Krallığı"
+                    },
+                    "correctAnswer": "E"
+                },
+                {
+                    "questionText": "Özellikle MÖ. 7. ve 6. yüzyıllarda Batı Anadolu’daki kültürlerin birbirleriyle kaynaşmasında kilit rol oynayan temel etmen aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Tiranlar",
+                        "B": "Persli yöneticiler",
+                        "C": "Kent devletleri",
+                        "D": "Senatus",
+                        "E": "Yerel halklar"
+                    },
+                    "correctAnswer": "C"
+                },
+                {
+                    "questionText": "Fiziksel evreni anlamaya yönelik çabalar sırasında bilimsel düşüncenin temellerinin Anadolu’da atıldığı bilinmektedir. Doğa Felsefesi olarak adlandırılmış ve temsilcilerine “İonia Doğa Düşünürleri” adı verilen bu süreçte karşımıza çıkan düşünürlerin ilki ve okulun kurucusu aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Platon",
+                        "B": "Thales",
+                        "C": "Parmenides",
+                        "D": "Aristoteles",
+                        "E": "Sokrates"
+                    },
+                    "correctAnswer": "B"
+                },
+                {
+                    "questionText": "Hemen hemen her kalede kendisi için yapılmış bir tapınağın olduğu ve Urartu devletinin baş tanrısı olarak kabul edilen tanrı aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Hades",
+                        "B": "Teşup",
+                        "C": "Haldi",
+                        "D": "Iuppiter",
+                        "E": "Zeus"
+                    },
+                    "correctAnswer": "C"
+                },
+                {
+                    "questionText": "Büyük İskender’in ölümünün ardından generaller, bölgelerinde kendilerini kral ilan etmiş ve bu durumu halka duyurabilmek amacıyla görsel iletişimde önemli aracı yaygın bir şekilde kullanmışlardır. Aşağıdakilerden hangisi bu propaganda aracını göstermektedir?",
+                    "options": {
+                        "A": "Tiyatro",
+                        "B": "Zafer Takı",
+                        "C": "Steller",
+                        "D": "Sikke",
+                        "E": "Heykel"
+                    },
+                    "correctAnswer": "D"
+                },
+                {
+                    "questionText": "Aşağıdakilerden hangisi, eskiçağ yazarları tarafından Hellen göçleri sırasında; sorguçlu miğferleri, tutamaklı kalkanları ve çifte baltalarıyla kaba bir dil konuşan Anadolu’nun yerel halkları olarak betimlenen halklardan birini göstermektedir?",
+                    "options": {
+                        "A": "Frigler",
+                        "B": "Karialılar",
+                        "C": "Lidyalılar",
+                        "D": "Hititler",
+                        "E": "Urartular"
+                    },
+                    "correctAnswer": "B"
+                },
+                {
+                    "questionText": "Karayolları, barajlar ve göletler yanında Urartuların en önemli bayındırlık faaliyetlerinden bir diğeri aşağıdakilerden hangisinde belirtilmiştir?",
+                    "options": {
+                        "A": "Hipodromlar",
+                        "B": "Su kanalları",
+                        "C": "Hamamlar",
+                        "D": "Mil taşları",
+                        "E": "Zafer takları"
+                    },
+                    "correctAnswer": "B"
+                },
+                {
+                    "questionText": "Asurlu tüccarın Anadolu’ya getirdiği ürünlerin başında kalay madeni yer alırken, bu üründen sonra Anadolu’daki halkların talep ettiği ikinci ürün aşağıdakilerden hangisinde belirtilmiştir?",
+                    "options": {
+                        "A": "Gümüş",
+                        "B": "Tunç",
+                        "C": "Köle",
+                        "D": "Demir",
+                        "E": "Kumaş"
+                    },
+                    "correctAnswer": "E"
+                },
+                {
+                    "questionText": "MÖ. 9. yüzyılın ortalarından MÖ. 7. yüzyılın sonlarına kadar Van Gölü’nün doğu kıyısında yer alan Tuşpa (Van Kalesi) merkez olmak üzere güçlü bir krallık kuran ve tarım, hayvancılık, mimari, madencilik, taş işçiliği ve çanak çömlekçilik alanlarında gelişmiş uygarlık aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Hititler",
+                        "B": "Lidyalılar",
+                        "C": "Frigler",
+                        "D": "Kargamış Krallığı",
+                        "E": "Urartular"
+                    },
+                    "correctAnswer": "E"
+                },
+                {
+                    "questionText": "Batı Anadolu’dan zengin buluntular sağlaması ve ilk kent örneği olması gibi çeşitli nedenlerden dolayı, Anadolu arkeolojisinde çok önemli bir yer tutan, Homeros’un İliada Destanı’na konu olmuş yerleşim aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Atina",
+                        "B": "Miletus",
+                        "C": "Ephesus",
+                        "E": "Troia"
+                    },
+                    "correctAnswer": "E"
+                },
+                {
+                    "questionText": "Yerleşik tarımcı hayatın gelişmesi ile birlikte değişen sosyal ve dinsel inançların sonucunda ilk örnekleri Çanak Çömleksiz Neolitik dönem Nevali Çöri ve Çayönü yerleşmelerinde görülen, kilden veya taştan yapılmış heykelciklerin ana teması aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Meander motifleri",
+                        "B": "Mitolojik yaratıklar",
+                        "C": "Kadın figürleri",
+                        "D": "Savaşçı erkek figürleri",
+                        "E": "Soyut figürler"
+                    },
+                    "correctAnswer": "C"
+                },
+                {
+                    "questionText": "MÖ. 680-MÖ. 546 yılları arasında güçlü bir krallık olarak Anadolu’nun Kızılırmak Nehri’nin batısında kalan topraklarına egemen olan ve sikkeyi (madeni para) icat ederek kültür tarihine önemli bir katkı yapmış uygarlık aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Frigler",
+                        "B": "Hititler",
+                        "C": "Asurlular",
+                        "D": "Lidyalılar",
+                        "E": "Urartular"
+                    },
+                    "correctAnswer": "D"
+                },
+                {
+                    "questionText": "Kalkolitik Dönemde bilezik üretim süreçlerinin görüldüğü yerleşme aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Küllüoba",
+                        "B": "Orman Fidanlığı",
+                        "C": "Kanlıtaş Höyük",
+                        "D": "Arslantepe",
+                        "E": "Aktopraklık"
+                    },
+                    "correctAnswer": "C"
+                },
+                {
+                    "questionText": "Aşağıdakilerden hangisi Geç Hitit Krallıkları Dönemi’nde kullanılan dillerden biridir?",
+                    "options": {
+                        "A": "Eski Yunanca",
+                        "B": "Aramice",
+                        "C": "Palaca",
+                        "D": "Hurrice",
+                        "E": "Latince"
+                    },
+                    "correctAnswer": "B"
+                },
+                {
+                    "questionText": "Aşağıdakilerden hangisi Friglerin küçük fasadlar grubundaki eserlerden biridir?",
+                    "options": {
+                        "A": "Sümbüllü Anıt",
+                        "B": "Bahşayiş Anıtı",
+                        "C": "Bitmemiş Anıt",
+                        "D": "Maltaş Anıtı",
+                        "E": "Arezastis Anıtı"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "questionText": "Anadolu’da Hellen dönemi resim sanatının örneklerinin takip edilebildiği eserler aşağıdakilerden hangisinde belirtilmektedir?",
+                    "options": {
+                        "A": "Duvar resimleri",
+                        "B": "Heykel altlıkları",
+                        "C": "Seramik eserler",
+                        "D": "Mezar stelleri",
+                        "E": "Mimari yapılar"
+                    },
+                    "correctAnswer": "C"
+                },
+                {
+                    "questionText": "Geç Hitit Dönemi beyliği Gurgum (Maraş)’da ortaya çıkan ve krali olmayan mezar stelleri Anadolu’ya bu dönemde gelmiş olan hangi halkla ilişkilendirilir?",
+                    "options": {
+                        "A": "Luwi",
+                        "B": "Frig",
+                        "C": "Fenike",
+                        "D": "Arami",
+                        "E": "Akha"
+                    },
+                    "correctAnswer": "D"
+                },
+                {
+                    "questionText": "İyiler ile kötülerin mücadelesini, tanrılar ve devler arasındaki savaş (gigantomakhi) şeklinde betimleyen sahneleriyle, günümüz konsol ya da bilgisayar oyunlarına ilham verecek nitelikteki Zeus ve Athena’ya adanmış sunak, aşağıdaki merkezlerimizden hangisinde ele geçirilmiştir?",
+                    "options": {
+                        "A": "Efes",
+                        "B": "Hattusa",
+                        "C": "Bergama",
+                        "D": "Sardis",
+                        "E": "Gordion"
+                    },
+                    "correctAnswer": "C"
+                },
+                {
+                    "questionText": "Frig Devleti’nin bilinen ilk kralı aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Midas",
+                        "B": "Gordios",
+                        "C": "Adrastos",
+                        "D": "Kambyses",
+                        "E": "Kyros"
+                    },
+                    "correctAnswer": "B"
+                },
+                {
+                    "questionText": "Frig kralı Midas’ın görülmeye değer güzellikteki ahşap tahtını armağan olarak yolladığı Orta Yunanistan’daki kent aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Delphoi",
+                        "B": "Thebai",
+                        "C": "Olympia",
+                        "D": "Atina",
+                        "E": "Megara"
+                    },
+                    "correctAnswer": "A"
+                },
+                {
+                    "questionText": "Tabakalanmasının sistematik şekilde belgelenmesi nedeniyle arkeoloji biliminin ilk sistematik kazısı sayılan merkez aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Alacahöyük",
+                        "B": "Çatalhöyük",
+                        "C": "Yarımburgaz Mağarası",
+                        "D": "Hacılar",
+                        "E": "Troia"
+                    },
+                    "correctAnswer": "E"
+                },
+                {
+                    "questionText": "Çok tanrılı bir inanca sahip olan Friglerin tek bir kutsal varlık olarak saygı gösterdikleri ve olasılıkla bu nedenle sadece onun tasvirini yaptıkları tanrıça aşağıdakilerden hangisidir?",
+                    "options": {
+                        "A": "Matar Kubileye",
+                        "B": "Teişeba",
+                        "C": "Hera",
+                        "D": "Demeter",
+                        "E": "Persephone"
+                    },
+                    "correctAnswer": "A"
+                }
+            ],
+            "finalExam": [],
+            "summerExam": []
+        }
+    ]
+}
