@@ -181,18 +181,23 @@ body {
 }
 
 .quiz-header {
-    display: flex;
-    justify-content: space-between;
+    display: grid;
+    grid-template-columns: 44px 1fr 44px;
     align-items: center;
     padding: 16px 0;
 }
 
 .exit-btn {
-    font-size: 24px;
+    font-size: 28px;
     color: var(--ios-text-secondary);
     background: none;
     border: none;
     cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 44px;
+    width: 44px;
 }
 
 .question-area {
@@ -240,6 +245,61 @@ body {
 
 .quiz-footer {
     padding: 20px 0;
+}
+
+.ios-btn-secondary {
+    background-color: var(--ios-separator);
+    color: var(--ios-blue);
+    border-radius: 12px;
+    padding: 14px 20px;
+    font-size: 17px;
+    font-weight: 600;
+    width: 100%;
+    border: none;
+    cursor: pointer;
+    transition: transform 0.1s, opacity 0.1s;
+    margin-bottom: 12px;
+}
+
+.ios-btn-secondary:active {
+    transform: scale(0.98);
+    opacity: 0.8;
+}
+
+.wrong-answer-card {
+    background-color: var(--ios-card-bg);
+    border-radius: 12px;
+    padding: 16px;
+    margin-bottom: 16px;
+    border-left: 4px solid var(--ios-red);
+}
+
+.wrong-answer-card .q-text {
+    font-weight: 700;
+    margin-bottom: 12px;
+    display: block;
+}
+
+.wrong-answer-card .ans-row {
+    font-size: 15px;
+    margin-top: 8px;
+    display: flex;
+    gap: 8px;
+}
+
+.wrong-answer-card .ans-label {
+    color: var(--ios-text-secondary);
+    min-width: 110px;
+}
+
+.wrong-answer-card .your-ans {
+    color: var(--ios-red);
+    font-weight: 600;
+}
+
+.wrong-answer-card .correct-ans {
+    color: var(--ios-green);
+    font-weight: 600;
 }
 
 .fade-in {

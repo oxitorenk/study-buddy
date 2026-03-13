@@ -186,9 +186,12 @@ function startQuiz() {
         return;
     }
 
-    _state.quiz.questions = shuffleArray([...pool]);
+    // Limit to 10 questions and shuffle
+    let shuffled = shuffleArray([...pool]);
+    _state.quiz.questions = shuffled.slice(0, 10);
     _state.quiz.currentIndex = 0;
     _state.quiz.score = 0;
+    _state.quiz.userAnswers = [];
     _state.quiz.active = true;
 
     renderQuizQuestion();
@@ -201,9 +204,9 @@ function renderQuizQuestion() {
     ui.container.innerHTML = `
         <div class="quiz-container fade-in">
             <div class="quiz-header">
-                <div></div>
-                <span class="secondary-text">Soru ${_state.quiz.currentIndex + 1} / ${total}</span>
                 <button class="exit-btn" id="exit-quiz">×</button>
+                <span class="secondary-text" style="text-align: center;">Soru ${_state.quiz.currentIndex + 1} / ${total}</span>
+                <div></div>
             </div>
             <div class="question-area">
                 <p class="question-text">${question.questionText}</p>
@@ -235,6 +238,8 @@ function renderQuizQuestion() {
 
             const key = opt.getAttribute('data-key');
             const correct = question.correctAnswer;
+            
+            _state.quiz.userAnswers[_state.quiz.currentIndex] = key;
 
             if (key === correct) {
                 opt.classList.add('correct');
@@ -246,7 +251,9 @@ function renderQuizQuestion() {
                 feedback(false);
             }
 
-            document.getElementById('next-question').style.display = 'block';
+            const nextBtn = document.getElementById('next-question');
+            nextBtn.style.display = 'block';
+            nextBtn.scrollIntoView({ behavior: 'smooth', block: 'center' });
         };
     });
 
@@ -274,6 +281,8 @@ function showResults() {
                 ${percent}%
             </div>
             <p class="secondary-text" style="margin-bottom: 40px;">${total} soruda ${score} doğru cevap.</p>
+            
+            <button class="ios-btn-secondary" id="view-wrong" style="${score === total ? 'display:none' : ''}">Yanlışlarımı Gör</button>
             <button class="ios-btn-primary" id="finish-quiz">Ana Menüye Dön</button>
         </div>
     `;
@@ -282,6 +291,53 @@ function showResults() {
         tap();
         _state.quiz.active = false;
         renderDepartmentSelection();
+    };
+
+    const viewWrongBtn = document.getElementById('view-wrong');
+    if (viewWrongBtn) {
+        viewWrongBtn.onclick = () => {
+            tap();
+            renderWrongAnswers();
+        };
+    }
+}
+
+function renderWrongAnswers() {
+    const questions = _state.quiz.questions;
+    const userAnswers = _state.quiz.userAnswers;
+    
+    const wrongOnes = questions.filter((q, idx) => userAnswers[idx] !== q.correctAnswer);
+
+    ui.container.innerHTML = `
+        <div class="slide-in-right">
+            <div class="ios-navbar">
+                <button class="nav-btn" id="back-to-results">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"></polyline></svg>
+                    Sonuçlar
+                </button>
+                <span class="nav-title">Yanlışlarım</span>
+            </div>
+            <div style="padding: 16px; padding-bottom: 80px; overflow-y: auto; height: calc(100vh - 100px);">
+                ${wrongOnes.map(q => `
+                    <div class="wrong-answer-card">
+                        <span class="q-text">${q.questionText}</span>
+                        <div class="ans-row">
+                            <span class="ans-label">Sizin Cevabınız:</span>
+                            <span class="your-ans">${userAnswers[questions.indexOf(q)] || 'Boş'} - ${q.options[userAnswers[questions.indexOf(q)]] || ''}</span>
+                        </div>
+                        <div class="ans-row">
+                            <span class="ans-label">Doğru Cevap:</span>
+                            <span class="correct-ans">${q.correctAnswer} - ${q.options[q.correctAnswer]}</span>
+                        </div>
+                    </div>
+                `).join('')}
+            </div>
+        </div>
+    `;
+
+    document.getElementById('back-to-results').onclick = () => {
+        tap();
+        showResults();
     };
 }
 
