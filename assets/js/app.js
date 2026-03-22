@@ -212,7 +212,7 @@ function renderQuizQuestion() {
                 <p class="question-text">${question.questionText}</p>
             </div>
             <div class="options-list">
-                ${Object.entries(question.options).map(([key, text]) => `
+                ${shuffleArray(Object.entries(question.options)).map(([key, text]) => `
                     <div class="option-card" data-key="${key}">
                         <strong>${key}:</strong> ${text}
                     </div>
