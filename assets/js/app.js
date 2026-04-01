@@ -55,33 +55,38 @@ function feedback(success) {
 }
 
 function renderDepartmentSelection() {
-    const department = _state.database.department;
+    const departments = _state.database.departments;
     ui.container.innerHTML = `
         <div class="fade-in">
             <div class="ios-list-group" style="margin-top: 40px;">
                 <div class="ios-list-header">Bölüm Seçiniz</div>
                 <div class="ios-list">
-                    <div class="ios-cell" id="select-dept">
-                        <div class="ios-cell-inner">
-                            <span class="body-text">${department}</span>
-                            <svg class="chevron-right" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"></polyline></svg>
+                    ${departments.map((dept, idx) => `
+                        <div class="ios-cell dept-item" data-idx="${idx}">
+                            <div class="ios-cell-inner">
+                                <span class="body-text">${dept.name}</span>
+                                <svg class="chevron-right" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"></polyline></svg>
+                            </div>
                         </div>
-                    </div>
+                    `).join('')}
                 </div>
             </div>
         </div>
     `;
 
-    document.getElementById('select-dept').onclick = () => {
-        tap();
-        _state.currentSelection.department = department;
-        saveState();
-        renderCourseSelection();
-    };
+    document.querySelectorAll('.dept-item').forEach(el => {
+        el.onclick = () => {
+            tap();
+            const idx = el.getAttribute('data-idx');
+            _state.currentSelection.department = departments[idx];
+            saveState();
+            renderCourseSelection();
+        };
+    });
 }
 
 function renderCourseSelection() {
-    const courses = _state.database.courses;
+    const courses = _state.currentSelection.department.courses;
     ui.container.innerHTML = `
         <div class="slide-in-right">
             <div class="ios-navbar">
