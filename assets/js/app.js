@@ -390,4 +390,26 @@ async function init() {
     }
 }
 
+document.addEventListener('keydown', (e) => {
+    if (!_state.quiz.active) return;
+    
+    const key = e.key.toLowerCase();
+    
+    if (key === 'enter') {
+        const nextBtn = document.getElementById('next-question');
+        if (nextBtn && nextBtn.style.display !== 'none') {
+            nextBtn.click();
+        }
+    } else {
+        const optionKeys = ['a', 'b', 'c', 'd', 'e'];
+        const index = optionKeys.indexOf(key);
+        if (index !== -1) {
+            const options = document.querySelectorAll('.option-card');
+            if (options && options.length > index) {
+                options[index].click();
+            }
+        }
+    }
+});
+
 init();
