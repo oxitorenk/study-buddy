@@ -540,6 +540,172 @@
             "correctAnswer": "A"
         }
     ],
-    "finalExam": [],
+    "finalExam": [
+        {
+            "questionText": "313 yılında Roma İmparatorluğu'nda Hıristiyanlığın devlet tarafından serbest bir din olarak tanınmasını ve zamanla Hıristiyanlığın devlet içerisinde yayılmasını sağlayan olay aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Roma Fermanı'nın ilan edilmesi",
+                "B": "Milano Fermanı'nın ilan edilmesi",
+                "C": "İmparatorluğun doğusunda yeni başkent olarak Constantinapolis'in kurulması",
+                "D": "Nicaea (İznik) Konsili'nin toplanması",
+                "E": "Milvius Köprüsü Savaşı'nda Constantinus'un pagan Licinius'u yenmesi"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "“Halk içinde mu’teber bir nesne yok devlet gibi, Olmaya devlet cihânda bir nefes sıhhat gibi” dizelerini, \"Muhibbi\" mahlasıyla yazmış olan Osmanlı sultanı aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Kanuni Sultan Süleyman",
+                "B": "Fatih Sultan Mehmed",
+                "C": "Yavuz Sultan Selim",
+                "D": "Yıldırım Bayezid",
+                "E": "II. Murad"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Orta Bizans Dönemi tekstilinde Sasani Pers üslubu olarak adlandırılmış kumaşlar da kullanılmıştır. Bu kumaşlarda genellikle madalyonlar içerisinde aslan, kartal, fil, sfenks ve ------- gibi hayali yaratıkların tasvirleri görülmektedir.",
+            "options": {
+                "A": "Gamayun",
+                "B": "Dragon",
+                "C": "Satir",
+                "D": "Yılan",
+                "E": "Grifon"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Renk açısından; “darçınî”, “sürmaî”, “tufegî” ve “binevş” ve teknik açıdan; “seraser” ve “kemhayı” terminolojisi, aşağıdaki Osmanlı güzel sanatlarından hangisine ilişkindir?",
+            "options": {
+                "A": "Resim",
+                "B": "Hattat",
+                "C": "İpek kumaşlar",
+                "D": "Seramik",
+                "E": "Çinicilik"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Kendi emperyal politikalarının bir sonucu olarak Romalıların, Anadolu’da oluşturdukları Via Sebaste ile anlatılmak istenen uygulama aşağıdakilerin hangisinde gösterilmiştir?",
+            "options": {
+                "A": "Su kemerleri",
+                "B": "İmparatorluk Kültü tapınakları",
+                "C": "Yol sistemi",
+                "D": "İdari yapılanma",
+                "E": "Ordu reformu"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Osmanlı tarihçisi Halil İnalcık’ın, “sarayın en göze çarpan yeri, Dârul-’Adl denilen Adalet Kulesi ve Cihânnümâ’dır” diye belirttiği, mutlak iktidarın merkezi durumundaki Fatih Sultan Mehmed dönemi yapısı aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Büyük Saray",
+                "B": "Selimiye Külliyesi",
+                "C": "Dolmabahçe Sarayı",
+                "D": "Topkapı Sarayı",
+                "E": "Nur-u Osmaniye Külliyesi"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Aşağıdakilerde hangisi, Erken Cumhuriyet döneminde müzik alanında bir dönüm noktası olarak ortaya çıkmış ve daha sonra Ankara Devlet Konservatuvarına dönüşmüş kurumdur?",
+            "options": {
+                "A": "Mızıka-i Hümayun",
+                "B": "Riyaseti Cumhur Musiki Heyeti",
+                "C": "Musiki Muallim Mektebi",
+                "D": "Darü’l-Bedayi",
+                "E": "Darü’l-Elhan"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Erken Cumhuriyet döneminde, kırsal alana rejimin yeni değerlerini götürmek ve öğretmen eksikliğini gidermek için uygulanan çözüm aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Tevhid-i Tedrisat Kanunu",
+                "B": "Köy Enstitüleri",
+                "C": "Halkevleri",
+                "D": "Mahalle Mekteplerinin kapatılması",
+                "E": "Üniversite reformu"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Selçukluların Anadolu’daki fetihlerinde “ekonomi politik” belirleyici bir etmen olmuştur. Aşağıdakilerden hangisi bu süreçte Selçukluların başarısında rol oynamış unsurlardan birini göstermektedir?",
+            "options": {
+                "A": "Yollar",
+                "B": "Büyük çiftlikler",
+                "C": "Hamamlar",
+                "D": "Macellum’lar",
+                "E": "Seküler devlet yapısı"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Neolitik Dönem mimari yapısının Anadolu’daki bütün gelişim aşamalarını en iyi şekilde gösteren yerleşim aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Çayönü",
+                "B": "Troia",
+                "C": "Karain",
+                "D": "Eriha",
+                "E": "Ephesus"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi, mermer, fildişi, metal, mine, seramik ve mozaik gibi malzemelerden üretilmiş, taşınabilir nitelikte ibadet amacı taşıyan dini konulu resimler olan ikonaların konuları arasında yer almamaktadır?",
+            "options": {
+                "A": "İsa ve Meryem",
+                "B": "Azizler",
+                "C": "Meryem'in hayatı",
+                "D": "Halktan öyküler",
+                "E": "Azizlerin hayatı"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi, Selçuklu dönemi hanlarında hizmet eden görevliler arasında yer almamaktadır?",
+            "options": {
+                "A": "Memurlar",
+                "B": "Katipler",
+                "C": "Baytar",
+                "D": "İmam",
+                "E": "Müderris"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Sefer sırasında ordunun konakladığı, yabancı hükümdarların ağırlandığı ve gerektiğinde hapishane veya sığınak olarak da kullanılan Selçuklu yapılarına verilen ad aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Hanlar",
+                "B": "Vakıflar",
+                "C": "Bimarethaneler",
+                "D": "Şifahaneler",
+                "E": "Kervansaraylar"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Roma’nın ilk imparatoru Octavianus’un, icaatlarını halka anlattığı ve bir çeşit “ulusa sesleniş” konuşması gibi düşünebileceğimiz “Res Gestae Divi Augusti”nin günümüze kadar sağlam gelmiş en iyilerinden bir tanesi ülkemizde hangi ilde ele geçirilmiştir?",
+            "options": {
+                "A": "Antakya",
+                "B": "İzmir",
+                "C": "Kayseri",
+                "D": "İstanbul",
+                "E": "Ankara"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Bedri Rahmi Eyüboğlu, Cemal Tollu, Sabri Berkel, Zeki Kocamemi, Ali Çelebi, Nurullah Berk ve Zeki Faik gibi isimlerden söz eden bir makale erken Cumhuriyet Dönemi’ndeki hangi sanat alanına ilişkindir?",
+            "options": {
+                "A": "Resim",
+                "B": "Klasik müzik",
+                "C": "Opera",
+                "D": "Heykel",
+                "E": "Tiyatro"
+            },
+            "correctAnswer": "A"
+        }
+    ],
     "summerExam": []
 }

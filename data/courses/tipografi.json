@@ -497,6 +497,194 @@
             "correctAnswer": "E"
         }
     ],
-    "finalExam": [],
+    "finalExam": [
+        {
+            "questionText": "Karmaşık bir mesajı anlaşılır bir biçimde basitleştirilebilmek için görsel verileri vurgu sıralamasına göre düzenlemeye yardımcı olan tasarım ilkesine ne ad verilir?",
+            "options": {
+                "A": "Görsel hiyerarşi",
+                "B": "Ritim",
+                "C": "Denge",
+                "D": "Oran-orantı",
+                "E": "Bütünlük"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "oluşturulacak metnin algılanabilir bir düzen içerisinde olmasını öncelikli olarak sağlar?",
+            "options": {
+                "A": "Üst Uzantılar Çizgisi",
+                "B": "Satır Çizgisi",
+                "C": "Alt Uzantılar Çizgisi",
+                "D": "X Yüksekliği",
+                "E": "Orta Çizgi"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Küçük parçalardan oluşan görsel elemanların yakınlıkları nedeni ile tek bir büyük parça olarak algılanmasını sağlayan gestalt ilkesi aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Benzerlik İlkesi",
+                "B": "Şekil-zemin İlkesi",
+                "C": "Yakınlık İlkesi",
+                "D": "Devamlılık İlkesi",
+                "E": "Tamamlama İlkesi"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Tasarımda genellikle ------- ve ------- dengeden söz edilmektedir.",
+            "options": {
+                "A": "sıcak / soğuk",
+                "B": "tipografik / resimsel",
+                "C": "boş / dolu",
+                "D": "simetrik / asimetrik",
+                "E": "sık / seyrek"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "tipografik düzenlemelerde görsel ağırlığı belirleyen faktörlerden biri değildir?",
+            "options": {
+                "A": "Devamlılık",
+                "B": "Konumlandırma",
+                "C": "Şekil",
+                "D": "Renk",
+                "E": "Büyük-küçük ilişkisi"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Geleneksel iletişim tasarımı ortamı olan afişin şu anki yansıması olarak adlandırılabilecek basılı grafik ürün aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Jenerik",
+                "B": "Banner",
+                "C": "Broşür",
+                "D": "Billboard",
+                "E": "Kitap kapağı"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Form ile oluşturulan kurumsal simge aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Logotype",
+                "B": "Amblem",
+                "C": "İşaret",
+                "D": "Tabela",
+                "E": "Tipografi"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Yazının boyutlandırılması için basılı ortamlarda endüstri standardı olan ------- ölçeklendirme biçimi kullanılırken, dijital ortamlarda ------- ölçeklendirmesi kullanılmaktadır.",
+            "options": {
+                "A": "CMYK / RGB",
+                "B": "tram / bitmap",
+                "C": "santimetre / inç",
+                "D": "punto / piksel",
+                "E": "true type / variable font"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "İçeriği oluşturan metin ve görseller ile sayfa kenarı arasındaki çevrelenen negatif alanlara ne ad verilir?",
+            "options": {
+                "A": "Akış Çizgisi",
+                "B": "Satır",
+                "C": "Modül",
+                "D": "Sütun",
+                "E": "Marjin"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "80’li yıllarda ekran odaklı piksel teknolojisine ayak uyduran yeni dijital yazı karakterleri olarak kullanılan yazı türü aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "True Type",
+                "B": "Variable Font",
+                "C": "Bitmap Font",
+                "D": "Open Type",
+                "E": "Postscript Type 1"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi bir 'altın dikdörtgen' örneğidir?",
+            "options": {
+                "A": "A4 Kâğıt",
+                "B": "Kapı Ölçüsü",
+                "C": "Cep Telefonu Ekranı",
+                "D": "5/4 Bilgisayar Ekranı",
+                "E": "16/9 TV Ekranı"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Belirli harf çiftlerinin birlikte kullanımından doğan kötü görüntülerin giderilmesi amacıyla karakter aralıklarına el ile müdahale edilmesine ne ad verilir?",
+            "options": {
+                "A": "Espas",
+                "B": "Leading",
+                "C": "Letterspacing",
+                "D": "Tracking",
+                "E": "Kerning"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi metin düzenlemesinde kullanılan yazının bloklama biçimlerinden biri değildir?",
+            "options": {
+                "A": "Soldan blok",
+                "B": "Dikey blok",
+                "C": "Ortadan blok",
+                "D": "Tam blok",
+                "E": "Sağdan blok"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi 'allograf'ın tanımıdır?",
+            "options": {
+                "A": "Harfteki kalın ve ince çizgilerin birbiriyle olan ilişkisidir.",
+                "B": "İki harf arasındaki boşluğun optik olarak dengelenmesidir.",
+                "C": "Karakter çizgisinin bitiminde bulunan küçük çıkıntılardır.",
+                "D": "Bir alfabenin bir harfinin iki veya daha fazla alternatif biçiminden her biridir.",
+                "E": "Karakterler arasındaki boşluğun eşit değerde azaltılması veya artırılmasıdır."
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Aşağıdaki harflerin hangisi hem tek katlı hem de çift katlı harf olarak kullanılır?",
+            "options": {
+                "A": "d",
+                "B": "b",
+                "C": "e",
+                "D": "c",
+                "E": "a"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Başlık yazı karakterleri ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": {
+                "A": "Başlık yazı karakterleri 24 punto ve üzeri yazılar için tasarlanmaktadır.",
+                "B": "Başlık yazı karakterleri gövde metinlerinde kullanılır.",
+                "C": "Başlık yazı karakterleri küçük puntoların kullanıldığı tasarımlarda kullanılmalıdır.",
+                "D": "Başlık yazı karakterleri 12 punto ve üzeri yazılar için tasarlanmaktadır.",
+                "E": "Başlık yazı karakterleri dergi ve gazete gövde metinleri için kullanılır."
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi bir yazı karakterinin okunurluğuna katkıda bulunan elemanlardan biri değildir?",
+            "options": {
+                "A": "x- yüksekliği",
+                "B": "Karakter Ağırlığı",
+                "C": "Dış Boşluklar",
+                "D": "Harf Çizgisi Kontrastı",
+                "E": "Karakter Genişliği"
+            },
+            "correctAnswer": "C"
+        }
+    ],
     "summerExam": []
 }

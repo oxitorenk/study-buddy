@@ -376,6 +376,227 @@
             "correctAnswer": "A"
         }
     ],
-    "finalExam": [],
+    "finalExam": [
+        {
+            "questionText": "İnsanlık tarihinin ilk resimli el yazmalarının ortaya çıktığı medeniyet aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "İnka",
+                "B": "İndus",
+                "C": "Mısır",
+                "D": "Sümer",
+                "E": "Maya"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi Ukiyoe'nin tanımıdır?",
+            "options": {
+                "A": "Japon siyah-beyaz mürekkep resmidir.",
+                "B": "Japon ahşap baskı sanatıdır.",
+                "C": "Japon Sumi-e’nin renkli versiyonudur.",
+                "D": "Japon peyzaj düzenleme tekniğidir.",
+                "E": "Japon iç mekan tasarım sanatıdır."
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "------- akımı tasarımdaki öznelciliğe karşı bir duruş sergilemekte olup, eğrisel çizgisel ve yuvarlatılmış formlara sahip her öge bu akımda dışlanmıştır.",
+            "options": {
+                "A": "Art Deco",
+                "B": "Futurizm",
+                "C": "Art Nouveau",
+                "D": "Kubizm",
+                "E": "De Stijl"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "------- büyük harf ve ------- küçük harf demektir.",
+            "options": {
+                "A": "Majiskül / Miniskül",
+                "B": "Tam /Yarım",
+                "C": "Altı Çizili / Çizgisiz",
+                "D": "Serif / Sanserif",
+                "E": "İtalik / Bold"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "------- bir veya daha fazla harfin tek bir simge oluşturmak için tasarlanmasıdır.",
+            "options": {
+                "A": "Logotype",
+                "B": "Kolofon",
+                "C": "Monogram",
+                "D": "İnfografik",
+                "E": "Piktogram"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Futura yazı karakteri ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "options": {
+                "A": "Tırnaklı bir yazı tipidir.",
+                "B": "Futura gelecek anlamına gelmektedir.",
+                "C": "Minimal bir yapıya sahiptir.",
+                "D": "Paul Renner tarafından tasarlanmıştır.",
+                "E": "Geometrik formlara dayalıdır."
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi sanat terimi olan Avangard'ın tanımıdır?",
+            "options": {
+                "A": "Klasik dönemi savunanları tanımlamaktadır.",
+                "B": "Rönesans döneminde altın oranı tanımlamaktadır.",
+                "C": "Resimde anatomik yapıyı tanımlamaktadır.",
+                "D": "Orta çağ mimarisinde abartılı elemanları tanımlamaktadır.",
+                "E": "İlerici ve deneysel sanatı tanımlamaktadır."
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi 1950’lerin başlarında televizyon ve bilgisayar oluşum çağını başlatan stildir?",
+            "options": {
+                "A": "De Stijl",
+                "B": "Yeni Tipografik Stil",
+                "C": "Pop Art",
+                "D": "Kurumsal Stil",
+                "E": "Victoria Stili"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi Rusya’da ortaya çıkan Konstrüktivizm akımının kurucu sanatçılarından biridir?",
+            "options": {
+                "A": "Vladimir Tatlin",
+                "B": "Stenberg kardeşler",
+                "C": "Fillippo Marinetti",
+                "D": "Liubov Popova",
+                "E": "Lazar Markovich Lissitzki"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Görsel verileri en basit haline indirgeyen çizelgeye veya grafiğe ne ad verilir?",
+            "options": {
+                "A": "Telegram",
+                "B": "Diagram",
+                "C": "İsogram",
+                "D": "Monogram",
+                "E": "Piktogram"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Genellikle tanıtım ve duyuru amaçlı yapılan resimli ve yazılı duvar ilanlarına ne ad verilir?",
+            "options": {
+                "A": "Font ailesi",
+                "B": "Font",
+                "C": "Tipografi",
+                "D": "Afiş",
+                "E": "Fotoğraf"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi Uluslararası Tipografik Stil’in tasarım prensiplerinden biri değildir?",
+            "options": {
+                "A": "Evrensel, bütünlük",
+                "B": "Süslemeler",
+                "C": "Düzen",
+                "D": "Netlik",
+                "E": "Geometrik soyutlama"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi Psychedelic sanatın görsel anlamda tanımlanmasında öne çıkan sanatçılardan biri değildir?",
+            "options": {
+                "A": "Rick Griffin",
+                "B": "Wes Wilson",
+                "C": "Andy Warhol",
+                "D": "Stanley Mouse",
+                "E": "Victor Moscoso"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Oransal kırılma özelliği gösteren karmaşık geometrik şekillere ne ad verilir?",
+            "options": {
+                "A": "Floral",
+                "B": "Kaleidoskop",
+                "C": "Optik",
+                "D": "Fraktal",
+                "E": "Postmodern"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Wes Wilson tarafından yapılan aşağıdaki savaş karşıtı afişlerden hangisi baskın renkleri, politik mesajı ve farklı estetik düzenlemesi ile dikkat çekmiştir?",
+            "options": {
+                "A": "Skeleton and Roses",
+                "B": "Are we Next? Be Aware",
+                "C": "In Utero",
+                "D": "Pop Goes Poster",
+                "E": "Family Dog"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi yazı karakteri formatlarından biridir?",
+            "options": {
+                "A": "RTF",
+                "B": "BTF",
+                "C": "TTF",
+                "D": "CTF",
+                "E": "STF"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi Psychedelic sanata ait özelliklerden biridir?",
+            "options": {
+                "A": "Fraktal desenlerin kullanımı ve tekrar eden motifler",
+                "B": "Konularının gerçekçi temalar içermesi",
+                "C": "Sadece siyah ve beyaz renklerin kullanılması",
+                "D": "İmgelerin net bir biçimde algılanır olması",
+                "E": "Tasarım yüzeyinin tam olarak doldurulmaması"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Gazete, dergi, kitap gibi yayınlardaki sayfa düzenine ne ad verilir?",
+            "options": {
+                "B": "İnternet",
+                "C": "Modem",
+                "D": "Arayüz",
+                "E": "Mizanpaj",
+                "A": "Postscript"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi dijital ortamda yazı tasarlamak için üretilen programlardan biridir?",
+            "options": {
+                "A": "Aldus Pagemaker",
+                "B": "Macromedia Freehand",
+                "C": "Adobe Indesign",
+                "D": "Fontlab",
+                "E": "Adobe Photoshop"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Sayfa tasarımında, tasarıma yardımcı olması amacıyla kullanılan hayali çizgilere ne ad verilir?",
+            "options": {
+                "A": "Katman",
+                "B": "Izgara",
+                "C": "Metin",
+                "D": "Çerçeve",
+                "E": "Sayfa no"
+            },
+            "correctAnswer": "B"
+        }
+    ],
     "summerExam": []
 }

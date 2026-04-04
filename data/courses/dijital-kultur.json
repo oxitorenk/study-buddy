@@ -442,6 +442,216 @@
             "correctAnswer": "A"
         }
     ],
-    "finalExam": [],
+    "finalExam": [
+        {
+            "questionText": "İnternet ve dijital iletişim teknolojileri sayesinde bireylerin ve grupların dijital bilgi ağları etrafında örgütlendiği yeni toplumsal yaşamı betimlemek için kullanılan kavram aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Homofili",
+                "B": "Tüketim toplumu",
+                "C": "Kamusal alan",
+                "D": "Kitle toplumu",
+                "E": "Ağ toplumu"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "“Sosyal değişimin merkezinde medya teknolojileri vardır.” düşüncesi aşağıdaki hangi kuramsal yaklaşım kapsamında yer alır?",
+            "options": {
+                "A": "Semiyoloji",
+                "B": "Teknolojik determinizm",
+                "C": "Ağ teorisi",
+                "D": "Kültürel konstrüktivizm",
+                "E": "Yapısalcılık"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "World Wide Web (WWW) standartlarını geliştirerek internetin kitlesel bir iletişim ortamına dönüşmesinin temellerini atan bilim insanı aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Marshall McLuhan",
+                "B": "Elon Musk",
+                "C": "Tim Berners - Lee",
+                "D": "Bill Gates",
+                "E": "Donald Davies"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Bir makinenin düşünüp düşünemeyeceği konusundaki tartışmalar hangi icattan sonra başlamıştır?",
+            "options": {
+                "A": "Leibniz’in Kademeli Hesaplayıcısı",
+                "B": "Babbage’ın Analiz Motoru",
+                "C": "El Cezeri’nin Fil Saati",
+                "D": "Kempelen’in Mekanik Türk’ü",
+                "E": "Antikythera Mekanizması"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Bilgisayarların birbiriyle konuşmasını sağlayan ARPANET teknolojisiyle oluşan ilk ağdan sonra farklı ağların birbirine bağlanmasını sağlayan teknoloji aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "TCP/IP",
+                "B": "HTTP",
+                "C": "HTML",
+                "D": "WWW",
+                "E": "FTP"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Sanal ve gerçek nesnelerin bir araya geldiği dijital uzam and fiziki uzam arasında melez bir ortam oluşturulması sürecidir. Kamera entegre edilmiş akıllı telefonların ve tabletlerin yaygınlaşması, bu uygulamaların yaygınlaşması sonucunu doğurmuştur.",
+            "options": {
+                "A": "Artırılmış gerçeklik",
+                "B": "Sanal gerçeklik",
+                "C": "Platformizasyon",
+                "D": "Mobil oyun",
+                "E": "Sihirli çember"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Aşağıdaki eserlerden hangisi Walter Benjamin’in ortaya koyduğu özgürleşen sanat eseri kavramına örnek olarak gösterilebilir?",
+            "options": {
+                "A": "Art Nouveau",
+                "B": "Mona Lisa",
+                "C": "Baskı resim",
+                "D": "Heykel sanatı",
+                "E": "Van Gogh Alive sergisi"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Richard Bartle, çok-oyunculu dijital oyunlar üzerine yaptığı çalışmalarda hâkim dört oyuncu tipinin bulunduğunu öne sürer. Bu tipler içinde oyun uzamına odaklanan oyuncular aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Sosyalleşenler",
+                "B": "Başaranlar",
+                "C": "Katiller",
+                "D": "Kaşifler",
+                "E": "Gündelik oyuncular"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Celia Pearce (2009) dijital kültürün en baskın kültürel formu olarak dijital oyunları, 21. yüzyılın ------- ortamı olarak nitelendirir.",
+            "options": {
+                "A": "dijital",
+                "B": "İletişim",
+                "C": "kültür",
+                "D": "geçici",
+                "E": "etkileşim"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "“Yeni medya ile başlayan dijital kültür çağında, sanat nesnesi; roman, şiir gibi edebiyat formlarından, performansa, oyuna kadar geleneksel konsept ve kategoriler -------.”",
+            "options": {
+                "A": "yok olmaktadırlar",
+                "B": "etkileşimli olmuşlardır",
+                "C": "yeniden tanımlanmaktadır",
+                "D": "yerlerini yeni sanata bırakmışlardır",
+                "E": "yenileriyle tanımlanırlar"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Aşağıdaki kuramcılardan hangisi 1980’lerde “ev merkezli” toplum ve “eve elektronik iş verme” olgusunu gündeme getirmiştir?",
+            "options": {
+                "A": "Walter Benjamin",
+                "B": "Umberto Eco",
+                "C": "Marshal McLuhan",
+                "D": "Manuel Castells",
+                "E": "Alvin Toffler"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Aşağıdaki oyunlardan hangisi 1971’de Stanford Üniversitesi kampüsüne yerleştirilen ilk dijital oyun makinesinin temellerini oluşturmuştur?",
+            "options": {
+                "A": "Solitaire",
+                "B": "Dama",
+                "C": "Spacewar!",
+                "D": "Tennis for two",
+                "E": "Pong"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Leonardo da Vinci tasarladığı, oturup, kalkabilen ve kafasını oynatabilen robotik şövalye konusunda aşağıdakilerden hangisinden ilham almıştır?",
+            "options": {
+                "A": "El Cezeri",
+                "B": "Electro",
+                "C": "Galatea",
+                "D": "Çapek",
+                "E": "Golem"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Birbirinden bağımsız isim bildiren, kod ve numara ile gösterilebilen, sınıflara ayrılan veri olarak tanımlanan veri türü aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Sıralanabilen nitel veri",
+                "B": "Sınıflanabilen nitel veri",
+                "C": "Yapılandırılmamış veriler",
+                "D": "Kesikli nicel veri",
+                "E": "Sürekli nicel veri"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Ağ analizini kolaylaştıran önemli yeniliklerden biri, ilişkisel verileri görselleştirmek için tasarlanmış yazılımların ortaya çıkışıdır. Aşağıdakilerden hangisi bu yazılımlara örnek olarak gösterilebilir?",
+            "options": {
+                "A": "Topic modelling",
+                "B": "SAA",
+                "C": "Moreno",
+                "D": "Ecxel",
+                "E": "Graph Commons"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "1960’ların ortalarında Yapay Zeka alanındaki en dikkat çeken olay Newell ve Simon’un insani problem çözme metotlarını bilgisayar kullanarak simule etmeye yarayan çok amaçlı programı aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Enigma",
+                "B": "Deep Blue",
+                "C": "Genel Problem Çözücü",
+                "D": "ELIZA",
+                "E": "First-Order Logic"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi yapılandırılmış verilerin özelliklerinden biridir?",
+            "options": {
+                "A": "Bir lokasyonda ya da alanda depolanmış veya dosyalanmış olmaları",
+                "B": "Bir sistem ya da düzen içerisinde tanımlanmış olmaları",
+                "C": "Genellikle nitel olarak tanımlanan, özelliğe veya forma dayalı veriler olmaları",
+                "D": "Daha çok depolama alanı gerektirmeleri",
+                "E": "Doğası gereği aranması daha zor veriler olması ve anlaşılabilir hâle gelmesi için işlenmesinin gerekmesi"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Isaac Asimov robotları konu eden bir dizi hikaye yazmış ve bunları I Robot adıyla 1950’de yayımlamıştır. Bu hikayelerdeki en önemli ve paylaşılan şey üç robot kuralıdır. 1985'te bu üç kurala sonradan eklenen zeroth kuralı aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Bir robot insanlığı incitemez ya da hiçbir şey yapmayarak zarar gelmesine izin veremez.",
+                "B": "Daha üst bir kuralı ihlal etmedikçe robotlar insanların verdikleri emirleri yerine getirmek zorundadır.",
+                "C": "Bu kural daha üst bir kuralı ihlal etmedikçe hiçbir robot hareketsiz kalarak bir insanın zarar görmesine izin veremez.",
+                "D": "Bu kural daha üst bir kuralı ihlal etmedikçe hiçbir robot bir insana zarar veremez.",
+                "E": "Daha üst bir kural ile çelişmedikçe bir robot kendi varlığını korumak zorundadır."
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Aşağıdaki robot karakterlerden hangisi insansal özellikleri yönüyle diğerlerinden ayrılır?",
+            "options": {
+                "A": "Replikantlar",
+                "B": "İnsansılar",
+                "C": "Frankenstein",
+                "D": "C3PO",
+                "E": "Cylonlar"
+            },
+            "correctAnswer": "D"
+        }
+    ],
     "summerExam": []
 }
