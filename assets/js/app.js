@@ -304,6 +304,7 @@ function showResults() {
             <p class="secondary-text" style="margin-bottom: 40px;">${total} soruda ${score} doğru cevap.</p>
             
             <button class="ios-btn-secondary" id="view-wrong" style="${score === total ? 'display:none' : ''}">Yanlışlarımı Gör</button>
+            <button class="ios-btn-secondary" id="back-to-courses-btn" style="margin-bottom: 12px;">Derslere Dön</button>
             <button class="ios-btn-primary" id="finish-quiz">Ana Menüye Dön</button>
         </div>
     `;
@@ -312,6 +313,12 @@ function showResults() {
         tap();
         _state.quiz.active = false;
         renderDepartmentSelection();
+    };
+
+    document.getElementById('back-to-courses-btn').onclick = () => {
+        tap();
+        _state.quiz.active = false;
+        renderCourseSelection();
     };
 
     const viewWrongBtn = document.getElementById('view-wrong');
