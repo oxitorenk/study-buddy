@@ -2,6 +2,7 @@ let _state = {
     version: "1.0.0",
     theme: 'dark',
     database: null,
+    currentCourseData: null,
     currentSelection: {
         department: null,
         course: null,
@@ -181,13 +182,28 @@ function shuffleArray(array) {
     return array;
 }
 
-function startQuiz() {
+async function startQuiz() {
     const course = _state.currentSelection.course;
     const type = _state.currentSelection.examType;
-    let pool = course[type] || [];
+
+    // Show loading state if needed
+    ui.container.innerHTML = '<div class="fade-in" style="padding: 20px; text-align: center;"><p class="body-text">Sorular yükleniyor...</p></div>';
+
+    try {
+        const response = await fetch(`data/courses/${course.id}.json`);
+        _state.currentCourseData = await response.json();
+    } catch (error) {
+        console.error("Failed to load course questions:", error);
+        alert("Sorular yüklenirken hata oluştu!");
+        renderExamTypeSelection();
+        return;
+    }
+
+    let pool = _state.currentCourseData[type] || [];
 
     if (pool.length === 0) {
         alert("Bu kategori için soru bulunamadı!");
+        renderExamTypeSelection();
         return;
     }
 

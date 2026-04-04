@@ -1,0 +1,535 @@
+{
+    "courseName": "Optik Bakış",
+    "semiExam": [
+        {
+            "questionText": "Hareket eden ışığa verilen terimsel ad aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Geçirgenlik",
+                "B": "Zaman",
+                "C": "Kırılma",
+                "D": "Işın",
+                "E": "Yansıma"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Dış bükey bir mercekte, görüntünün net olarak oluştuğu yer aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Odak düzlemi dışında",
+                "B": "Merceğin yüzeyinde",
+                "C": "Merceğin içinde",
+                "D": "Odak ötesinde",
+                "E": "Odak noktasında"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Düzgün yansıma ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": {
+                "A": "Gelen ışık açısının yansıyan ışık açısına eşit olması durumudur.",
+                "B": "Birbirine paralel olarak gelen ışık demetinin, yüzeyden paralel olarak yansımasıdır.",
+                "C": "Birbirine paralel olarak gelen ışık demetinin, yüzeyden gelişigüzel yansımasıdır.",
+                "D": "Yansıma olayında ışığın hızının sabit kalmasıdır.",
+                "E": "Parlak ve yansıtıcı bir yüzeye dik açı ile çizilen bir çizgidir."
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Işığın boşluktaki hızıyla, şeffaf bir ortamdaki hızı arasındaki oranı gösteren sayı aşağıdaki terimlerden hangisi ile adlandırılır?",
+            "options": {
+                "A": "İndis",
+                "B": "Çarpan",
+                "C": "Katman",
+                "D": "Momentum",
+                "E": "Emilim"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Merceklerle ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "options": {
+                "A": "Mercekler, içinden geçen ışığın yönünü değiştiren maddelerdir.",
+                "B": "Tek bir mercekle elde edilen görüntü birçok hatayı içerir.",
+                "C": "Tek bir mercekle elde edilen görüntü hatasız oluşur.",
+                "D": "Tek bir mercek kullanarak net ve keskin bir görüntü elde etmek çok güçtür.",
+                "E": "Kırılma olayı sonucunda ışığı toplamaya ya da dağıtmaya yarayan saydam nesnelere mercek denir."
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Işık geçirgenliği göz önünde alındığında aşağıdakilerden hangisi saydam bir maddedir?",
+            "options": {
+                "A": "Buzlu cam",
+                "B": "Beton",
+                "C": "Toprak",
+                "D": "Su",
+                "E": "Yağlı kağıt"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Geniş açılı objektiflerin, nesnelerin ve insanların kameraya doğru yaklaşma ya da uzaklaşma hareketinin hızını algılayış biçimi aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Daha hızlı",
+                "B": "Normal hızda",
+                "C": "Daha yavaş",
+                "D": "İki kat yavaş",
+                "E": "Çok yavaş"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Işık yayılırken, daha yoğun bir ortamla karşılaştığında yansımayan ışık ışınlarının bu yüzey üzerinde uğradığı işleme ne ad verilir?",
+            "options": {
+                "A": "Işığın dalgalanması",
+                "B": "Işığın emilmesi",
+                "C": "Işığın yansıması",
+                "D": "Işığın renklenmesi",
+                "E": "Işığın kırılması"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Küçük nesneleri çok yakından çekmek isteyen bir kameraman objektif üzerinde yer alan aşağıdaki düzeneklerden hangisini kullanmalıdır?",
+            "options": {
+                "A": "Parasoley",
+                "B": "Makro bileziği",
+                "C": "Açık diyafram",
+                "D": "2x konvektör",
+                "E": "Tele objektif"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Diyaframın görevi aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Işığı miktar açısından kontrol etmek",
+                "B": "Hareketli nesne çekimlerinde sarsıntıyı önlemek",
+                "C": "Algılayıcının duyarlığını artırmak",
+                "D": "Objektifin odak uzunluğunu değiştirmek",
+                "E": "Algılayıcının çarpan etmenini sabit tutmak"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "93 x 118 mm görüntü boyutu olan büyük boyut 4x5 film için normal objektif odak uzunluğu aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "30 mm",
+                "B": "80 mm",
+                "C": "90 mm",
+                "D": "120 mm",
+                "E": "150 mm"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Objektifin sınırlılığı açısından nesneye yeterince yaklaşamayan bir kameramanın aşağıdaki düzeneklerden hangisini kullanması gerekir?",
+            "options": {
+                "A": "Titreme önleyici (stabilizer)",
+                "B": "Telemetre yükseltici",
+                "C": "Odak uzaklık arttırıcı",
+                "D": "En yakın netleme düzeneği",
+                "E": "Makro düzeneği"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Yetersiz görüntü alanı sorununun daha fazla yaşanmasına aşağıdakilerden hangisi neden olur?",
+            "options": {
+                "A": "Tam çerçeve DSRL",
+                "B": "Küçük boyutlu (APS-C) algılayıcılar",
+                "C": "Büyük boyutlu algılayıcılar",
+                "D": "Orta boyutlu algılayıcılar",
+                "E": "Kırpma faktörü"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Bir mm alan içerisinde görüntülenebilen çizgi sayısı aşağıdakilerden hangisini tanımlamak için kullanılır?",
+            "options": {
+                "A": "Milimetreye düşen piksel sayısını",
+                "B": "Baskı keskinliğini",
+                "C": "Görüntü çözünürlüğünü",
+                "D": "Objektif keskinliğini",
+                "E": "Milimetreye düşen nokta sayısını"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Hayvanları doğal yaşamı içinde görüntülemek istenildiğinde aşağıdaki objektiflerden hangisi kullanılmalıdır?",
+            "options": {
+                "A": "Sabit Odak Uzaklıklı Objektifler",
+                "B": "Değişebilir Odak Uzaklıklı Objektifler",
+                "C": "Dar Açılı Objektifler",
+                "D": "Normal Bakış Açılı Objektifler",
+                "E": "Geniş Bakış Açılı Objektifler"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Fotoğraf makinesinin sarsıntıyı algılamaması için ------- tercih edilmesi gereklidir.",
+            "options": {
+                "A": "geniş diyafram açıklığının",
+                "B": "normal odak uzaklıklı objektiflerin",
+                "C": "ray sisteminin",
+                "D": "yakın çekim mesafesinin",
+                "E": "yüksek örtücü hızların"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Kameralar normal odak uzaklıklı objektiflerle çekim yaptıklarında, görüntüledikleri alanda oluşan hareket izleyiciyi rahatsız etmeyecek ölçüde yavaş algılanır. Yukarıda anlatılan durumda gerçekleştirilen çekim şekli aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Ray sistemi kullanılan çekimler",
+                "B": "Havadan yapılan çekimler",
+                "C": "Doğada yapılan çekimler",
+                "D": "Hareket halinde yapılan çekimler",
+                "E": "Tek kareden oluşan çekimler"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Fotoğraf ya da video çekerken uzakta yer alan nesnelerin küçük, daha yakındakilerin büyük görünmesi aşağıdaki olgulardan hangisi ile açıklanır?",
+            "options": {
+                "A": "Bükülme",
+                "B": "Yığılma",
+                "C": "Belirsizlik",
+                "D": "Perspektif",
+                "E": "Optik kaçış"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi sabit normal odak uzaklıklı objektifin özelliklerinden biri değildir?",
+            "options": {
+                "A": "Kullanılan diyafram değerine bağlı olarak alan derinliğini fazlaca azaltması",
+                "B": "Yakın planlarda netlik sağlayabilmesi",
+                "C": "Perspektif algısının normal değerlerin dışına çıkabilmesi",
+                "D": "Aralıklı nesnelerde oransal farklılıkları koruması",
+                "E": "Açık diyafram değerlerine sahip olabilmesi"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Yüksek derecede keskin görüntüler ve en az optik bozunuma sahip objektif türü aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Dar açılı (Tele) objektifler",
+                "B": "Değişken odaklı (Zoom) objektifler",
+                "C": "Geniş açılı objektifler",
+                "D": "Balık gözü objektifler",
+                "E": "Sabit odak uzaklıklı objektifler"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Objektiflerin birden çok sayıda mercekten oluşmasının nedeni aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Tek bir mercekle net görüntü elde edilebilmesi",
+                "B": "Tek bir merceğin görüntü oluşturamaması",
+                "C": "Tek bir merceğin yüksek ısı ortaya çıkarması",
+                "D": "Tek bir merceğin ışığı daha fazla yansıtması",
+                "E": "Tek bir mercekle elde edilen görüntünün birçok hatayı içermesi"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Astigmatik mercek hatasının nedeni aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Düşey ve eğri gelen ışınların aynı noktada buluşmamaları",
+                "B": "Merceğin renk sapmalarına karşı duyarsız olması",
+                "C": "Düşen ışınların odak düzlemi ötesinde buluşmaları",
+                "D": "Işınların farklı dalga boylarının girişime yol açmaları",
+                "E": "Işık ışınlarının yalnızca duyarlı yüzey üzerinde toplanmaları"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Nesne merceğe yaklaştığında görüntüde oluşan değişiklik aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Kırılır",
+                "B": "Yamulur",
+                "C": "Uzar",
+                "D": "Küçülür",
+                "E": "Büyür"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Diyafram skalasında işaretlenmiş ilk değer yani ilk f stop değeri, o objektifin -------------- belirler.",
+            "options": {
+                "A": "bağıntılı açıklığını",
+                "B": "yararlı açıklığını",
+                "C": "odak uzunluğunu",
+                "D": "görüntü algılayıcısının büyüklüğünü",
+                "E": "ISO değerini"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Işık ışınlarının dağılmasına yol açan mercek türü aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "İnce kenarlı mercekler",
+                "B": "Ara mercekler",
+                "C": "İç bükey mercekler",
+                "D": "Paralaks mercekler",
+                "E": "Pozitif mercekler"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi objektifin gövdesi üzerinde yer alan bileziklerden biri değildir?",
+            "options": {
+                "A": "Makro",
+                "B": "Parasoley",
+                "C": "Diyafram",
+                "D": "Zoom",
+                "E": "Netlik"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Sabit odak uzunluklu standart objektiflerin ortak adı aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Az elemanlı objektif",
+                "B": "Asal objektif",
+                "C": "Değiştirilebilir objektif",
+                "D": "Tak - gez objektif",
+                "E": "Hızlı objektif"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Objektifin bakış açısı, objektifin göreceği ya da içine alacağı ----- alan genişliğidir.",
+            "options": {
+                "A": "geniş",
+                "B": "normal",
+                "C": "yatay",
+                "D": "diagonal",
+                "E": "dikey"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Belgesel nitelikli fotoğraf ve video çekimlerinde normal odak uzaklıklı objektiflerin tercih edilmesinin nedeni aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Yeterince açık diyafram kazanabilmek",
+                "B": "İnsan gözüne yakın perspektif elde etmek",
+                "C": "Yakın nesnelerin çekiminde netliği sağlamak",
+                "D": "Mümkün olan en geniş çerçevelemeyi sağlamak",
+                "E": "Objektif değiştirmeye gerek duymamak"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Normal odak uzaklıklı objektiflerle çalışırken geniş olmayan bir açıyla görüntüleme yapılmaktadır. Bakış açısının yeterli olmadığı durumlarda fotoğrafçının yapması gereken hareket aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Fotoğraf çekmekten vazgeçebilir",
+                "B": "Video çekebilir",
+                "C": "Diyafram açabilir",
+                "D": "Geriye doğru hareketle açısını genişletebilir",
+                "E": "Enstantene değerini azaltarak uzun pozlama yapabilir"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi normal odak uzunluklu objektiflerin oluşturabileceği eksikliklerden biridir?",
+            "options": {
+                "A": "Belgesel çekimlerde insanlar üzerinde ürküntü yaratmaları",
+                "B": "Yakın çekimlerde bükülmeye yol açmaları",
+                "C": "Dar mekanlarda yeterli açı verememeleri",
+                "D": "Açık diyafram nedeniyle fazla pozlamaya yol açmaları",
+                "E": "Nesneler arasındaki gerçek boyut algısını bozmaları"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Aşağıdaki odak uzunluğu değerlerinin hangisiyle yapılan çekimde yığılma etkisi en belirgin olur?",
+            "options": {
+                "A": "18 mm",
+                "B": "18 - 55 mm",
+                "C": "50 mm",
+                "D": "70 -135 mm",
+                "E": "180 mm"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Ayıklama özelliği diğerlerine göre daha az olan objektif türü aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Uzun odak uzaklıklı zoom objektifler",
+                "B": "Kısa odak uzaklıklı",
+                "C": "Normal odak uzaklıklı",
+                "D": "Uzun odak uzaklıklı",
+                "E": "Tele objektifler"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisinin değişmesi halinde görüntüdeki nesnenin boyutu da oransal olarak değişir?",
+            "options": {
+                "A": "Işığın",
+                "B": "Renk ısısının",
+                "C": "Diyaframın",
+                "D": "Objektifin odak uzaklığının",
+                "E": "ASA değerinin"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "İç bükey mercekler gerçek görüntü oluşturmadıkları için bu merceklere ne ad verilir?",
+            "options": {
+                "A": "İnce kenarlı",
+                "B": "Netsiz",
+                "C": "Pozitif",
+                "D": "Negatif",
+                "E": "Yakınsak"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi fotoğrafta ve sinemada filmin yerleştirildiği yerdir?",
+            "options": {
+                "A": "Odak düzlemi",
+                "B": "Optik merkez",
+                "C": "Odak noktası",
+                "D": "Optik eksen",
+                "E": "Odak uzaklığı"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Merceğin yapısı küresel olduğundan merceğe gelen ışık ışınlarının merceğin merkezine yakın olanlarıyla uzak olanların kırılmaları farklı olur. Bu da görüntü düzeyinde oluşan görüntünün seçikliğini bozar. Bu bozulma türü aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Görüntünün kavisli olmasından doğan hatalar",
+                "B": "Renklerin bozulması",
+                "C": "Küresel bozulma",
+                "D": "Görüntünün bükülmesi",
+                "E": "Astigmatik hata"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi yansımanın belirleyici özelliğidir?",
+            "options": {
+                "A": "Yüzey üzerinde kalıcı olmamasıdır.",
+                "B": "Yüzey üzerinde hızlı olmasıdır.",
+                "C": "Yüzeyin kalınlığına göre değişiklik göstermesidir.",
+                "D": "Yüzeyin renginin koyu olmasıdır.",
+                "E": "Yüzey üzerinde bir süre kalıp yok olmasıdır."
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi objektif üzerinde bulunan temel düzeneklerden biri değildir?",
+            "options": {
+                "A": "Netlik bileziği",
+                "B": "Zoom bileziği",
+                "C": "Diyafram bileziği",
+                "D": "Makro bileziği",
+                "E": "Vizör bileziği"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Zoom objektiflerin en yakın netlik sınırı kaç cm. arasıdır?",
+            "options": {
+                "A": "10 - 15 cm",
+                "B": "25 - 30 cm",
+                "C": "35 - 40 cm",
+                "D": "50 - 55 cm",
+                "E": "60 - 100 cm"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi büyüdükçe hiperfokal uzaklık küçülür?",
+            "options": {
+                "A": "ISO değeri",
+                "B": "Nesnenin boyutu",
+                "C": "Hareketli konunun hızı",
+                "D": "Bulanıklık halkası",
+                "E": "Perspektif yığılma"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Birbiri üstüne binmiş etkisi veren objektif türü aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Değişebilir Odak Uzaklıklı Objektifler",
+                "B": "Dar Bakış Açılı Objektifler",
+                "C": "Normal Bakış Açılı Objektifler",
+                "D": "Geniş Bakış Açılı Objektifler",
+                "E": "Sabit Odak Uzaklıklı Objektifler"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Kameranın yerini değiştirmeden nesnelere ya da kişilere yaklaşmayı ya da uzaklaşmayı sağlayan objektif türü aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Zoom objektifler",
+                "B": "Balıkgözü objektifler",
+                "C": "Makro objektifler",
+                "D": "Tele objektifler",
+                "E": "Dar açılı objektifler"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Aşağıdaki objektiflerden hangisi nesne hareketinin görüntülenmesinin yanı sıra görüntüyü “sıra dışılık” etkisinden çıkarmak amacıyla tercih edilir?",
+            "options": {
+                "A": "Uzun odak uzaklıklı objektifler",
+                "B": "70mm-200mm değişebilir odak uzunluklu objektifler",
+                "C": "Normal odak uzaklıklı objektifler",
+                "D": "100mm görüş açısına sahip objektifler",
+                "E": "Kısa odak uzaklıklı objektifler"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Genel bir görüntünün içinden seçim yapmak, istenmeyen nesneleri görüntü alanının dışında bırakmak, için yapılan işleme ne ad verilir?",
+            "options": {
+                "A": "Odak uzaklığı",
+                "B": "Net alan derinliği",
+                "C": "Ayıklama",
+                "D": "Bokeh etkisi",
+                "E": "Perspektif"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Net alan derinliğini çok azaltabilen objektiflerle çekilen fotoğraflarda özellikle zemini oluşturan arka planlarda önemli ölçüde oluşturulan netsizliğe fotoğraf dilinde ne ad verilir?",
+            "options": {
+                "A": "Vignette",
+                "B": "Bokeh etkisi",
+                "C": "Blurlaşma",
+                "D": "Fluluk",
+                "E": "Duyarlık"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Çekim yapılan mekanın gerçek fiziki ve duygusal etkisinin bire bir aktarılması gerektiğinde aşağıdaki hangi odak uzaklıklarından hangisi tercih edilmelidir?",
+            "options": {
+                "A": "Geniş",
+                "B": "Dar",
+                "C": "Uzun",
+                "D": "Normal",
+                "E": "Kısa"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Belgesel çalışmalarda birçok fotoğrafçının normal ve normale yakın odak uzaklıklı objektifler kullanmayı tercih etmesinin temel nedeni aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Taşıma kolaylığı",
+                "B": "Fiyatının uygun olması",
+                "C": "Kaliteli optik sistemine sahip olması",
+                "D": "Görüntülenen ile görüntüleyen etkileşimine daha çok yol açması",
+                "E": "Görüntülenen konuyu en doğal haliyle yansıtması"
+            },
+            "correctAnswer": "E"
+        }
+    ],
+    "finalExam": [],
+    "summerExam": []
+}

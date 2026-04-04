@@ -1,0 +1,480 @@
+{
+    "courseName": "Görsel Kültür",
+    "semiExam": [
+        {
+            "questionText": "Aşağıdaki yapılardan hangisi endüstriyel mimari örneklerinden biridir?",
+            "options": {
+                "A": "San Pietro Meydanı",
+                "B": "Karlskirche",
+                "C": "Eiffel Kulesi",
+                "D": "La Ratunda Villa Carpa",
+                "E": "Tac Mahal"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Floransa’nın varlıklı ortamının konut mimarisine olan ilgiyi artırması ile şehir evi anlamına gelen “palazzo” kavramının ortaya çıktığı dönem aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Gotik",
+                "B": "Rönesans",
+                "C": "Barok",
+                "D": "Mısır",
+                "E": "Minos"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Dolmenlerin üstü toprakla örtüldüğünde ortaya çıkan tepeciklere ne ad verilir?",
+            "options": {
+                "A": "Tümülüs",
+                "B": "Mağara",
+                "C": "Tepe",
+                "D": "Annar",
+                "E": "Topak"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi Gotik mimarinin önemli örneklerinden biridir?",
+            "options": {
+                "A": "Parthenon",
+                "B": "Ayasofya",
+                "C": "Notre Dame de Paris",
+                "D": "San Pietro",
+                "E": "Villa Barbaro"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Yedi Roma tanrısına adanmış, halen dünyanın en büyük donatısız beton kubbesi olan ve her yıl binlerce konuğunu ağırlayan yapı aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Parthenon",
+                "B": "Panteon",
+                "C": "Ayasofya",
+                "D": "Aziz Petrus Bazilikası",
+                "E": "Collesseum"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Bilinen ilk doğrusal perspektif çizimini yapan ve serbest perspektifin de öncüsü olan kişi aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Palladio",
+                "B": "Leonardo Da Vinci",
+                "C": "Alberti",
+                "D": "Michelangelo",
+                "E": "Brunelleschi"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Jan van Eyck aşağıdaki tekniklerden hangisinin büyük ustalarından biridir?",
+            "options": {
+                "A": "Fresko",
+                "B": "Yağlı boya",
+                "C": "Mozaik",
+                "D": "Sulu boya",
+                "E": "Tempera"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "------- sanatta karanlık ve aydınlığın oluşturduğu zıtlık için kullanılan bir terimdir. Boşluğu hangisi tamamlar?",
+            "options": {
+                "A": "Tempera",
+                "B": "Modle",
+                "C": "Sfumato",
+                "D": "Chiaroscuro",
+                "E": "İkona"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Traianus Sütunu aşağıdakilerden hangisini anlatır?",
+            "options": {
+                "A": "Traianus’un Dacia’da (bugünkü Romanya da) yaptığı savaşları",
+                "B": "Yunan ve Roma dostluğu ile ilgili konuları",
+                "C": "Kanunlar ve uygulama alanlarıyla ilgili konuları",
+                "D": "Dini konuları",
+                "E": "Okuma, ulaşım gibi gündelik konuları"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Genellikle mimaride, cami, köşk, saray ve benzeri yapıların iç ve dış süslemelerinde kullanılan seramik tekniğine ne ad verilir?",
+            "options": {
+                "A": "Rölyef",
+                "B": "Ahşap",
+                "C": "Kakma",
+                "D": "Çini",
+                "E": "Fresko"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "XVI. yüzyıl başlarında “Gerçeküstüçülük” akımına yakın eserler veren sanatçı aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Michelangelo",
+                "B": "El Greco",
+                "C": "Albert Dürer",
+                "D": "Leonardo da Vinci",
+                "E": "Hieronymus Bosch"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Yunan sanatının ana teması aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Matematik",
+                "B": "Geometri",
+                "C": "Atlar ve binicileri",
+                "D": "Mitoloji ve günlük yaşamdaki insan",
+                "E": "Mimari süsleme"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi romantizm ruhuna uygun eserler üretmiş sanatçılardan biridir?",
+            "options": {
+                "A": "Vaserelly",
+                "B": "Matisse",
+                "C": "Picasso",
+                "D": "Klee",
+                "E": "Turner"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "''Gerçeğin gerçek ressamı'' olarak anılan, Barok dönemin İspanyol asıllı ressamı aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Diego Velasquez",
+                "B": "John Constable",
+                "C": "Joan Miro",
+                "D": "Pablo Picasso",
+                "E": "Antoni Gaudi"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Antik çağ sanatlarından elimize ulaşanlar çoğunlukla mimari eserlerdir. Bunun sebebi resim sanatının binlerce yıllık süzgeçten geçerek elimize sağlıklı olarak ulaşamaması olabilir, ancak özellikle ------- Antik Çağ sanatlarında özel bir yeri vardır.",
+            "options": {
+                "A": "mimarlık sanatının",
+                "B": "heykel sanatının",
+                "C": "resim sanatının",
+                "D": "müzik sanatının",
+                "E": "yağlı boya sanatının"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "En önemli özelliği, tüpten çıkmış gibi çiğ ve bağıran renklerin doğrudan kullanımı olan sanat akımı aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Art Nouveau",
+                "B": "Dışavurumculuk",
+                "C": "Fovizm",
+                "D": "Dadaizm",
+                "E": "Oryantalizm"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Kübizm akımının temsilcisi İspanyol ressam aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Auguste Roden",
+                "B": "Paul Klee",
+                "C": "Jackson Pollock",
+                "D": "Pablo Picasso",
+                "E": "Gustav Klimt"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Barok dönem sanatı ruhunda aşağıdaki ögelerden hangisi görülür?",
+            "options": {
+                "A": "Abartı ve gösteriş",
+                "B": "Ticari ve ucuz bir anlayış",
+                "C": "Düzenli ve tekrara dayalı bir felsefe",
+                "D": "Minimalist anlayış",
+                "E": "Abartısız ve basit bir anlayış"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Aşağıdaki sanatçı ve sanat akım eşleştirmelerinden hangisi yanlıştır?",
+            "options": {
+                "A": "Futurizm - Gino Severini",
+                "B": "Pop Sanat - Roy Lichtenstein",
+                "C": "Gerçeküstüçülük - Salvador Dali",
+                "D": "Soyut Dışavurumculuk - Jackson Pollock",
+                "E": "Bauhaus - Andy Warhol"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "------- Devrim Hükümetinin resmi sanatçısıydı. Fransız Devrimi’nin öncülerinden olan Marat, genç bir kadın tarafından banyoda öldürülünce, sanatçı Marat’ın Ölümü adlı tablosunda resmetti.",
+            "options": {
+                "A": "Eugène Delacroix",
+                "B": "Francisco Goya",
+                "C": "Jaquees-Luis David",
+                "D": "Jan Vermeer",
+                "E": "Diego Velasquez"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Şehir plancısı Hippodamos ızgara tipi şehir planını ilk olarak aşağıdaki şehirlerden hangisinde uygulamıştır?",
+            "options": {
+                "A": "Atina",
+                "B": "Priene",
+                "C": "Efes",
+                "D": "Sparta",
+                "E": "Milet"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "İlk olarak 1925’teki Uluslararası Dekoratif Sanatlar ve Modern Sanayiler sergisinde isimlendirilen ve en çok Amerikan gökdelenlerinde örnekleri görülen sanat akımı aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Dekonstrüktivizm",
+                "B": "Postmodernizm",
+                "C": "Yeni Açılımlar",
+                "D": "Art Deco",
+                "E": "Rokoko"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Mimar Sinan'ın ustalık eseri olarak tanımladığı en büyük eseri aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Süleymaniye Cami",
+                "B": "Gökmedrese Cami",
+                "C": "Partenon",
+                "D": "Ayasofya Cami",
+                "E": "Selimiye Cami"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Önemli mimarlık ödüllerinden biri olan Pritzker’in verildiği ilk kadın mimar aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Kazuyo Sejima",
+                "B": "Zaha Hadid",
+                "C": "Shelley McNamara",
+                "D": "Carme Pigem",
+                "E": "Yvonne Farrell"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Nannar Ziguratı hangi uygarlığın eseridir?",
+            "options": {
+                "A": "Sümerler",
+                "B": "Hindistan",
+                "C": "Kore",
+                "D": "Japon",
+                "E": "Aztek"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Özellikle doğal taşların kullanıldığı küçük, birbirinden farklı, üç boyutlu parçaları bir yüzey üzerinde yan yana getirerek resim oluşturma tekniğine ve ortaya çıkan esere ne ad verilir?",
+            "options": {
+                "A": "Mozaik",
+                "B": "Fresko",
+                "C": "Yağlı Boya",
+                "D": "Bronz",
+                "E": "Çini Sanatı"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Babil Sanatının önemli örneklerinden, bu eşsiz yapıda 120 tane aslan figürü yer alır. Şaheser niteliğindeki bir parçası da Türkiye'de ''İstanbul Arkeoloji Müzesi'' koleksiyonlarında bulunmaktadır. Bu eser hangisidir?",
+            "options": {
+                "A": "Kourus",
+                "B": "Tutankamon",
+                "C": "Disk Atan Adam",
+                "D": "Tunç Arezzo Kimerası",
+                "E": "İsthar Kapısı"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Mısır heykeltraşlığı etkisi açıkça görülen, eski Yunan sanatında arkaik döneme özgü, ayakta duran genç erkek heykeline ne ad verilir?",
+            "options": {
+                "A": "Taurus",
+                "B": "Kouros",
+                "C": "Hermes",
+                "D": "Palladio",
+                "E": "Poseidon"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Paris Louvre müzesinde sergilenen, tarifi mümkün olmayan bir yüz ifadesi ile Leonardo’nun bir ”ruh nesnesi” olarak tanımladığı eser hangisidir?",
+            "options": {
+                "A": "Kouros",
+                "B": "Pieta",
+                "C": "Willendorf Venüsü",
+                "D": "Toledo Manzarası",
+                "E": "Mona Lisa"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Eski Mısır’da “Canlı Tutan” anlamına gelen “S-ankh” terimi aşağıdakiler için kullanılırdı?",
+            "options": {
+                "A": "Rahipler",
+                "B": "Müzisyenler",
+                "C": "Heykeltraşlar",
+                "D": "İşsizler",
+                "E": "Çiftçiler"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Yapıtlarında görsel bir devinimin egemen olduğu... Op Sanatı’nın en önemli temsilcilerinden biri olan Macar asıllı sanatçı hangisidir?",
+            "options": {
+                "A": "Victor Vasarely",
+                "B": "Gustav Klimt",
+                "C": "Auguste Roden",
+                "D": "Vincent Van Gogh",
+                "E": "Marcel Duchamp"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Işığın konu ile ilgili bir merkezi yoğunlaşmayla kullanıldığı ve figürlerin önem sırasına göre aydınlatıldığı ilginç bir örnek olan “Gece Devriyesi” tablosu hangi sanat akımına aittir?",
+            "options": {
+                "A": "Romantizm",
+                "B": "Realizm",
+                "C": "Barok",
+                "D": "İzlenimcilik",
+                "E": "Fovizm"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Jackson Pollock ve Franz Kline gibi önemli sanatçıların da temsilcileri olduğu ilk Amerikan sanat akımı hangisidir?",
+            "options": {
+                "A": "Futurizm",
+                "B": "Fovizm",
+                "C": "Empresyonizm",
+                "D": "Soyut Dışavurumculuk",
+                "E": "Gerçeküstüçülük"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Jean-François Millet’in en önemli temsilcilerinden biri olduğu ‘Gerçekçilik’ akımının tipik bir örneği olan eser hangisidir?",
+            "options": {
+                "A": "Deniz Savaşı",
+                "B": "Başak Toplayan Kadınlar",
+                "C": "Saman Arabası",
+                "D": "Nebelmeer Üzerinde bir Yürüyüşçü",
+                "E": "Günlerin Atası"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Diego Velázquez tarafından yapılmış olan, “Gizemler yüklü bir şahaser”... sol tarafta ressamı iş başında görülen ünlü tablo hangisidir?",
+            "options": {
+                "A": "“Nedimeler”, (Las Meminas)",
+                "B": "Tüccarlar",
+                "C": "Düşmanlar",
+                "D": "Gelinler",
+                "E": "Gemiciler"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Kuzeyin Mona Lisa’sı olarak da bilinen, Hollandalı ressam J. Vermeer’in ünlü eserinin adı hangisidir?",
+            "options": {
+                "A": "Azize Terese",
+                "B": "Las Meninas-Nedimeler",
+                "C": "İnci Küpeli Kız",
+                "D": "Marat’ın Ölümü",
+                "E": "Gece Devriyesi"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Kaburgalı tonozlar, uçan payandalar, sivri kemerler, üçlü portal ve gül pencereler hangi mimari tarzın tipik göstergeleridir?",
+            "options": {
+                "A": "Frig",
+                "B": "Barok",
+                "C": "Mısır",
+                "D": "Mezopotamya",
+                "E": "Gotik"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Megalit yapıların, üstünde bir plaka taşıyan taşlardan meydana getirilen mezar odalarına ne ad verilir?",
+            "options": {
+                "A": "Kromlek",
+                "B": "Mağara",
+                "C": "Dolmen",
+                "D": "Tepe",
+                "E": "Menhir"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Kutsal kayayı örtmek ve bir tavaf mekânı oluşturmak için sekizgen planlı olarak Emevi halifeliği zamanında inşa edilen ilk İslam anıtı hangisidir?",
+            "options": {
+                "A": "Mescid-i Aksa",
+                "B": "El Ezher Camii",
+                "C": "Kurtuba Camii",
+                "D": "Kubbetü’s Sahra",
+                "E": "Ümeyye Camii"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Bizans İmparatorluğu'nun IV. ve VIII. yüzyıllar arasında... en göze çarpan tarza sahip dinsel dinsel eserler hangileridir?",
+            "options": {
+                "A": "Bacalar",
+                "B": "İkonalar",
+                "C": "Çok katlı yapılar",
+                "D": "Modern kapılar",
+                "E": "Yüksek saat kuleleri"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "İtalyanca’da “yeni yapılmış” anlamına gelen... pigmentlerin sıvı ile karıştırılarak doğrudan dökülmüş yüzey üzerine uygulanışıyla yapılan resim tekniği hangisidir?",
+            "options": {
+                "A": "Kakma",
+                "B": "Mozaik",
+                "C": "Fresko",
+                "D": "Boyama",
+                "E": "Kaplama"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Ressam Delacroix’ın, Doğu kültüründeki gündelik yaşamı ortaya koyduğu ‘Cezayir’li Kadınlar’ tablosu hangi sanat yaklaşımına örnektir?",
+            "options": {
+                "A": "Modernizm",
+                "B": "Gotik",
+                "C": "Postmodernizm",
+                "D": "Sürrealizm",
+                "E": "Oryantalizm"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi Barok stilinde kullanılan doğru çizgilerden meydana getirilen süslemeye karşı tepki olarak doğmuş sanat akımıdır?",
+            "options": {
+                "A": "Barok",
+                "B": "Barocco",
+                "C": "Kübizm",
+                "D": "Rönesans",
+                "E": "Rokoko"
+            },
+            "correctAnswer": "E"
+        }
+    ],
+    "finalExam": [],
+    "summerExam": []
+}

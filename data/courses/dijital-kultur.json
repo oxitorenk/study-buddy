@@ -1,0 +1,447 @@
+{
+    "courseName": "Dijital Kültür",
+    "semiExam": [
+        {
+            "questionText": "Mathieu Tremblin'in bir stok imaj sitesinin filigranını boş duvarın üzerine tebeşirle çizerek yaptığı ve sonra fotoğrafını çekerek ürettiği Watermark (Filigran) isimli proje Yeni Estetik açısından nasıl yorumlanabilir?",
+            "options": {
+                "A": "Sayısal olan yapay zekânın, insan zekası ile boy ölçüşemeyeceği",
+                "B": "Sayısal dünya haricinde sanat yapıtından bahsedilemez olduğu",
+                "C": "Sayısal imgeleme tekniklerinin geleneksel yöntemlerden üstün olduğu",
+                "D": "Sayısal yöntemlerle üretilen sanatın gerilemekte olduğu",
+                "E": "Sayısal dünyanın fiziksel dünyaya sızdığı"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "İlk çevrimiçi topluluk aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Wikipedia",
+                "B": "WELL",
+                "C": "YouTube",
+                "D": "eBay",
+                "E": "BitTorrent"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi bir medya platformu değildir?",
+            "options": {
+                "A": "Tiktok",
+                "B": "Twitter",
+                "C": "Facebook",
+                "D": "Star Trek",
+                "E": "Tumblr"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "1968 yılında icat edilen ve ağırlığı sebebiyle 'Demokles'in Kılıcı' yakıştırması yapılan sistem, aşağıdaki terimlerden hangisinin ilk defa insanlar tarafından sayısal olarak deneyimlenmesini sağlamıştır?",
+            "options": {
+                "A": "Siber uzay",
+                "B": "Sanal gerçeklik",
+                "C": "Artırılmış gerçeklik",
+                "D": "Karma gerçeklik",
+                "E": "Fiziksel gerçeklik"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Kriptoparaların elektronik ortamda en büyük eksikliklerden olan güvenlik ve kopyalanma sorununu aşmasını sağlayan teknoloji aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Blokzincir",
+                "B": "Internet",
+                "C": "Ağ mimarisi",
+                "D": "Endüstri 4.0",
+                "E": "Merkezsizlik"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Bitcoin'in işlem şeffaflığı ve kullanıcı mahremiyeti arasındaki dengeyi korumak için kullandığı ve kırılması günümüz süper bilgisayarları tarafından bile on yıllar sürebilecek olan güvenlik standardı aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "SHA256",
+                "B": "FIPS 46",
+                "C": "SHA512",
+                "D": "ERC20",
+                "E": "SHA-1"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Bitcoin'i geliştirerek blokzincir ve kriptopara uygulamalarının popülerlik kazanmasını sağlayan ve kim(ler) olduğu tam olarak bilinmeyen kişi veya grup aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Hiro Nakamura",
+                "B": "Martti Malmi",
+                "C": "Vitalik Buterin",
+                "D": "Satoshi Nakamoto",
+                "E": "Tim Berners-Lee"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Sayısal ortamlar sayesinde insan hayatında ne gibi bir değişiklik ortaya çıkmıştır?",
+            "options": {
+                "A": "İnsanların birbirleri ile olan iletişimi azalmıştır.",
+                "B": "İnsanların zihinsel aktivitelerinde yavaşlama görülmüştür.",
+                "C": "İnsanların sportif aktivitelerine engel olmuştur.",
+                "D": "Sanat akımları ile insanlar sayısallaşmaya karşı durmaya başlamıştır.",
+                "E": "Günlük yapılan aktiviteler sayısal ortamlara taşınmıştır."
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Artırılmış gerçeklik ya da sanal gerçeklik uygulamalarıyla gerçek fiziki coğrafi mekân ve dijital mekânın iç içe geçtiği mekânlara ne ad verilir?",
+            "options": {
+                "A": "Melez/hibrit mekân",
+                "B": "Gerçek mekân",
+                "C": "Özel mekân",
+                "D": "Ortak mekân",
+                "E": "Kamusal mekân"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Bireylerin kendileriyle benzer yaş, cinsiyet, etnik köken, sosyoekonomik durum ve kişisel inançlar gibi tanımlayıcı özellikleri paylaşan diğer insanlarla güçlü sosyal bağlantılar kurma eğilimini ifade eden kavram aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Siber zorbalık",
+                "B": "Nefret söylemi",
+                "C": "Anonimlik",
+                "D": "Homofili",
+                "E": "Trollük"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "İnsanların, 2010'lu yıllardan itibaren giderek daha da akıllı hale gelen mobil cihazlar sayesinde internet üzerindeki içeriği sadece tüketmekle kalmayıp kendi içeriğini de kolayca üretebilir hale gelmesi ve kolaylıkla yayıncı olabilmesi hangi dönemi başlatmıştır?",
+            "options": {
+                "A": "Dijital çağ",
+                "B": "Endüstri 4.0",
+                "C": "Bilgi çağı",
+                "D": "Yeni medya",
+                "E": "Sosyal Ağ"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi internet üzerinde topluluk oluşturmada kullanılan mecralardan biri değildir?",
+            "options": {
+                "A": "Whatsapp",
+                "B": "Facebook",
+                "C": "Kıraathane",
+                "D": "İnternet forumları",
+                "E": "Telegram"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Dijital oyun yayıncılığının yayıncılara gelir kazandırdığı ilk büyük mecra aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Twitch",
+                "B": "Facebook",
+                "C": "Blogger",
+                "D": "Twitter",
+                "E": "Youtube"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Bazı çevrimiçi topluluklar ticari işlemlerde satıcıları ortadan kaldırıp alıcıları doğrudan tedarikçilere bağlayarak ____ gibi avantajlar da sağlar. Boşluğu hangisi tamamlar?",
+            "options": {
+                "A": "aktivizm",
+                "B": "veri güvenliği",
+                "C": "anonimlik",
+                "D": "konum verisi",
+                "E": "aracısızlaştırma"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Bitcoin'i resmi para birimi olarak kabul eden ilk devlet aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Endonezya",
+                "B": "Çin",
+                "C": "Paraguay",
+                "D": "El Salvador",
+                "E": "Dominik Cumhuriyeti"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Mark Skwarek, Sander Veenhof ve Tamiko Thiel'in sanatçıları arasında bulunduğu, 2010 yılında New York Modern Sanat Müzesinde (MoMa) gerçekleşen WeARinMoMa sergisinin öne çıkan özelliği aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Sergi için müzeden izin alınmamış olması",
+                "B": "İlk defa içinde karma gerçeklik ile üretilmiş eserler bulunan sergi olması",
+                "C": "İlk defa içinde genişletilmiş gerçeklik ile üretilmiş eserler bulunan sergi olması",
+                "D": "İlk defa içinde sanal gerçeklik ile üretilmiş eserler bulunan sergi olması",
+                "E": "İlk defa içinde artırılmış gerçeklik ile üretilmiş eserler bulunan sergi olması"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Clement Valla'nın 'Google Earth'den Posta Kartları' isimli çalışması hangi fikre dayanarak oluşturmuştur?",
+            "options": {
+                "A": "Sanal gerçeklik sanat manifestosuna",
+                "B": "Yazılımın içerisindeki kodların birbirleri ile çakışması fikrine",
+                "C": "Artırılmış gerçeklik sanat manifestosuna",
+                "D": "Karma gerçeklik sanat manifestosuna",
+                "E": "Uydu görüntüleriyle kuş bakışı dünyanın güzelliğinin izleyicileri etkileyeceğine"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi konum verilerinin kullanımına ilişkin etik ve sorumlu yaklaşımları desteklemek amacıyla oluşturulan Locus Charter İlkeleri'nden biri değildir?",
+            "options": {
+                "A": "Verilerin daha sonra bireylerin veya konumlarının tanınmasına neden olacak şekilde kullanılmasını engellemek için önlemler alınması",
+                "B": "Veri kullanıcılarının, bireysel veya toplu konum verilerinin ayrımcılık, istismar veya zarar amaçlı kullanımını önlemekle sorumlu olması",
+                "C": "Konum verilerini toplayan platform ve araştırmacıların, kullanıcılara verilerinin kullanacağını belirterek yasal ve etik sorumluluktan kaçınabilmeleri",
+                "D": "Veri setlerindeki yanlılığı anlamaya ve ayrımcı sonuçlardan kaçınmaya özen gösterilmesi",
+                "E": "Belirli bir amaçla konum verisini kullanacak olanların yalnızca yeterli, ilgili ve hedefle sınırlı kişisel verileri kullanması"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi Büyük Veri kaynaklarından biri değildir?",
+            "options": {
+                "A": "Ağlar",
+                "B": "Ses ve görüntü cihazları",
+                "C": "Oyuncaklar",
+                "D": "Internet",
+                "E": "Kayıtlar (logs)"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Facebook bir ____ alanı olarak görülebilir.",
+            "options": {
+                "A": "kriptopara",
+                "B": "hava alma",
+                "C": "kütüphane",
+                "D": "jeolojik unsur",
+                "E": "dijital aktivizm"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi Büyük Veri'yi geleneksel veri yönetiminden ayıran temel özelliklerden biridir?",
+            "options": {
+                "A": "Verinin yalnızca yapılandırılmış (structured) formatta saklanması",
+                "B": "Veri kaynaklarının yalnızca kurumsal sistemlerle sınırlı olması",
+                "C": "Geleneksel yöntemlerle kolayca işlenebilir olması",
+                "D": "Sadece metin tabanlı verilerden oluşması",
+                "E": "Verinin yüksek hacimli, çeşitli ve yüksek hızda üretiliyor olması"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Bir anlatıyı/hikayeyi izleyiciye, dinleyiciye ya da okuyucuya anlatmak için birden çok mecradan yararlanılan, her bir yeni mecranın hikayeye farklı ve değerli bir katkı sunduğu durum aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Yeni medya",
+                "B": "Transmedya",
+                "C": "Geleneksel medya",
+                "D": "Yapay zeka",
+                "E": "Dijital medya"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Manuel Castells tarihsel olarak toplumsal ağların her zaman bulunduğunu; ağ toplumunu ayıran kilit faktörün ise bu dönemde ____ ve ____ teknolojilerinin kullanımının yaygınlaşması olduğunu vurgular.",
+            "options": {
+                "A": "bilgi / iletişim",
+                "B": "kurum / elektronik",
+                "C": "kitap / çoğaltma",
+                "D": "çoğaltma / baskı",
+                "E": "VR / AR"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi artırılmış gerçeklik teknolojisinin eğitim alanında sunduğu en önemli avantajlarından biridir?",
+            "options": {
+                "A": "Öğrencilerin fiziksel ortamdan tamamen soyutlanarak tamamen sanal bir dünyaya geçiş yapmalarını sağlaması",
+                "B": "Eğitimin yalnızca belirli bir yaş grubu için uygulanabilir olmasını desteklemesi",
+                "C": "Öğrencilerin yalnızca teorik bilgileri ezberleyerek öğrenmelerine odaklanması",
+                "D": "Öğrencilerin sadece görsel içeriklerle sınırlı kalmasını sağlayarak deneyimsel öğrenmeyi kısıtlaması",
+                "E": "Fiziksel ortamın olanaklarını sayısal ortamın avantajlarıyla birleştirerek etkileşimli bir öğrenme deneyimi sunması"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Adorno ve Horkheimer'in Kültür Endüstrisi teorisine göre popüler kültürün temel işlevi aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Sanat ve medya yoluyla toplumsal yapıları politikadan bağımsız olarak şekillendirmek",
+                "B": "Kültürel üretimi bireylerin kontrolüne bırakarak medya tekellerini ortadan kaldırmak",
+                "C": "Kapitalist düzeni eleştiren bağımsız medya içeriklerinin çoğalmasını sağlamak",
+                "D": "Toplumu edilgenliğe itmek için standartlaşmış kültürel ürünler üretmek",
+                "E": "Bireylerin özgün ifade biçimlerini teşvik etmek ve siyasete katılımı artırmak"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Büyük Veri ve yapay zekâ algoritmalarında toplumsal cinsiyet önyargılarının oluşmasının temel nedeni aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Algoritmaların tamamen tarafsız ve nesnel matematiksel işlemlerle oluşturulması",
+                "B": "Algoritmaların, belirli bir cinsiyet veya etnik grubun bakış açısını yansıtan sınırlı veri setleriyle geliştirilmesi",
+                "C": "Yapay zekâ çalışmalarının yalnızca kadın araştırmacılar tarafından yürütülmesi",
+                "D": "Büyük Veri'nin insan etkisinden bağımsız olarak kendiliğinden şekillenmesi",
+                "E": "Algoritmaların tüm toplumsal grupları eşit şekilde temsil eden veri setleriyle eğitilmesi"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Kamusal alanı; devletten, sermayeden / piyasadan ve ailenin mahrem hayatından ayrı bir güç ve demokrasinin ön koşulu olarak gören teorisyen aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Staler",
+                "B": "Castells",
+                "C": "Habermas",
+                "D": "Van Dijk",
+                "E": "Malina"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Alan Turing'in bilgisayar tarihindeki önemi aşağıdakilerden hangisine dayanmaktadır?",
+            "options": {
+                "A": "4. dereceden polinominal fonksiyonları tanımlamıştır.",
+                "B": "Fortran bilgisayar dilinin mucididir.",
+                "C": "Yapay zekâya giden yoldaki en önemli fikirlerden birinin sahibidir.",
+                "D": "İkili kod sistemini bulmuştur.",
+                "E": "Dokuma tezgahları için kart sistemini bulmuştur."
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Blokzincir uygulamalarını daha etkin ve işleyişi daha yönetilebilir hale getiren inovasyon ____.",
+            "options": {
+                "A": "ağ mimarisidir",
+                "B": "dağıtık ağ mimarisidir",
+                "C": "Internet'tir",
+                "D": "akıllı sözleşmelerdir",
+                "E": "nesnelerin internetidir"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Platon'un Mağara Alegorisi'nde 'gerçeklik' hakkında yansıtılan görüş aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Çevremizde duyumsadıklarımızın gerçeğin kendisi olduğu",
+                "B": "Gerçeğe ancak idealar yoluyla varılabileceği",
+                "C": "Gerçekliğin yalnızca Tanrı tarafından gözlemlenebildiği",
+                "D": "Gerçekliğin makineler tarafından üretilebileceği",
+                "E": "Gerçeğin sadece doğada var olduğu"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "18. yüzyılda ortaya çıkan, rakipleriyle satranç oynayan, Mekanik Türk adı verilen robot aşağıdaki teknolojilerden hangisinin ilham kaynağı olarak görülmektedir?",
+            "options": {
+                "A": "Yapay zekâ",
+                "B": "Hesap makinesi",
+                "C": "Metaverse",
+                "D": "Dijital bilgisayarlar",
+                "E": "Analog bilgisayarlar"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Konum tabanlı servislerin yaygınlaşmasıyla birlikte sosyal medya kullanıcıları aşağıdakilerden hangisini yapma olanağına sahip olmuştur?",
+            "options": {
+                "A": "Konum verilerini yalnızca kamu görevlileriyle paylaşma zorunluluğu",
+                "B": "Sadece geçmişe dönük konum bilgilerini paylaşabilme",
+                "C": "Sosyal medya platformlarında anonim olarak konum paylaşma",
+                "D": "Konum verilerinin yalnızca bireysel kullanım için saklanması",
+                "E": "Konum bildirimlerine fotoğraf, video ve yorum ekleyebilme"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "'Trollük' kavramının tanımı aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Dijital ortamda belirli bir bağlantıya tıklamanızı sağlamak için abartılı başlıklar kullanmak",
+                "B": "Dijital iletişim teknolojilerine erişimde gözlenen eşitsizlikler",
+                "C": "Bir birey ya da grubu yıldırma, taciz etme amaçlı teknoloji kullanımı",
+                "D": "Internet'te insanların keyfini kaçırmak ya da münakaşa başlatmak için tohum ekmeye çalışmak, alaycı söylemlerle hakaret etmek",
+                "E": "Mevcut bir görüntüdeki kişinin başka bir kişinin görüntüsü ile değiştirilmesi"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Jenny Preece'e (2000) göre aşağıdakilerden hangisi çevrimiçi bir topluluğun temel bileşenlerinden biridir?",
+            "options": {
+                "A": "Fiziksel mekânda yüz yüze etkileşim kuran bireyler",
+                "B": "Rastgele bir araya gelmiş ve ortak amacı olmayan bireyler",
+                "C": "Topluluk üyelerinin davranışlarını yönlendiren prensipler",
+                "D": "Sadece bireysel amaçlara hizmet eden kişisel dijital alanlar",
+                "E": "Dijital platformlardan bağımsız olarak reysel kullanım"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Artırılmış gerçeklik ortamını geniş kitlelerin deneyimlemesini sağlayan ilk oyun aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Catan World Explorers",
+                "B": "Harry Potter Wizards Unite",
+                "C": "Zombies, Run",
+                "D": "Ingress",
+                "E": "Pokemon GO"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Sanal gerçeklik kavramını aşağıdakilerden hangisi tanımlar?",
+            "options": {
+                "A": "Sayısal gerçeklikteki medya deneyimlerini belirten bir terimdir.",
+                "B": "Kullanıcıların sayısal dünyanın içine tam olarak gömüldüğü bir sistemdir.",
+                "C": "Kullanıcıların gerçek tehlikelere maruz kaldığı bir durumu ifade eder.",
+                "D": "Sanal gerçeklikte ses ve görsel duyumsamaların oluşturulma şeklini belirten bir terimdir.",
+                "E": "Bilgisayar oyunlarındaki etkileşimleri ifade eden bir terimdir."
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Teknolojik determinizm kuramsal yaklaşımı aşağıdakilerden hangisini savunur?",
+            "options": {
+                "A": "Sosyal değişimin merkezinde medya teknolojileri vardır.",
+                "B": "Sosyal yapılar teknolojiyi belirler.",
+                "C": "Teknoloji sadece bir araçtır.",
+                "D": "Teknoloji ve toplum birbirinden bağımsızdır.",
+                "E": "Kültürel değerler teknolojik gelişimi engeller."
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Blokzincir teknolojisi ile dijital bir defterde depolanan ve dijital bir varlığın benzersiz olduğunu onaylayan veri birimi aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Byte",
+                "B": "IOTA",
+                "C": "NFT",
+                "D": "DAO",
+                "E": "SHA256"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Kriptoparaların ortaya çıkışında etkili olan temel görüş aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Kriptoparalar sadece dijital teknolojik gelişmelerle var olmuştur.",
+                "B": "Bankacılık sistemini kurtarma operasyonlarına alternatif olma ihtiyacı.",
+                "C": "Sadece 2008 ABD Finans Krizi'nin etkisi.",
+                "D": "Dijitalleşme sonrasında paradaki merkezsizleşme ihtiyacı ve toplulukların etkisi.",
+                "E": "Gazetelerin dijital medyaya geçişiyle benzerlik göstermesi."
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Rheingold'un çevrimiçi topluluklar hakkındaki görüşü aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Başarının temel nedeni, insanların toplumsal olarak aidiyet ihtiyacı hissetmeleridir.",
+                "B": "Sadece eğlence amaçlı kullanıldığında başarılı olacaktır.",
+                "C": "Sadece bilgi almak için kullanılır, etkileşim ihtiyaç değildir.",
+                "D": "Elektronik iletişimin gerçek topluluk özellikleri taşımadığını savunmuştur.",
+                "E": "Dijital oyun grupları dışında kullanımı amacına hizmet etmez."
+            },
+            "correctAnswer": "A"
+        }
+    ],
+    "finalExam": [],
+    "summerExam": []
+}

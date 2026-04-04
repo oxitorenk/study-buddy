@@ -1,0 +1,545 @@
+{
+    "courseName": "Anadolu Kültür Tarihi",
+    "semiExam": [
+        {
+            "questionText": "Dairesel kent suru ve şehir planı ile dikkati çeken Geç Hitit Krallığı aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Kargamış",
+                "B": "Sam’al",
+                "C": "Melid",
+                "D": "Gurgum",
+                "E": "Tabal"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Konya-İvriz kaya kabartmasında tasvirlerini gördüğümüz tanrı ve kral çifti aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Teişiba-Sarduri",
+                "B": "Teşup-Muwatalli",
+                "C": "Tarhunza-Warpalawas",
+                "D": "Attis-Midas",
+                "E": "Fırtına Tanrısı-Murşili"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Lidya Krallığı’na son veren aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Medler",
+                "B": "Persler",
+                "C": "Babilliler",
+                "D": "Mısırlılar",
+                "E": "Kimmerler"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "İlk sikkeler aşağıdaki maden alaşımlardan hangisinden yapılmıştır?",
+            "options": {
+                "A": "Elektron",
+                "B": "Altın",
+                "C": "Gümüş",
+                "D": "Bronz",
+                "E": "Bakır"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "MÖ. 47 yılında Anadolu’ya giren Iulius Caesar’in (Jül Sezar) kısa sürede başarı elde etmesi sonucunda, önceki Romalı generallere gönderme yapmak ve kendi zaferini yüceltmek için meşhur, “Geldim, gördüm, yendim, (veni, vidi, vici)” deyişini ifade ettiği merkezimiz aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Efes (İzmir)",
+                "B": "Smyrna (İzmir)",
+                "C": "Gordion (Ankara)",
+                "D": "Zela (Tokat)",
+                "E": "Hattusa (Çorum)"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Aşağıdaki süreçlerden hangisi kültür evresine ait bir dönemi göstermemektedir?",
+            "options": {
+                "A": "Paleolitik",
+                "B": "Mezolitik",
+                "C": "Holosen",
+                "D": "Neolitik",
+                "E": "Tunç çağları"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Traianus Tapınağı, Hadrianus Tapınağı, Augustus Tapınağı veya Aizanoi’deki Zeus Tapınağı gibi birçok yapı ve basılmış yüzlerce sikkedeki tasarımlar aracılığıyla Roma’nın Anadolu’da propagandasını yapmaya çalıştığı dinsel/politik düşünce aşağıdakilerden hangisinde belirtilmiştir?",
+            "options": {
+                "A": "Krallık Kültü",
+                "B": "Mutlak Monarşi",
+                "C": "Dictatore Kültü",
+                "D": "Tiran Kültü",
+                "E": "İmparatorluk Kültü"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Yazılıkaya B Odası’nın hangi amaçla inşa edildiği düşünülmektedir?",
+            "options": {
+                "A": "Ölü Kültüne adanmış mekan",
+                "B": "Tapınak avlusu",
+                "C": "Sığınma alanı",
+                "D": "Depo",
+                "E": "Kabul salonu"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Tunç Çağında doğal liman olan körfezlerde ve koylarda yeni yerleşmelerin kurulmasına ve küçük köylerin de büyüyerek kasabalara dönüşmesine neden olan gelişme hangisidir?",
+            "options": {
+                "A": "Deniz ticaretinin artması",
+                "B": "Yeni mimari yapı tekniklerinin geliştirilmesi",
+                "C": "Maden ticaretinin başlaması",
+                "D": "İlk gerçek anlamda kentlerin ortaya çıkması",
+                "E": "Soylu-Elit sınıfın ortaya çıkışı"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Lidya’da hüküm süren Mermnad Sülalesinin ilk kralı aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Gyges",
+                "B": "Lydos",
+                "C": "Argon",
+                "D": "Daskylos",
+                "E": "Mopsos"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi kaya zemin üzerine kurulmuş yamaç yerleşmelerine örnektir?",
+            "options": {
+                "A": "Orman Fidanlığı",
+                "B": "Çatalhöyük",
+                "C": "Karain Mağarası",
+                "D": "Arslantepe",
+                "E": "Göbekli Tepe"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Daha önce Obeyd döneminde kültürel birliğe kavuşmuş olan Mezopotamya’da, ilk defa siyasal birlik aşağıdakilerden hangisi ile sağlanmıştır?",
+            "options": {
+                "A": "Anadolu’ya yapılan askeri seferler",
+                "B": "Halaf dönemi",
+                "C": "Akkad Krallığı",
+                "D": "Uruk dönemi",
+                "E": "Asur ticaret kolonileri"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi, Roma’nın Anadolu’da (Küçük Asya) kurduğu eyaletlerden biri değildir?",
+            "options": {
+                "A": "Asia Eyaleti",
+                "B": "Kilikya Eyaleti",
+                "C": "Bithynia – Pontos Eyaleti",
+                "D": "Panionia Eyaleti",
+                "E": "Galatia Eyaleti"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Devasa tanrı heykeli tasarımlarıyla Hellenistik Dönem’in Doğu-Batı sentezini uygulamaya çalışan Kommagene kralı I. Antiokhos’un tümülüsü hangi ilimiz sınırları içerisinde yer almaktadır?",
+            "options": {
+                "A": "Çorum",
+                "B": "Konya",
+                "C": "Eskişehir",
+                "D": "Adıyaman",
+                "E": "Uşak"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Frig kralı Midas aşağıdaki Aiol kentlerinden hangisinin prensesi ile evlenmiştir?",
+            "options": {
+                "A": "Kyme",
+                "B": "Pitane",
+                "C": "Myrina",
+                "D": "Gryneion",
+                "E": "Larissa"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Geç Hitit Dönemi beyliği Gurgum (Maraş)’da ortaya çıkan ve krali olmayan mezar stellerinin Anadolu sanatına getirdiği yenilik aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Kayalara işlenen ilk tasvirler olmaları",
+                "B": "Tasvirlerdeki figürlerin yüzlerine ifade verilmiş olması",
+                "C": "Saç biçimlerindeki farklılık",
+                "D": "Giysilerdeki farklılık",
+                "E": "Kadın ve erkeğin birlikte tasvir edilmiş olması"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Lydia kralları ve kraliyet ailesinin mensuplarının gömüldükleri tümülüslerin günümüzdeki adı aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Sakarya Mezar Anıtları",
+                "B": "Bin Tepe Mezarlığı",
+                "C": "Kocatepe",
+                "D": "Kartepe",
+                "E": "Büyük Kral Mezarlığı"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "İTÇ Dönemi Küllüoba ve Demircihöyük’ün yerleşim planları hangi tip yerleşim planı tipine girer?",
+            "options": {
+                "A": "b-Trakya tipi yerleşim planı",
+                "B": "İTÇ tipi yerleşim planı",
+                "C": "Troas tipi yerleşim planı",
+                "D": "Frigya tipi yerleşim planı",
+                "E": "Anadolu tipi yerleşim planı"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Anadolu’da karşımıza çıkan ve Roma uygarlığındaki en önemli etkinliklerden biri olan Via Sebaste terimi aşağıdakilerden hangisi ile ilgilidir?",
+            "options": {
+                "A": "Ordu teşkilatı",
+                "B": "Meclis binası",
+                "C": "Tapınak modeli",
+                "D": "Standart para birimi",
+                "E": "Yol ağı sistemi"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Avcı ve toplayıcı toplumların zamanla göçebeliği terk edip, üretici konumuna gelmeleri ve yıl boyunca iskân edilen ilk sürekli yerleşmeleri kurdukları dönem aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Mezolitik Dönem",
+                "B": "Epipaleolitik Dönem",
+                "C": "Kalkolitik Dönem",
+                "D": "Neolitik Dönem",
+                "E": "Paleolitik Dönem"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Eşit şartlarda iki büyük devlet, yani Hititler ile Mısırlılar arasında dostluk ve kardeşliğin sonsuza kadar devam edeceğini belirten, Boğazköy’deki kazılarda ele geçirilen Sonsuz Barış Antlaşması’nın bakır bir kopyası, günümüzde Türkiye Cumhuriyeti dışında nerede sergilenmektedir?",
+            "options": {
+                "A": "UNICEF Binası",
+                "B": "Avrupa Birliği Binası",
+                "C": "İstanbul Arkeoloji Müzesi",
+                "D": "NATO Binası",
+                "E": "Birleşmiş Milletler Binası"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Yaklaşık olarak MÖ. 20. yüzyılın başlarından 18. yüzyılın sonlarına kadar iki yüz yıl boyunca Asurluların Anadolu’da bulunmalarındaki temel amaç aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Ticari etkinlik",
+                "B": "Askeri etkinlik",
+                "C": "Dini propaganda",
+                "D": "Siyasal yayılım",
+                "E": "Kültürel alışveriş"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Asurlu tüccarın Anadolu’da kurmuş olduğu ve ticari merkez olarak düşünebileceğimiz bütün karum'ların merkezi, bugün hangi ilimizin sınırları içerisinde kalmaktadır?",
+            "options": {
+                "A": "Aksaray",
+                "B": "Kayseri",
+                "C": "Kahramanmaraş",
+                "D": "Nevşehir",
+                "E": "Malatya"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Ön Asya ve Anadolu’da görülen en erken tapınak yapılarının saptandığı yerleşme aşağıdakilerden hangisidir ve hangi döneme tarihlenir?",
+            "options": {
+                "A": "Göbekli Tepe - Çanak Çömleksiz Neolitik Dönem",
+                "B": "Nevali Çori - Çanak Çömleksiz Neolitik Dönem",
+                "C": "Caferhöyük-İlk Tunç Çağı",
+                "D": "Çatalhöyük –Erken Kalkolitik",
+                "E": "Aşıklıhöyük- Çanak Çömlekli Neolitik Dönem"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Avrupa’dan gelerek Anadolu’yu yurt edinen ve başkentleri Gordion etrafında MÖ. 9. yüzyıl ve 7. yüzyıl arasında Orta Anadolu’da etkin olan uygarlık aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Frigler",
+                "B": "Thraklar",
+                "C": "Hititler",
+                "D": "Urartular",
+                "E": "Lidyalılar"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Diğer dönemlere göre en kısa süren dördüncü jeolojik devir (Kuaterner) içerisinde kalan Paleolitik dönemi, kültür tarihi açısından en önemli zaman dilimi kılan özellik aşağıdakilerden hangisinde belirtilmiştir?",
+            "options": {
+                "A": "İlk buzul çağının sonlanması ve iklimin dünya genelinde daha ılıman olması",
+                "B": "Dinozorların neslinin tükenmiş olması",
+                "C": "Tarımsal etkinliklere yönelik ilk izlerin belirmesi",
+                "D": "İnsanların ilk kez bu dönemde ortaya çıkması",
+                "E": "Siyasal açıdan gelişmiş devletlerin görülmesi"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Geç Tunç Çağı Anadolu’sunda bölgenin belirleyici siyasi gücü ve Anadolu’nun ilk merkezi krallığı aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Hititler",
+                "B": "Urartular",
+                "C": "Akadlar",
+                "D": "Lidyalılar",
+                "E": "Frigler"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Hellenistik Dönem sanatında bağımsız olarak da karşımıza çıkan sunaklar, dönemin askeri ve politik gelişmelerine paralel sahneler sunmuşlardır. Buna göre, şu an Berlin’de sergilenen ünlü Zeus Sunağı’nda, “kötülere” (Galatlara) karşı mücadelesinde “iyileri” gösteren krallık aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Kommagene Krallığı",
+                "B": "Pontus Krallığı",
+                "C": "Kapadokya Krallığı",
+                "D": "Bithynia Krallığı",
+                "E": "Bergama Krallığı"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Özellikle MÖ. 7. ve 6. yüzyıllarda Batı Anadolu’daki kültürlerin birbirleriyle kaynaşmasında kilit rol oynayan temel etmen aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Tiranlar",
+                "B": "Persli yöneticiler",
+                "C": "Kent devletleri",
+                "D": "Senatus",
+                "E": "Yerel halklar"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Fiziksel evreni anlamaya yönelik çabalar sırasında bilimsel düşüncenin temellerinin Anadolu’da atıldığı bilinmektedir. Doğa Felsefesi olarak adlandırılmış ve temsilcilerine “İonia Doğa Düşünürleri” adı verilen bu süreçte karşımıza çıkan düşünürlerin ilki ve okulun kurucusu aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Platon",
+                "B": "Thales",
+                "C": "Parmenides",
+                "D": "Aristoteles",
+                "E": "Sokrates"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Hemen hemen her kalede kendisi için yapılmış bir tapınağın olduğu ve Urartu devletinin baş tanrısı olarak kabul edilen tanrı aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Hades",
+                "B": "Teşup",
+                "C": "Haldi",
+                "D": "Iuppiter",
+                "E": "Zeus"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Büyük İskender’in ölümünün ardından generaller, bölgelerinde kendilerini kral ilan etmiş ve bu durumu halka duyurabilmek amacıyla görsel iletişimde önemli aracı yaygın bir şekilde kullanmışlardır. Aşağıdakilerden hangisi bu propaganda aracını göstermektedir?",
+            "options": {
+                "A": "Tiyatro",
+                "B": "Zafer Takı",
+                "C": "Steller",
+                "D": "Sikke",
+                "E": "Heykel"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi, eskiçağ yazarları tarafından Hellen göçleri sırasında; sorguçlu miğferleri, tutamaklı kalkanları ve çifte baltalarıyla kaba bir dil konuşan Anadolu’nun yerel halkları olarak betimlenen halklardan birini göstermektedir?",
+            "options": {
+                "A": "Frigler",
+                "B": "Karialılar",
+                "C": "Lidyalılar",
+                "D": "Hititler",
+                "E": "Urartular"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Karayolları, barajlar ve göletler yanında Urartuların en önemli bayındırlık faaliyetlerinden bir diğeri aşağıdakilerden hangisinde belirtilmiştir?",
+            "options": {
+                "A": "Hipodromlar",
+                "B": "Su kanalları",
+                "C": "Hamamlar",
+                "D": "Mil taşları",
+                "E": "Zafer takları"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Asurlu tüccarın Anadolu’ya getirdiği ürünlerin başında kalay madeni yer alırken, bu üründen sonra Anadolu’daki halkların talep ettiği ikinci ürün aşağıdakilerden hangisinde belirtilmiştir?",
+            "options": {
+                "A": "Gümüş",
+                "B": "Tunç",
+                "C": "Köle",
+                "D": "Demir",
+                "E": "Kumaş"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "MÖ. 9. yüzyılın ortalarından MÖ. 7. yüzyılın sonlarına kadar Van Gölü’nün doğu kıyısında yer alan Tuşpa (Van Kalesi) merkez olmak üzere güçlü bir krallık kuran ve tarım, hayvancılık, mimari, madencilik, taş işçiliği ve çanak çömlekçilik alanlarında gelişmiş uygarlık aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Hititler",
+                "B": "Lidyalılar",
+                "C": "Frigler",
+                "D": "Kargamış Krallığı",
+                "E": "Urartular"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Batı Anadolu’dan zengin buluntular sağlaması ve ilk kent örneği olması gibi çeşitli nedenlerden dolayı, Anadolu arkeolojisinde çok önemli bir yer tutan, Homeros’un İliada Destanı’na konu olmuş yerleşim aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Atina",
+                "B": "Miletus",
+                "C": "Ephesus",
+                "E": "Troia"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Yerleşik tarımcı hayatın gelişmesi ile birlikte değişen sosyal ve dinsel inançların sonucunda ilk örnekleri Çanak Çömleksiz Neolitik dönem Nevali Çöri ve Çayönü yerleşmelerinde görülen, kilden veya taştan yapılmış heykelciklerin ana teması aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Meander motifleri",
+                "B": "Mitolojik yaratıklar",
+                "C": "Kadın figürleri",
+                "D": "Savaşçı erkek figürleri",
+                "E": "Soyut figürler"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "MÖ. 680-MÖ. 546 yılları arasında güçlü bir krallık olarak Anadolu’nun Kızılırmak Nehri’nin batısında kalan topraklarına egemen olan ve sikkeyi (madeni para) icat ederek kültür tarihine önemli bir katkı yapmış uygarlık aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Frigler",
+                "B": "Hititler",
+                "C": "Asurlular",
+                "D": "Lidyalılar",
+                "E": "Urartular"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Kalkolitik Dönemde bilezik üretim süreçlerinin görüldüğü yerleşme aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Küllüoba",
+                "B": "Orman Fidanlığı",
+                "C": "Kanlıtaş Höyük",
+                "D": "Arslantepe",
+                "E": "Aktopraklık"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi Geç Hitit Krallıkları Dönemi’nde kullanılan dillerden biridir?",
+            "options": {
+                "A": "Eski Yunanca",
+                "B": "Aramice",
+                "C": "Palaca",
+                "D": "Hurrice",
+                "E": "Latince"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi Friglerin küçük fasadlar grubundaki eserlerden biridir?",
+            "options": {
+                "A": "Sümbüllü Anıt",
+                "B": "Bahşayiş Anıtı",
+                "C": "Bitmemiş Anıt",
+                "D": "Maltaş Anıtı",
+                "E": "Arezastis Anıtı"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Anadolu’da Hellen dönemi resim sanatının örneklerinin takip edilebildiği eserler aşağıdakilerden hangisinde belirtilmektedir?",
+            "options": {
+                "A": "Duvar resimleri",
+                "B": "Heykel altlıkları",
+                "C": "Seramik eserler",
+                "D": "Mezar stelleri",
+                "E": "Mimari yapılar"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Geç Hitit Dönemi beyliği Gurgum (Maraş)’da ortaya çıkan ve krali olmayan mezar stelleri Anadolu’ya bu dönemde gelmiş olan hangi halkla ilişkilendirilir?",
+            "options": {
+                "A": "Luwi",
+                "B": "Frig",
+                "C": "Fenike",
+                "D": "Arami",
+                "E": "Akha"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "İyiler ile kötülerin mücadelesini, tanrılar ve devler arasındaki savaş (gigantomakhi) şeklinde betimleyen sahneleriyle, günümüz konsol ya da bilgisayar oyunlarına ilham verecek nitelikteki Zeus ve Athena’ya adanmış sunak, aşağıdaki merkezlerimizden hangisinde ele geçirilmiştir?",
+            "options": {
+                "A": "Efes",
+                "B": "Hattusa",
+                "C": "Bergama",
+                "D": "Sardis",
+                "E": "Gordion"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Frig Devleti’nin bilinen ilk kralı aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Midas",
+                "B": "Gordios",
+                "C": "Adrastos",
+                "D": "Kambyses",
+                "E": "Kyros"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Frig kralı Midas’ın görülmeye değer güzellikteki ahşap tahtını armağan olarak yolladığı Orta Yunanistan’daki kent aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Delphoi",
+                "B": "Thebai",
+                "C": "Olympia",
+                "D": "Atina",
+                "E": "Megara"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Tabakalanmasının sistematik şekilde belgelenmesi nedeniyle arkeoloji biliminin ilk sistematik kazısı sayılan merkez aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Alacahöyük",
+                "B": "Çatalhöyük",
+                "C": "Yarımburgaz Mağarası",
+                "D": "Hacılar",
+                "E": "Troia"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Çok tanrılı bir inanca sahip olan Friglerin tek bir kutsal varlık olarak saygı gösterdikleri ve olasılıkla bu nedenle sadece onun tasvirini yaptıkları tanrıça aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Matar Kubileye",
+                "B": "Teişeba",
+                "C": "Hera",
+                "D": "Demeter",
+                "E": "Persephone"
+            },
+            "correctAnswer": "A"
+        }
+    ],
+    "finalExam": [],
+    "summerExam": []
+}

@@ -1,0 +1,381 @@
+{
+    "courseName": "Görsel İletişim ve Tasarım Tarihi",
+    "semiExam": [
+        {
+            "questionText": "Kağıt ve matbaanın kökeninin dayandığı medeniyet aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Antik Yunanistan",
+                "B": "Almanya",
+                "C": "Çin",
+                "D": "Mısır",
+                "E": "Maya"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Aşağıdaki yazı yüzeylerinin hangisinin daha kaliteli versiyonuna “Vellum” denilmiştir?",
+            "options": {
+                "A": "Parşömen",
+                "B": "Papirüs",
+                "C": "Kil tablet",
+                "D": "Kağıt",
+                "E": "Mermer"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Kullanılan harflerin bir sesi işaret ettiği sesçil (fonetik) alfabeyi ilk kullanan uygarlık aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Mısır",
+                "B": "Çin",
+                "C": "İndus",
+                "D": "Fenike",
+                "E": "Roma"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Matbaacılık tarihinde ilk resimli İncil’i üreten kişi aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Martin Luther",
+                "B": "Aldus Manutius",
+                "C": "Günther Zainer",
+                "D": "Albrect Dürer",
+                "E": "Gutenberg"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Dünya tarihinde bilinen ilk basılı kitap aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Elmas Sutra",
+                "B": "Gutenberg İncili",
+                "C": "Dresden Kodeksi",
+                "D": "Kells Kitabı",
+                "E": "Vatican Virgil"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Fransa’da yalnızca kraliyetin kullanımı için tasarlanan yazıyüzü aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "İtalik",
+                "B": "Roman",
+                "C": "Sans Serif",
+                "D": "Romain du Roi",
+                "E": "Serif"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi ''Petroglif''in tanımıdır?",
+            "options": {
+                "A": "Kayaların üstüne ellerin şablon gibi koyularak yapılan resimlerdir.",
+                "B": "Kayaların üzerine püskürtme yolu ile yapılan resimlerdir.",
+                "C": "Kayaların üzerine kazıma ve oyma yoluyla yapılan resimlerdir.",
+                "D": "Kayaların üzerine aşıboyası damlatılarak yapılan resimlerdir.",
+                "E": "Kayaların üzerine fırça ile yapılan resimlerdir."
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "“Şüpheye düştüğünüzde ------- kullanın” özdeyişi matbaacılar arasında günümüze kadar gelmiştir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": {
+                "A": "Garamond",
+                "B": "Baskerville",
+                "C": "Didot",
+                "D": "Bodoni",
+                "E": "Caslon"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Baskı teknolojisini Avrupa’ye getiren kâşif aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Kristof Kolomb",
+                "B": "Marco Polo",
+                "C": "Ricoldus de Monte Crucis",
+                "D": "Pîrî Reis",
+                "E": "Ugolino Vivaldi"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Almanya’da bilinen en eski basım örneği bir ------- şiirinin basıldığı bir kitap yaprağıdır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": {
+                "A": "Virgil",
+                "B": "Biblia Latina",
+                "C": "Sibylline",
+                "D": "Aristoteles",
+                "E": "Ars Moriendi"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Yazar John Ruskin ve Tasarımcı William Morris, 19. yüzyıl sonlarına doğru Endüstriyel devrimin getirdiği sanatsal karmaşaya karşı bir duruş sergilenme ihtiyacı hissetmiştir. Bu iki önemli ismin başlattığı sanat hareketi aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Viktorya Sanatı",
+                "B": "Vienna Secession (Viyana Stili)",
+                "C": "Jugendstil",
+                "D": "Art Nouveau (Yeni Sanat)",
+                "E": "Arts&Crafts (Sanat&Zanaat)"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi Arts&Crafts (Sanat ve Zanaat) hareketinin özelliklerinden biri değildir?",
+            "options": {
+                "A": "El Sanatlarını daha ucuz maliyet ile üretmek",
+                "B": "Anti-akademik yaklaşımlar ile üretim yapmak",
+                "C": "El sanatlarını yeniden canlandırmak",
+                "D": "Tasarımları sadece el ile üretmek",
+                "E": "El sanatlarını seri imalat haline getirmek"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Dünya tarihinde ilk gerçek reklam ajansı aşağıdaki ülkelerden hangisinde açılmıştır?",
+            "options": {
+                "A": "İngiltere",
+                "B": "Amerika",
+                "C": "Fransa",
+                "D": "Belçika",
+                "E": "Almanya"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi Art Nouveau sanat hareketinin esinlendiği kaynaklardan biri değildir?",
+            "options": {
+                "A": "Psikoloji bilimi",
+                "B": "Doğal motifler",
+                "C": "Japon ahşap baskıları",
+                "D": "Rubens, Fragonard gibi romantik dönem ressamları",
+                "E": "Fransız kabare kültürü"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "“Zoetrope” ve “Praxinascope” (Hayat Tekerleği) adlı oyuncaklar aşağıdaki sanat alanlarından hangisine dair geliştirilmiş örnekleri temsil eder?",
+            "options": {
+                "A": "Fotoğraf",
+                "B": "Animasyon",
+                "C": "Grafik Tasarım",
+                "D": "Baskı Sanatları",
+                "E": "Sinema"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Sanat tarihinde gerçekçi olma geleneğini yıkan ------- doğadan bağımsız bir sanat kavramı yaratarak yeni bir sanatsal gelenek ve görme biçimi kazandırmıştır. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": {
+                "A": "Futurizm",
+                "B": "Art Deco",
+                "C": "De Stijl",
+                "D": "Sürrealizm",
+                "E": "Kubizm"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Tekrar eden harfler ile ses kavramını ifade etme denemeleri aşağıdaki sanat akımlarından hangisi ile başlamıştır?",
+            "options": {
+                "A": "Art Deco",
+                "B": "Sürrealizm",
+                "C": "Kubizm",
+                "D": "Futurizm",
+                "E": "Dadaizm"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Marcel Duchamp aşağıdaki modern sanat akımlarından hangisinin en önemli temsilcilerinden biridir?",
+            "options": {
+                "A": "Kubizm",
+                "B": "Dadaizm",
+                "C": "Futurizm",
+                "D": "Sürrealizm",
+                "E": "De Stijl"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "De Stijl sanat akımının başaladığı ülke aşağıdaki hangisidir?",
+            "options": {
+                "A": "Hollanda",
+                "B": "İtalya",
+                "C": "İngiltere",
+                "D": "Almanya",
+                "E": "Fransa"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi Art Deco’nun özelliklerinden biri değildir?",
+            "options": {
+                "A": "Aydınlık renkler",
+                "B": "Düz ve keskin hatlar",
+                "C": "Tüketim kültürüne gönderme",
+                "D": "Yumuşatılmış formlar",
+                "E": "Çiçekli formlar"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Wang Zhen’in 1298 yılında matbaacılığa getirdiği yenilik aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Harfler için tahta baskı tekniğini bulmuştur.",
+                "B": "Matbaada dört renkli baskıyı bulmuştur.",
+                "C": "Matbaayı Avrupa kıtasına tanıtmıştır.",
+                "D": "Dizgi için döner masayı icat etmiştir.",
+                "E": "Kağıt parayı icat etmiştir."
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi Avrupa’da 14. yüzyılda uygulanmaya başlanan ahşap blok baskının bilinen ilk örneklerinden biridir?",
+            "options": {
+                "A": "Sibyls Kitabı",
+                "B": "Ars Moriendi",
+                "C": "Dört Azizli Bakire ve Çocuk",
+                "D": "Mappa Mundi",
+                "E": "Biblia Latina"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "İlk ahşap baskılarda aşağıdaki temalardan hangisi kullanılmamıştır?",
+            "options": {
+                "A": "Azizler",
+                "B": "İllüstrasyonlar",
+                "C": "Oyun Kartları",
+                "D": "Krallar",
+                "E": "Dini imgeler"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Christoffel van Dyck aşağıdaki yayınevlerinden hangisinin yazıyüzlerini tasarlayarak büyük üne kavuşmuştur?",
+            "options": {
+                "A": "Aldine Yayınevi",
+                "B": "Gutenberg Matbaası",
+                "C": "Elsevier Yayınevi",
+                "D": "Harvard Üniversitesi Yayınları",
+                "E": "Kraliyet Yayınevi"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "William Morris'in kitap tasarımındaki önemli eserlerinden biri olan \"Golden\", \"Troy\" ve \"Ghaucer\" adlı harf tasarımlarının yarattığı etki aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Gotik türündeki harf tasarımlarına olan ilgiyi azaltmıştır.",
+                "B": "Sayfaları çevreleyen bordürlerin sade ve monoton olduğu gözlenmiştir.",
+                "C": "Morris'in eserlerindeki motifler Orta Çağ sanatlarından ziyade modern sanatlara daha yakındır.",
+                "D": "William Morris'in tasarım kuralları, sanat dünyasında olumsuz eleştirilier almıştır?",
+                "E": "Kitap tasarımlarındaki kendine has düzenleme anlayışı, harf tasarımlarındaki incelikler ve ayrıntılar gelecek nesillere bu konuda yararlanılabilecek önemli bir kaynak olmuş ve kitap tasarımını bir sanat haline getirmiştir."
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi “sanatı toplumun yaşam alanı ile buluşturan” ilk hareket olarak bilinir?",
+            "options": {
+                "A": "Kontrüktivizm",
+                "B": "Art Nouveau",
+                "C": "Sanat ve Zanaat",
+                "D": "Dadaizm",
+                "E": "Art Deco"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Viyana Ayrılıkçılığı hareketinin etkisi altındaki sanatçılardan biri olan Gustav Klimt'in sanat anlayışını yansıtan ögeler aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Mimari tasarımlar",
+                "B": "Köşeli hatlar ve kütlesel tipografik düzenlemeler",
+                "C": "Soyut ekspresyonizm eserleri",
+                "D": "Doğa manzaralarının detaylı resimlemeleri",
+                "E": "Çiçekli ve yoğun dekoratif desenler"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Modern sanat ile ilgili aşağıdaki ifadelerden hangisi yanlıştır?",
+            "options": {
+                "A": "Modern sanatta her şey bireyi ilgilendirir.",
+                "B": "Sanatçılar yapıtlarında daha çok kendi bireysel yaklaşımlarını vermeye çalışmışlardır.",
+                "C": "Sanat için sanat değil, toplum için sanat üretme anlayışı yaygınlaşır.",
+                "D": "Modern sanat için makineleşme geleceğin sembolü olarak görülmüştür.",
+                "E": "Modern sanat için sanat ve endüstriyi ayırmak gereklidir."
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Taş baskı (litografi) tekniğinin gelişim sürecine dair aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": {
+                "A": "II. Mahmut döneminde sarayın ihtiyaçları için ilk taş baskı atölyesi kurmuştur.",
+                "B": "Litografi tekniğinin gelişimi sadece 18. yüzyılda Viktorya dönemi oyun yazarı William Shakespeare tarafından başlatılmıştır.",
+                "C": "Modern litografi, fotokimyasal metotlar ile hazırlanmış çinko ve alüminyum levhaların kullanılmasıyla gerçekleştirilmektedir.",
+                "D": "Litografi tekniğinin uygulanmasında yağlı mürekkep kullanılarak hazırlanan bir kasnak yardımıyla çizimler yapılmaktadır.",
+                "E": "Taş baskı tekniği, II.Mahmut döneminde özellikle Aşevlerinde asılı afişlerde kullanılmıştır."
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "De Stijl akımının öncüleri tarafından belirlenen temel özellikler aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Tipografide kavisli çizgileri vurgulama ve asimetrik sayfa tasarımı",
+                "B": "Temel renklerin dışındaki renkleri yoğun olarak kullanma",
+                "C": "Eğrisel çizgilerin ağırlıklı kullanımı ve duygusallığa vurgu yapma",
+                "D": "Görsel elemanlarda öznelik ve duygusallığı teşvik etme",
+                "E": "Sübjektivizme karşı duruş ve eğrisel çizgiler, yuvarlatılmış formlara sahip her ögenin dışlanması"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Üretici ve el işçiliğini bir araya getirmenin çabası, modern yaşam, makine çağı kültürüne ait motifler, tüketim kültürüne gönderme gibi özellikler aşağıdaki akımlardan hangisine aittir?",
+            "options": {
+                "A": "Dada",
+                "B": "Art Deco",
+                "C": "Kubizm",
+                "D": "Futurizm",
+                "E": "Sürrealizm"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "-----, soyut bir sanat akımı görünümünde olmasına rağmen gerçekçi bir sanat akımı olan realizmden daha fazla gerçekle ilgilenmiştir çünkü somut bir kavramı soyut hâle getirmek için öncelikle onun çok iyi bir biçimde analiz edilmesi gerekmektedir. Yukarıdaki paragrafta boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": {
+                "A": "Kübizm",
+                "B": "Sembolizm",
+                "C": "Art Deco",
+                "D": "Futurizm",
+                "E": "Sürrealizm"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "I.Dünya Savaşı’nın katliamlarına ve savaşa duyulan nefretten doğan -----, teknolojik ilerlemeye körü körüne bağlanmanın yüzeyselliğini, toplumunun yozlaşmasını, savaş, toplum, gelenek, din ve sanat gibi tüm yerleşik değerleri alaycı bir dil kullanarak ve izleyicide şok etkisi yaratan etkilerle protesto etmiştir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": {
+                "A": "Art Deco",
+                "B": "Futurizm",
+                "C": "Kubizm",
+                "D": "Sürrealizm",
+                "E": "Dadizm"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi italik yazı biçiminin ortaya çıkışı ve kullanımıyla ilgili en doğru tanımı içerir?",
+            "options": {
+                "A": "Antik metinlerin basımında kullanılmak üzere Francesco Griffo tarafından tasarlanmış ve ilk kez Aldus Manutius'un 1501'de basılan Virgil Operası'nda uygulanmıştır.",
+                "B": "Albrecht Dürer'in gravür sanatındaki çalışmaları sırasında ortaya çıkmış ve daha sonra yaygınlaşmıştır.",
+                "C": "19. yüzyılda litografi tekniği ile birlikte geliştirilmiş ve özellikle sanatsal metinlerde kullanılmıştır.",
+                "D": "\"Lettre de somme\" yuvarlak hatlı gothic yazı tipinin daha estetik bir alternatifi olarak geliştirilmiştir.",
+                "E": "Kilise ve resmi yayınlar için geliştirilmiş \"lettre de forme\" gothic yazı tipinin yerini almak üzere tasarlanmıştır."
+            },
+            "correctAnswer": "A"
+        }
+    ],
+    "finalExam": [],
+    "summerExam": []
+}

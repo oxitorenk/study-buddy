@@ -1,0 +1,502 @@
+{
+    "courseName": "Tipografi",
+    "semiExam": [
+        {
+            "questionText": "Gutenberg’in dönemin baskı tekniğine getirdiği en büyük yenilik aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Tahta baskı yapılabilmesi",
+                "B": "Döküm yapabilmesi",
+                "C": "Mühür ve silindir yapabilmesi",
+                "D": "Kâğıt üretebilmesi",
+                "E": "Metal baskıyı hareketli hurufat ile yapabilmesi"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "İbrahim Müteferrika tarafından basılan ilk kitap aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Haklar Bildirgesi",
+                "B": "Vankulu Lügatı",
+                "C": "Cihannüma",
+                "D": "Tuhfetü’l Kibar",
+                "E": "Temel Olaylar Atlası"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi \"ideogram\"ın tanımıdır?",
+            "options": {
+                "A": "Elle yazılan sanatsal eserlerdir.",
+                "B": "Tahta baskılar dışında kullanılan baskıların genel adıdır.",
+                "C": "Bir düşünceyi betimlemek için kullanılan resim ya da grafik gibi basit göstergelerdir.",
+                "D": "Bir düşünceyi betimlemek için ciltlenen göstergelerdir.",
+                "E": "Bir düşünceyi betimlemek için kullanılan karmaşık göstergelerdir."
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Tek tek yazı karakterlerini iki yana yaslı satırlarda basmak için kullanılan makine aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Linotype",
+                "B": "Hurufat",
+                "C": "Fotogravür",
+                "D": "Monotype",
+                "E": "Fournier"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Kare kapital ve rustik yazı dışında 4. yüzyıldan itibaren resmi yazışmalar için tercih edilen biçem aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Adasal",
+                "B": "Gotik",
+                "C": "Lombard",
+                "D": "Karolenj",
+                "E": "Anziyal"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Geometrik bölmelere sahip asimetrik sayfa düzeninin ve geometrik yapıda kalın, köşeli tırnaksız (sans serif) yazı karakterinin kullanıldığı sanat akımı aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "İsviçre Stili",
+                "B": "De Stijl",
+                "C": "New York Okulu",
+                "D": "Dadaizm",
+                "E": "Fütürizm"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "İsviçre Tipografisi ile ilişkilendirilen Univers fontunun tasarımcısı aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Max Bill",
+                "B": "Max Miedinger",
+                "C": "Paul Rand",
+                "D": "Adrian Frutiger",
+                "E": "Jan Tschichold"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Ağırlıklar, genişlikler, optik boyut, tırnaklıdan (serif) tırnaksıza (sans serif) gibi çeşitli varyasyonların oluşturulmasına olanak sağlayan font formatı aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Değişken Fontlar",
+                "B": "OpenType",
+                "C": "Bitmap Font",
+                "D": "Postscript Type 1",
+                "E": "Metafont"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "1960’lı yıllarda basılı sayfa üzerinde hareket algısı ile New York şehrinin canlılığını aktarmak için kavramsal tipografiyi kullanan tasarımcı aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Piet Mondrian",
+                "B": "Van Doesburg",
+                "C": "Leo Lionni",
+                "D": "Vilmos Huszar",
+                "E": "Laszlo Moholy-Nagy"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Jan Tschichold aşağıdaki akımlardan hangisinin öncüsü olarak görülmüştür?",
+            "options": {
+                "A": "De Stijl",
+                "B": "Yeni Tipografi",
+                "C": "Sürrealizm",
+                "D": "Bauhaus",
+                "E": "Dadaizm"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Mother & Child, Marriage gibi logotayplara sahip, harfleri ve sözcükleri imgelere dönüştürerek tasarımlarında figüratif tipografiye yer veren tasarımcı aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Siegfried Odermatt",
+                "B": "Adrian Frutiger",
+                "C": "Herb Lubalin",
+                "D": "Gene Federico",
+                "E": "Don Egensteiner"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Emigre dergisi ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": {
+                "A": "Geleneksel tasarım kurallarına uygun tasarlanmıştır.",
+                "B": "Dergide moda, siyaset ve film gibi içeriklere yer verilmektedir.",
+                "C": "Dergide tasarımında kullanılan, boşluk, noktalama, yazı karakteri kullanımı alışılmış tipografi kurallarına uygundur.",
+                "D": "Sayfa tasarımlarında tipografi daha önce görülmemiş yeni bir anlayış ile ele alınmıştır.",
+                "E": "Dergide temel tipografi anlayışı okunabilirlik üzerinedir."
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Mrs Eaves yazı karakteri aşağıdaki fontların hangisinden ilham alınarak tasarlanmıştır?",
+            "options": {
+                "A": "Baskerville",
+                "B": "Times New Roman",
+                "C": "Helvetica",
+                "D": "Bodoni",
+                "E": "Futura"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Fudoni yazı karakteri aşağıdaki hangi iki yazı karakterinin birleşimi ile üretilmiştir?",
+            "options": {
+                "A": "Helvetica - Baskerville",
+                "B": "Futura - Bodoni",
+                "C": "Filosofia - Futura",
+                "D": "Rosetta - Times New Roman",
+                "E": "Maxmix - Helvetica"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Karakterleri/harfleri oluşturan çizgilerin (stroke) sonundaki küçük yatay çizgiler ya da ayaklara ne ad verilir?",
+            "options": {
+                "A": "Bitiş (Finial)",
+                "B": "Kol (Arm)",
+                "C": "Kuyruk (Tail)",
+                "D": "Kulak (Ear)",
+                "E": "Tırnak (Serif)"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Grafik ve yazıların tanınmasına ve yazıcıya ulaştırılarak çıktı alınmasını sağlayan tanımlama dili aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Linotype",
+                "B": "Tex",
+                "C": "Truetype",
+                "D": "Postscript",
+                "E": "Microsoft"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Bir yazı karakterinin belli bir açı oranıyla eğilmesiyle oluşturulan varyasyona ne ad verilir?",
+            "options": {
+                "A": "Oblique",
+                "B": "Extended",
+                "C": "Light",
+                "D": "Condensed",
+                "E": "Thin"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Bir satırdaki metnin tüm harflerinin aynı düzlemde yan yana dizildiği çizgiye ne ad verilir?",
+            "options": {
+                "A": "Descent",
+                "B": "Orta Çizgi (Mean Line)",
+                "C": "Taban Çizgi (Baseline)",
+                "D": "Ascent",
+                "E": "Büyük Harf Çizgisi (Cap Line)"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "1894 yılında Linn Boyd Benton tarafından tasarlanan ilk büyük Amerikan yazı karakteri aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Century",
+                "B": "Black Letter",
+                "C": "Baskerville",
+                "D": "Jenson",
+                "E": "Garamond"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi tırnaklı (serif) yazı karakterlerinden biri değildir?",
+            "options": {
+                "A": "Baskerville",
+                "B": "Garamond",
+                "C": "Didot",
+                "D": "Rockwell",
+                "E": "Gill Sans"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Roma İmparatorluğunda kazanılan zaferler için anıtların üzerine yazılan yazılara ne ad verilmiştir?",
+            "options": {
+                "A": "Venedik Kapital",
+                "B": "Floransa Kapital",
+                "C": "Milano Kapital",
+                "D": "Antik Kapital",
+                "E": "Trajan Kapital"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "1455 yılında, Gutenberg basımevinde baskısının yapıldığı belgelenen ilk kitap aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Biblia Sacra",
+                "B": "Astronomi Takvimi",
+                "C": "Mainz Mezmurlar Kitabı",
+                "D": "Kırkiki Satırlı İncil",
+                "E": "Vankulu Lügatı"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "----- alfabe, piktogramik alfabelerden tamamen farklı olarak, seslerin yazılı olarak gösterilmesini sağlayan semboller veya harfler bütünüdür. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": {
+                "A": "Uygur",
+                "B": "Fonetik",
+                "C": "Piktogramik",
+                "D": "Latin",
+                "E": "Göktürk"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Bir kavram ya da sözcüğü temsil eden ve resim özelliği taşıyan simgelere ne ad verilir?",
+            "options": {
+                "A": "İdeogram",
+                "B": "Hiyeroglif",
+                "C": "Yazı",
+                "D": "Piktogram",
+                "E": "Alfabe"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Palmiye yaprakları, ağaç kabukları, ahşap, keten bezi, fildişi, kemik, kabuk, papirüs, parşömen, bambu, deri, ipek gibi malzemelerin eski çağlardaki kullanım amacı aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Yazı yüzeyi",
+                "B": "Mürekkep boya",
+                "C": "Fırça ucu",
+                "D": "Cilt kaplaması",
+                "E": "Kurşun kalem"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Sayfa üzerindeki metin ve Görsellerin dengeyi sağlamak adına metin ya da Görsellerin ağırlığının bir tarafa hâkim bir şekilde yerleştirilmesine ne ad verilir?",
+            "options": {
+                "A": "Simetrik kompozisyon",
+                "B": "Dengeli kompozisyon",
+                "C": "Zıt kompozisyon",
+                "D": "Açık kompozisyon",
+                "E": "Asimetrik kompozisyon"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Aaşağıdakilerden hangileri Fütürizmin en temel özelliklerindendir?",
+            "options": {
+                "A": "Seslerin ve hareketin kullanımı",
+                "B": "Tekrarlama, bulanıklaştırma, büyültme, küçültme",
+                "C": "Doğru okumayı etkileyen tasarımlar",
+                "D": "Hız, hareket, eşzamanlılık, özgünlük, heyecan ve ses kavramları",
+                "E": "Gerçekçi, görünür, etkileyeci tasarımlar"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "De Stijl akımında ünlü eserler veren sanatçı aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Herbert Bayer",
+                "B": "Pablo Picasso",
+                "C": "Piet Mondrian",
+                "D": "Alexander Rodchenko",
+                "E": "Flippo Tommaso Marinetti"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "-----, Walter Gropius’un öncülüğünde ----- tarihinde açılan çağdaş sanat ve tasarım anlayışı güden bir sanat ve tasarım okuludur. Yukarıdaki cümlede boş bırakılan yerleri aşağıdakilerden hangisi sırasıyla ve doğru olarak tamamlar?",
+            "options": {
+                "A": "Bauhaus - 1919",
+                "B": "De Stijl - 1920",
+                "C": "HAAS - 1930",
+                "D": "Futura - 1935",
+                "E": "Bauer - 1950"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "MetaDesign, (1979) United Designers (2002) ve Edenspiekermann (2009) gibi önemli tasarım stüdyolarını kurucusu ve Heidelberg Printing, Volkswagen ve Berlin Transit gibi uluslararası şirketlerin tasarım süreçlerinin yöneticiliğini yapmış kişi aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Jonathan Barnbrook",
+                "B": "Erik Spiekermann",
+                "C": "Zuzana Licko",
+                "D": "Neville Brody",
+                "E": "Eric Van Blokland"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisinde vektör yazı karakteri oluşturma teknolojileri birlikte ve doğru olarak verilmiştir?",
+            "options": {
+                "A": "Postscript - TrueType - Metafont",
+                "B": "Bitmap - TrueType - Değişken Font",
+                "C": "TEX - Bitmap - Metafont",
+                "D": "Display Font - Postscript - TrueType",
+                "E": "Bitmap - Display Font - Postscript"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi PostScript'in tanımıdır?",
+            "options": {
+                "A": "Sayısal tipografinin yeni yollarının adıdır.",
+                "B": "Adobe tarafından kullanıma sunulan Type formatıdır.",
+                "C": "Aldus tarafından üretilen Pagemaker sayfa düzenleme programıdır.",
+                "D": "Apple Macintosh bilgisayarlarının yeni sürümüdür.",
+                "E": "Adobe yazılım firması tarafından geliştirilmiş tanımlama ve baskı denetim dilidir."
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "1957’de Max Miedinger tarafından tasarlanan, dünyada en yaygın olarak kullanılan, son derece okunaklı sans serif yazı karakteri aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Univers",
+                "B": "Helvetica",
+                "C": "Arial",
+                "D": "Akzidens Grotesk",
+                "E": "Trajan"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Matbaacılıkta bazı yazı karakteri ailelerinde, büyük harf görünümünde olan, ancak boyları küçük harf “x” yüksekliğinde olacak şekilde tasarlanan harflere ne ad verilir?",
+            "options": {
+                "A": "Small Caps",
+                "B": "Minuscules",
+                "C": "Uppercase",
+                "D": "Lowercase",
+                "E": "Point Size"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "M.Ö 2000’lerde icat edildiği Bergama’dan gelen -------, özel yöntemlerle hazırlanarak kağıda benzer bir özellik kazanan hayvan derisidir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": {
+                "A": "papirüs",
+                "B": "tablet",
+                "C": "hasır",
+                "D": "kağıt",
+                "E": "parşömen"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Madeni sikkeleri icat ederek değiş-tokuş ile yapılan ticareti para ile yapmaya başlayan ilk uygarlık aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Likyalılar",
+                "B": "Hititler",
+                "C": "Lidyalılar",
+                "D": "Sümerler",
+                "E": "Asurlular"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Duygu ve düşünceleri başkalarına bildirmek için herhangi bir madde üzerine çizerek, kazıyarak gösterilen şekil ve işaretlere ------- denir. Yukarıdaki cümleyi aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": {
+                "A": "piktogram",
+                "B": "tipografi",
+                "C": "alfabe",
+                "D": "yazı",
+                "E": "ideogram"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "----- ışık açısı ve nesnelerin tonlamayı etkilemesiyle fotoğraf kağıdı üzerine yansıyan siluet olarak adlandırılabilir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": {
+                "A": "Kaligram",
+                "B": "Linotype",
+                "C": "Tipogram",
+                "D": "Monotype",
+                "E": "Fotogram"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Tolbert Lanston 1887 yılında, sıcak metalden tek karakterler oluşturan ------- makinesini icat etmiştir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": {
+                "A": "litografi",
+                "B": "el baskı makinesi",
+                "C": "monotype",
+                "D": "linotype",
+                "E": "matbaa"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi Max Kisman’ı sayısal font tasarımında öncü yapan çalışmalarından biridir?",
+            "options": {
+                "A": "Blur",
+                "B": "Berliner Grotesk",
+                "C": "FF Meta",
+                "D": "Fudoni",
+                "E": "Harlem"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Fred Woodward’ın tasarım anlayışı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+            "options": {
+                "A": "Yazıların görsel anlatısına önem göstermiş, yazı karakterlerini ve görselleri içerikle eşleştirmiştir.",
+                "B": "İçeriği yansıtacak tasarımlar üretmemiştir.",
+                "C": "Modern tipografi anlayışına sık sıkıya bağlıdır.",
+                "D": "Yazıları özgürce kullanmamış geleneksel tipografi kurallarına uygun tasarımlar üretmiştir.",
+                "E": "Bir dergiyi tek bir font ile tasarlayabilir"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi Ligature'ın tanımıdır?",
+            "options": {
+                "A": "Tırnaklı yazı karakterlerinde görülen en ince çizgidir.",
+                "B": "Ard arda gelen iki harfin birleştirilerek tek bir harf haline dönüştürülmesidir.",
+                "C": "Sadece iki katlı küçük harflerin alt kısmına verilen özel isimdir.",
+                "D": "Harflerin yatay ya da yukarı doğru çıkan eğik çizgilerine verilen isimdir.",
+                "E": "Karakterlerin taban çizgisinin altında kalan parçalarıdır."
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi eşit-en sistemi alt yapılarını gösteren temel geometrik formlardır?",
+            "options": {
+                "A": "Üçgen, daire, beşgen",
+                "B": "Halka, kare, Küp",
+                "C": "Elips, yamuk, dikdörtgen",
+                "D": "Beşgen, daire, kare",
+                "E": "Küp, silindir, altıgen"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi eski biçem (old style) geometrik alt yapılı yazı karakterlerinden biridir?",
+            "options": {
+                "A": "Gill Sans",
+                "B": "Times New Roman",
+                "C": "Helvetica",
+                "D": "Humanist",
+                "E": "Baskerville"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Bir metni, yazı tipi boyutunu veya satır aralığını değiştirmeden gerekli bir alana sığdırmak için ''-------'' ayarı yapılabilir. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
+            "options": {
+                "A": "thin",
+                "B": "x-yüksekliği",
+                "C": "leading",
+                "D": "italic",
+                "E": "tracking"
+            },
+            "correctAnswer": "E"
+        }
+    ],
+    "finalExam": [],
+    "summerExam": []
+}
