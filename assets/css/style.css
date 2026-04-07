@@ -153,6 +153,18 @@ body {
     opacity: 0.3;
 }
 
+.ios-cell.no-chevron {
+    cursor: default;
+}
+
+.ios-cell.no-chevron:active {
+    background-color: transparent;
+}
+
+.ios-input:focus {
+    outline: none;
+}
+
 .ios-btn-primary {
     background-color: var(--ios-blue);
     color: white;

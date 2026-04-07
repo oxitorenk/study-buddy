@@ -6,7 +6,8 @@ let _state = {
     currentSelection: {
         department: null,
         course: null,
-        examType: null
+        examType: null,
+        questionCount: 10
     },
     quiz: {
         active: false,
@@ -169,7 +170,7 @@ function renderExamTypeSelection() {
             tap();
             const id = el.getAttribute('data-id');
             _state.currentSelection.examType = id;
-            startQuiz();
+            renderQuestionCountSelection();
         };
     });
 }
@@ -180,6 +181,86 @@ function shuffleArray(array) {
         [array[i], array[j]] = [array[j], array[i]];
     }
     return array;
+}
+
+function renderQuestionCountSelection() {
+    ui.container.innerHTML = `
+        <div class="slide-in-right">
+            <div class="ios-navbar">
+                <button class="nav-btn" id="back-to-types">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"></polyline></svg>
+                    Sınav Türü
+                </button>
+                <span class="nav-title">Soru Sayısı</span>
+            </div>
+            
+            <div class="ios-list-group" style="margin-top: 20px;">
+                <div class="ios-list-header">Soru Sayısı Ayarla</div>
+                <div class="ios-list">
+                    <div class="ios-cell no-chevron" id="question-count-row">
+                        <div class="ios-cell-inner" style="border-bottom: none;">
+                            <span class="body-text">Soru Sayısı</span>
+                            <input type="number" id="question-count-input" class="ios-input" 
+                                inputmode="numeric" pattern="[0-9]*"
+                                value="${_state.currentSelection.questionCount === 'all' ? 10 : _state.currentSelection.questionCount}" 
+                                min="1" max="100" style="text-align: right; width: 60px; background: none; border: none; color: var(--ios-blue); font-size: 17px; font-weight: 600;">
+                        </div>
+                    </div>
+                </div>
+                <div class="secondary-text" style="margin: 10px 16px;">Kaç soru çözmek istediğinizi girin veya tüm soruları seçin.</div>
+            </div>
+
+            <div style="padding: 0 16px; display: flex; flex-direction: column; gap: 12px; margin-top: 20px;">
+                <button class="ios-btn-secondary" id="all-questions-btn" style="margin-bottom: 0;">Tüm Sorular</button>
+                <button class="ios-btn-primary" id="start-exam-btn">Sınavı Başlat</button>
+            </div>
+        </div>
+    `;
+
+    const input = document.getElementById('question-count-input');
+    
+    document.getElementById('back-to-types').onclick = () => {
+        tap();
+        renderExamTypeSelection();
+    };
+
+    document.getElementById('all-questions-btn').onclick = () => {
+        tap();
+        _state.currentSelection.questionCount = "all";
+        startQuiz();
+    };
+
+    document.getElementById('start-exam-btn').onclick = () => {
+        tap();
+        const val = parseInt(input.value);
+        if (isNaN(val) || val < 1) {
+            alert("Lütfen geçerli bir sayı giriniz.");
+            return;
+        }
+        _state.currentSelection.questionCount = val;
+        startQuiz();
+    };
+
+    // Ensure clicking the row focuses the input
+    document.getElementById('question-count-row').onclick = (e) => {
+        if (e.target !== input) {
+            input.focus();
+        }
+        tap();
+    };
+
+    // Robust focus management
+    input.onfocus = () => {
+        setTimeout(() => {
+            input.select();
+        }, 100);
+    };
+
+    // Immediate sanitization
+    input.oninput = () => {
+        if (input.value > 100) input.value = 100;
+        if (input.value.length > 3) input.value = input.value.slice(0, 3);
+    };
 }
 
 async function startQuiz() {
@@ -207,9 +288,13 @@ async function startQuiz() {
         return;
     }
 
-    // Limit to 10 questions and shuffle
+    // Limit to selected question count or pool size
     let shuffled = shuffleArray([...pool]);
-    _state.quiz.questions = shuffled.slice(0, 10);
+    let count = _state.currentSelection.questionCount;
+    if (count === "all" || count > shuffled.length) {
+        count = shuffled.length;
+    }
+    _state.quiz.questions = shuffled.slice(0, count);
     _state.quiz.currentIndex = 0;
     _state.quiz.score = 0;
     _state.quiz.userAnswers = [];
