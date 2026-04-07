@@ -331,10 +331,19 @@ function renderQuizQuestion() {
     `;
 
     document.getElementById('exit-quiz').onclick = () => {
-        if (confirm("Sınavdan çıkmak istediğinize emin misiniz?")) {
-            _state.quiz.active = false;
-            renderDepartmentSelection();
-        }
+        showActionSheet({
+            title: "Sınavdan çıkmak istediğinize emin misiniz?",
+            buttons: [
+                { 
+                    text: 'Sınavı Bitir', 
+                    style: 'destructive', 
+                    onClick: () => {
+                        _state.quiz.active = false;
+                        renderDepartmentSelection();
+                    } 
+                }
+            ]
+        });
     };
 
     const options = document.querySelectorAll('.option-card');
@@ -451,6 +460,57 @@ function renderWrongAnswers() {
     document.getElementById('back-to-results').onclick = () => {
         tap();
         showResults();
+    };
+}
+
+function showActionSheet(options) {
+    const overlay = document.createElement('div');
+    overlay.className = 'action-sheet-overlay';
+    
+    // Create the structure
+    overlay.innerHTML = `
+        <div class="action-sheet">
+            <div class="action-sheet-group">
+                <div class="action-sheet-title">${options.title}</div>
+                ${options.buttons.map((btn, idx) => `
+                    <button class="action-sheet-btn ${btn.style || ''}" data-idx="${idx}">${btn.text}</button>
+                `).join('')}
+            </div>
+            <div class="action-sheet-group">
+                <button class="action-sheet-btn cancel">Vazgeç</button>
+            </div>
+        </div>
+    `;
+
+    document.body.appendChild(overlay);
+
+    // Force reflow and activate
+    requestAnimationFrame(() => overlay.classList.add('active'));
+
+    const closeHandler = (callback) => {
+        overlay.classList.remove('active');
+        setTimeout(() => {
+            overlay.remove();
+            if (callback) callback();
+        }, 300);
+    };
+
+    overlay.querySelectorAll('.action-sheet-btn').forEach(btn => {
+        btn.onclick = () => {
+            tap();
+            const idx = btn.getAttribute('data-idx');
+            if (idx !== null) {
+                const buttonDef = options.buttons[idx];
+                closeHandler(buttonDef.onClick);
+            } else {
+                // Cancel button
+                closeHandler();
+            }
+        };
+    });
+
+    overlay.onclick = (e) => {
+        if (e.target === overlay) closeHandler();
     };
 }
 
