@@ -1,6 +1,6 @@
 {
     "name": "Study Buddy",
-    "short_name": "StudyBuddy",
+    "short_name": "Study Buddy",
     "description": "AÖF çıkmış sorular.",
     "start_url": "./index.html",
     "display": "standalone",
