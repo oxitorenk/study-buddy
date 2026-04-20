@@ -14,14 +14,17 @@ def extract_from_pdf(pdf_path):
         full_text += page.extract_text() + "\n"
     return full_text
 
-def parse_questions(text):
+def parse_questions(text, course_name):
     # Detect the booklet (Group A or B)
     # We'll try to parse Group A if available, then B if not.
     
-    parts = text.split("ANADOLU KÜLTÜR TARİHİ A")
+    marker_a = f"{course_name} A"
+    marker_b = f"{course_name} B"
+
+    parts = text.split(marker_a)
     if len(parts) < 2:
          # Fallback to B if A not found
-         parts = text.split("ANADOLU KÜLTÜR TARİHİ B")
+         parts = text.split(marker_b)
          booklet = "B"
     else:
          booklet = "A"
@@ -127,7 +130,8 @@ def merge(new_questions, target_json):
 if __name__ == "__main__":
     pdf = sys.argv[1]
     target = sys.argv[2]
+    course_name = sys.argv[3] if len(sys.argv) > 3 else "ANADOLU KÜLTÜR TARİHİ"
     
     text = extract_from_pdf(pdf)
-    qs = parse_questions(text)
+    qs = parse_questions(text, course_name)
     merge(qs, target)

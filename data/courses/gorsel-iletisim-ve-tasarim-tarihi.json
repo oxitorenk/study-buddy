@@ -596,6 +596,380 @@
                 "E": "Sayfa no"
             },
             "correctAnswer": "B"
+        },
+        {
+            "questionText": "------- akımı tasarımdaki öznelciliğe karşı bir\nduruş sergilemekte olup, eğrisel çizgisel ve\nyuvarlatılmış formlara sahip her öge bu akımda\ndışlanmıştır. \nYukarıdaki cümlede boş bırakılan yeri\naşağıdakilerden hangisi doğru şekilde\ntamamlar?",
+            "options": {
+                "A": "Art Deco",
+                "B": "Futurizm",
+                "C": "Art Nouveau",
+                "D": "Kubizm",
+                "E": "De Stijl"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "------- büyük harf ve ------- küçük harf demektir.\nYukarıdaki cümlede boş bırakılan yerleri\naşağıdakilerden hangisi sırasıyla ve doğru\nşekilde tamamlar?",
+            "options": {
+                "A": "Majiskül / Miniskül",
+                "B": "Tam /Yarım",
+                "C": "Altı Çizili / Çizgisiz",
+                "D": "Serif / Sanserif",
+                "E": "İtalik / Bold"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "------- bir veya daha fazla harfin tek bir simge\noluşturmak için tasarlanmasıdır.\nYukarıdaki cümlede boş bırakılan yeri\naşağıdakilerden hangisi doğru şekilde\ntamamlar?",
+            "options": {
+                "A": "Logotype",
+                "B": "Kolofon",
+                "C": "Monogram",
+                "D": "İnfografik",
+                "E": "Piktogram"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "2022 BAHAR DÖNEM SONU - A\n\n\n\n\n\n\n\nGenellikle tanıtım ve duyuru amaçlı yapılan\nresimli ve yazılı duvar ilanlarına ne ad\nverilir?",
+            "options": {
+                "A": "Font ailesi",
+                "B": "Font",
+                "C": "Tipografi",
+                "D": "Afiş",
+                "E": "Fotoğraf"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Wes Wilson tarafından yapılan  aşağıdaki\nsavaş karşıtı afişlerden hangisi baskın\nrenkleri, politik mesajı ve farklı estetik\ndüzenlemesi ile dikkat çekmiştir?",
+            "options": {
+                "A": "Skeleton and Roses",
+                "B": "Are we Next? Be Aware",
+                "C": "In Utero",
+                "D": "Pop Goes Poster",
+                "E": "Family Dog"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "İletilmek istenen fikir veya kavramı, fiziksel\nforma gönderme yapmadan belirten grafik\nelemanlara ne ad verilir?",
+            "options": {
+                "A": "Therianthropi",
+                "B": "Sufumato",
+                "C": "Sembol",
+                "D": "Stylus",
+                "E": "Piktogram"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi Art Nouveau sanat\nhareketinin esinlendiği kaynaklardan biri\ndeğildir?",
+            "options": {
+                "A": "Fransız kabare kültürü",
+                "B": "Psikoloji bilimi",
+                "C": "Doğal motifler",
+                "D": "Rubens, Fragonard gibi romantik dönem\nressamları",
+                "E": "Japon ahşap baskıları"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Marcel Duchamp aşağıdaki modern sanat\nakımlarından hangisinin en önemli\ntemsilcilerinden biridir?",
+            "options": {
+                "A": "Kubizm",
+                "B": "Futurizm",
+                "C": "Sürrealizm",
+                "D": "De Stijl",
+                "E": "Dadaizm"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Baskı teknolojisini Avrupa’ya getiren kâşif\naşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Ugolino Vivaldi",
+                "B": "Kristof Kolomb",
+                "C": "Marco Polo",
+                "D": "Pîrî Reis",
+                "E": "Ricoldus de Monte Crucis"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Yazı karakterlerdeki harflerin kalınlığı için\nkullanılan terime ne ad verilir?",
+            "options": {
+                "A": "Et kalınlığı",
+                "B": "Miniskül",
+                "C": "Majiskül",
+                "D": "Grotesk",
+                "E": "Neo-Grotesk"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi Konstrüktivizm\nakımının Türkçe karşılığıdır?",
+            "options": {
+                "A": "Yapıcılık",
+                "B": "İnşacılık - Yapısalcılık",
+                "C": "Yapısökümcülük",
+                "D": "Gerçeküstücülük",
+                "E": "Azcılık"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Bauhaus'ta tipografi ve reklam ürünleri\ntasarımında çalışmalar yapan , yazı tipi\ntasarımlarında basitlik ve işlevselliği ön\nplanda tutan, ayrıca açık hava reklamları ve\nstant tasarımlarına öncülük eden tasar ımcı\naşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Hannes Meyer",
+                "B": "Walter Gropius",
+                "C": "Herbert Bayer",
+                "D": "Marcel Lajos Breuer",
+                "E": "Georg Schmidthammer"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Alexander Rodchenko'nun tasarımlarında\nestetik kaygıların ötesinde öncelik verdiği\nunsurlar aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "İnsan figürünün merkeze alınması ve\nduygusal ifadelerin ön plana çıkarılması",
+                "B": "Soyut ifadelerin kullanımı ve duygusal\nderinlik",
+                "C": "Fotomontaj tekniklerinin ustaca kullanımı ve\nfilm tekniğiyle benzerlikler",
+                "D": "Özgün tipografi kullanımı ve basit,\nanlaşılabilir tasarım anlayışı",
+                "E": "Natüralist anlatımların tercih edilmesi ve"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Helvetica yazı tipinin 1960'larda uluslararası\nalanda popüler hale gel mesinin nedeni\naşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Helvetica, savaş sonrası iyimserliği ve\ngeleceğe dair umutları temsil ediyor olması",
+                "B": "Helvetica, Akzidenz Grotesk'ten daha\nmodern ve minimalist bir tasarıma sah ip\nolması",
+                "C": "Helvetica, New York Metrosu gibi büyük\nprojelerde kullanılmış olması",
+                "D": "Helvetica, Massimo Vignelli gibi tanınmış\ntasarımcılar tarafından destekleniyor olması",
+                "E": "Helvetica, Avrupa ve ABD'de yaygın olarak"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "İsviçre Stili'nin temel ilkeleriyle ilgili\naşağıdaki ifadelerden hangisi doğrudur?",
+            "options": {
+                "A": "İsviçre Stili, sanatçının öznelliğini\nvurgulamayı amaçlar.",
+                "B": "Grafik tasarımın temel ilkeleri, İsviçre\nStili'nin temel felsefesine ters düşer.",
+                "C": "Uluslararası Tipografik Stil, kişisel ifadeyi\nteşvik eder.",
+                "D": "İsviçre Stili, netlik, minimalizm ve düzen gibi\nilkeleri benimser.",
+                "E": "İsviçre Stili, karmaşıklık ve süslemeleri"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Sembollerin logo tasarımında kullanılmasının\nönemi ve etkileriyle ilgili aşağıdaki\nifadelerden hangisi doğrudur?",
+            "options": {
+                "A": "Logo tasarımında sembollerin kullanımı,\nmetinlerin anlaşılmasını sağlamak için\ngereklidir.",
+                "B": "Semboller, logo tasarımında karmaşıklığı\nartırarak iletişimi güçleştirir.",
+                "C": "Semboller, logo tasarımında metaforik\niletişimi teşvik etmek için kullanılır.",
+                "D": "Logo tasarımında sembollerin kullanımı,\nmarkanın neyle ilgili olduğunu özetleyen\nbenzersiz bir sembol oluşturmayı amaçlar.",
+                "E": "Logolar, sembollerin karmaşık ve gizemli"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Henri Micaux, 1956'da \"Miserabla Miracle\"\nadlı eseriyle a şağıdaki sanat akımlar ından\nhangisinin öncüsü olarak kabul edilir?",
+            "options": {
+                "A": "İmpresyonizm",
+                "B": "Rönesans",
+                "C": "Romantizm",
+                "D": "Barok",
+                "E": "Psychedelic"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "----- ile karmaşık şekiller oluşturabilir, pürüzsüz\nuç noktalar, onları özellikle harf formları ve\nbilgisayar grafikleri oluşturmak için kullanışlı hale\ngetirir.\nYukarıdaki cümlede boş bırakılan yeri\naşağıdakilerden hangisi doğru şekilde\ntamamlar?",
+            "options": {
+                "A": "Postscript",
+                "B": "Mizanpaj",
+                "C": "Bezier eğrileri",
+                "D": "Arayüz",
+                "E": "İnternet"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Pop Sanat akımının kökenleri aşağıdakilerden\nhangisine dayanmaktadır?",
+            "options": {
+                "A": "Rönesans döneminin perspektif tekniğine",
+                "B": "Orta Çağ dini temalı eserlere",
+                "C": "Antik Yunan dönemi estetik anlayışına",
+                "D": "19. yüzyıl sanayileşme ve kapitalist\ndeğerlerin yükselişine",
+                "E": "Barok döneminin heykelsi üslubuna"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "----- bilgilendirme ve yönlendirme işaretleri, sergi\nalanları ve açık hava reklamcılığını içerir. Bunun\nyanı sıra çevremizde kurulu yapılardaki tüm\ntasarım ögelerini de kapsar.\nYukarıdaki cümlede boş bırakılan yeri\naşağıdakilerden hangisi doğru şekilde\ntamamlar?",
+            "options": {
+                "A": "Dijital tasarım",
+                "B": "İç mekan tasarımı",
+                "C": "Yazı tasarımı",
+                "D": "Sayfa tasarımı",
+                "E": "Çevresel tasarım"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Orta Çağ Avrupası'ndaki el yazmaları ve yazı\nstilleri hakkında aşağıdaki ifadelerden\nhangisi doğrudur?",
+            "options": {
+                "A": "Romanesk Dönem'de el yazmalarının\nsayısının arttığı gibi manastırlar ve kiliselerin\nsayısı da artmıştır.",
+                "B": "Carolingian yazı stili, yalnızca büyük\nharflerden oluşmuş ve küçük harfler\niçermemiştir.",
+                "C": "Gotik Dönem'deki \"Textura\" yazı stili,\nmetinleri daha açık ve geniş alanlı hale\ngetirerek okunabilirliği artırmıştır.",
+                "D": "Kelt el yazmalarında, gerçekçi figürler ve\ndoğal manzaralar ön planda olup, soyut\ndesenler kullanılmamıştır.",
+                "E": "Şarlman döneminde, Yorklu Alcuin"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Aşağıdaki yazı yüzeylerinin hangisinin daha\nkaliteli versiyonuna “Vellum” denilmiştir?",
+            "options": {
+                "A": "Mermer",
+                "B": "Parşömen",
+                "C": "Kil tablet",
+                "D": "Papirüs",
+                "E": "Kağıt"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi Baskerville'in\ntipografi alanındaki çalışmalarının temel\namacını en iyi şekilde tanımlar?",
+            "options": {
+                "A": "Müzik tipografisi üzerine öncü çalışmalar\nyapmak",
+                "B": "Matematiksel olarak tanımlanmış yazı\nkarakterleri geliştirmek",
+                "C": "Rokoko tarzı dekoratif süslemeleri kitaplara\nuygulamak",
+                "D": "William Caslon'un yazı tiplerini tamamen\ndeğiştirerek yeni bir estetik yaratmak",
+                "E": "Caslon'un yazı tiplerini daha okunaklı hale"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Yeni çağın gelecekteki t üm tipografi\nçalışmalarının temel taşı olacak h ümanist\nroman yazı yüzünü yaratan kişi\naşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Erhard Ratdolt",
+                "B": "Claude Garamond",
+                "C": "Henri Estiennes",
+                "D": "Nicholas Jenson",
+                "E": "Geoffroy Tory"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Arts and Crafts (Sanat ve Zanaat)\nHareketi'nin temel prensipleri ve hedefleri\ngöz önüne alındığında, aşağıdaki ifadelerden\nhangisi bu hareketin içsel çelişkisini en iyi\nşekilde yansıtmaktadır?",
+            "options": {
+                "A": "Endüstriyel devrimin getirdiği seri üretime\nkarşı çıkarken, aynı zamanda\nmakineleşmenin potansiyelini tamamen\nreddetmemeleri",
+                "B": "Geçmişin zanaat tekniklerini canlandırmayı\nhedeflerken, yeni ve özgün tasarımlar\nyaratmaya çalışmaları",
+                "C": "Toplumsal bir değişim yaratmayı\nhedeflerken, daha çok elit bir kesime hitap\neden ürünler üretmeleri",
+                "D": "El emeğinin değerini savunurken, üretim\nmaliyetlerini yeterince hesaplayamamaları",
+                "E": "Sanat ve zanaatı birleştirmeyi amaçlarken,"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Üretici ve el işçiliğini bir araya getirmenin\nçabası, modern yaşam, makine çağı kültürüne\nait motifler, tüketim kültürüne gönderme gibi\nözellikler aşağıdaki akımlardan hangi sine\naittir?",
+            "options": {
+                "A": "Kubizm",
+                "B": "Dada",
+                "C": "Futurizm",
+                "D": "Sürrealizm",
+                "E": "Art Deco"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Manifestoların tasarım ve sunumuyla ilgili\naşağıdaki ifadelerden hangisi doğrudur?",
+            "options": {
+                "A": "Manifestolar genellikle renkli ve ciddiyetsiz\ntipografiye sahiptir.",
+                "B": "Manifestolar genellikle sert siyah-beyaz\ntipografiyle sunulur.",
+                "C": "Manifestolar her zaman renkli ve gösterişli\nolmaya özen gösterir.",
+                "D": "Manifestoların çoğu grafik olarak dikkat\nçekici ve renklidir.",
+                "E": "İlk sanat manifestolarından biri 1918'de Le"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Jan Tschichold ve Yeni Tipografi ile ilgili\naşağıdakilerden hangisi doğrudur?",
+            "options": {
+                "A": "Adrian Frutiger, “Die Neue Typografie”\nkitabını yazmış ve Konstrüktivizm’den\netkilenmiştir.",
+                "B": "Yeni Tipografi, süslemelerden uzak ve\nişlevsel bir tasarım anlayışını benimsemiştir.",
+                "C": "Paul Renner, Yeni Tipografi manifestolarını\nyazmış ve Univers yazı tipini tasarlamıştır.",
+                "D": "Jan Tschichold, tipografide süslemeleri\nsavunmuş ve geleneksel tasarımları\nreddetmiştir.",
+                "E": "Jan Tschichold, Bauhaus’un bir üyesi olarak"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "------- büyük harf ve ------- küçük harf demektir.\nYukarıdaki cümlede boş bırakılan yerleri\naşağıdakilerden hangisi sırasıyla ve doğru\nolarak tamamlar?",
+            "options": {
+                "A": "Altı Çizili / Çizgisiz",
+                "B": "İtalik / Bold",
+                "C": "Tam /Yarım",
+                "D": "Majiskül / Miniskül",
+                "E": "Serif / Sanserif"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Helvetica yazı tipinin uluslararası üne\nkavuşmasında en önemli katkıyı sağlayan\ntasarımcı ve proje aşağıdakilerden\nhangisidir?",
+            "options": {
+                "A": "Max Miedinger ve Eduard Hoffmann'ın\n\"Neue Haas Grotesk\" tasarımı",
+                "B": "H. Berthold AG dökümhanesinin Akzidenz\nGrotesk yazı tipi",
+                "C": "Massimo Vignelli ve Bob Noorda'nın New\nYork Metrosu için tasarladığı görsel kimlik",
+                "D": "Gary Hustwit'in 2007 yılında çektiği\n\"Helvetica\" belgeseli",
+                "E": "İsviçre tasarımında 1950'lerde yaşanan"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Op Sanatı sanatçıları ve eserleriyle ilgili\naşağıdakilerden ifadelerden hangisi\ndoğrudur?",
+            "options": {
+                "A": "Bridget Riley, “Fall” eserinde yatay çizgilerle\nsabit bir görüntü algısı yaratmıştır.",
+                "B": "Richard Anuszkiewicz, “Ters Artı” eserinde\ntek bir renk tonuyla optik etki oluşturmuştur.",
+                "C": "Victor Vasarely, “Zebra” eserinde siyah ve\nbeyaz zıtlığını kullanarak Op Sanatını\nbaşlatmıştır.",
+                "D": "Victor Vasarely, “Vega Mavisi” eserinde\nmatematiksel desenler kullanmaktan\nkaçınmıştır.",
+                "E": "Bridget Riley, “Katarakt 3” eserinde sadece"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Postmodernizmin grafik tasarıma katkıları\naşağıdakilerden hangi sinde doğru olarak\nverilmiştir?",
+            "options": {
+                "A": "Wolfgang Weingart, tipografik kuralları\nsorgulayarak görsel efektler ve sezgisel\ntasarımlarla İsviçre stilini dönüştürmüştür.",
+                "B": "Wolfgang Weingart’ın “Staatlicher” afişi,\ndüzenli yazı öbekleri ve sabit bir\nkompozisyonla geleneksel tipografiyi\nyansıtmaktadır.",
+                "C": "April Greinman, tasarımlarında derinlik ve üç\nboyutlu hissi reddederek düzlemsel bir\nestetik benimsemiştir.",
+                "D": "Postmodernizm, İsviçre stilinin tipografik\ndüzenini güçlendirmiş ve deneysel\nyaklaşımlardan uzak durmuştur.",
+                "E": "“Yeni Dalga” yaklaşımı, modernist tasarım"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Bilgisayar teknolojisinin görsel iletişim\ntasarımına getirdiği en önemli katkı\naşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Tasarımların daha fazla kişiye ulaşmasını\nsağlaması",
+                "B": "Tasarım sektöründe rekabeti artırması",
+                "C": "Tasarımcıların çalışma hızını artırması",
+                "D": "Tasarım sürecinin maliyetini düşürmesi",
+                "E": "Görülmemiş görüntüler ve formlar yaratma"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Tim Berners-Lee ile ilgili aşağıdaki\nifadelerden hangisi doğrudur?",
+            "options": {
+                "A": "Film başlıkları tasarımında \"Geç Saul Bass\"\ntarzını geliştiren kişidir.",
+                "B": "Hollywood Reporter'da film eleştirmeni\nolarak çalışmıştır.",
+                "C": "İnteraktif medya kavramını ilk tanımlayan\nkişidir.",
+                "D": "Imaginary Forces şirketinin kurucularından\nbiridir.",
+                "E": "Cenevre'deki İsviçre Nükleer Araştırmalar"
+            },
+            "correctAnswer": "E"
         }
     ],
     "summerExam": []
