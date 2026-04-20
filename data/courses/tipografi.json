@@ -684,6 +684,468 @@
                 "E": "Karakter Genişliği"
             },
             "correctAnswer": "C"
+        },
+        {
+            "questionText": "Palmiye yaprakları, ağaç kabukları, ah şap,\nketen bezi, fildi şi, kemik, kabuk, papir üs,\nparşömen, bambu, deri, ipek gibi\nmalzemelerin eski çağlardaki kullanım amacı\naşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Fırça ucu",
+                "B": "Kurşun kalem",
+                "C": "Mürekkep boya",
+                "D": "Cilt kaplaması",
+                "E": "Yazı yüzeyi"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Grafik ve yazıların tanınmasına ve yazıcıya\nulaştırılarak çıktı alınmasını sağlayan\ntanımlama dili aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Linotype",
+                "B": "Tex",
+                "C": "Truetype",
+                "D": "Postscript",
+                "E": "Microsoft"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Karakterleri/harfleri oluşturan çizgilerin\n(stroke) sonundaki küçük yatay çizgiler ya da\nayaklara ne ad verilir?",
+            "options": {
+                "A": "Kulak (Ear)",
+                "B": "Bitiş (Finial)",
+                "C": "Tırnak (Serif)",
+                "D": "Kuyruk (Tail)",
+                "E": "Kol (Arm)"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Grafik tasarımda 1950’lilerde yeni\nteknolojilerin sundu ğu olanaklarla ifade\nedilen yakla şımların hakim oldu ğu bir\ndönemde \"Uluslararası Tipografik Stil\nhareketi\" aşağıdaki ülkelerden hangisinde\nortaya çıkmıştır?",
+            "options": {
+                "A": "Hollanda",
+                "B": "İtalya",
+                "C": "ABD",
+                "D": "İrlanda",
+                "E": "İsviçre"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Görsel ağırlık ile ilgili aşağıdaki ifadelerden\nhangisi yanlıştır?",
+            "options": {
+                "A": "Soğuk renk, sıcak renge göre daha ağırdır.",
+                "B": "Büyük şekil, küçük şekilden ağırdır.",
+                "C": "Büyük bir gri form, küçük bir siyah form ile\ndengelenebilir.",
+                "D": "Dokulu bir şekil, dokusuz bir şekle göre\ndaha ağırdır.",
+                "E": "Donuk tonlar hafif, parlak tonlar ağırdır."
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Tasarım elemanlarının, kompozisyonun\nmerkezinde bir noktadan yayılarak\noluşturduğu denge türü aşağıdakilerden\nhangisidir?",
+            "options": {
+                "A": "Asimetrik Denge",
+                "B": "Dinamik Denge",
+                "C": "Bakışımlı Denge",
+                "D": "Radyal Denge",
+                "E": "Optik Denge"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Simetrik bir yapıya sahip, bir veya daha fazla\nkelimenin farklı yönlerden de okunabildiği\ntipografik düzenlemelere ne ad verilir?",
+            "options": {
+                "A": "Eğlenceli tasarım",
+                "B": "Ambigram",
+                "C": "Simetrik tipografi",
+                "D": "Logogram",
+                "E": "Piktogram"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Kapalılık olarak da bilinen tasarım ilkesine göre\nayrı parçalardan oluşan ya da dış hatları\ntamamen tamamlanmayan görsel elemanlar bir\nbütün olarak alg ılanabilir. Kimi zaman boş bir\nalan bile bir nesne olarak algılanabilir.\nYukarıda anlatılan Gestalt ilkesi\naşağıdakilerinden hangisidir?",
+            "options": {
+                "A": "Benzerlik İlkesi",
+                "B": "Şekil-zemin İlkesi",
+                "C": "Tamamlama İlkesi",
+                "D": "Devamlılık İlkesi",
+                "E": "Yakınlık İlkesi"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Teknolojinin tipografi alanındaki en büyük\ngelişmesi olarak tanımlanan ----- geleneksel font\nailesi kavramını dönüştürerek olasılıklı\ndeğişkenlik sağlar.\nYukarıdaki cümlede boş bırakılan yeri\naşağıdakilerden hangisi doğru şekilde\ntamamalar?",
+            "options": {
+                "A": "Variable Fontlar",
+                "B": "Kaligrafik Fontlar",
+                "C": "Display Fontlar",
+                "D": "Grotesk Fontlar",
+                "E": "Tırnaksız (Sans-serif) Fontlar"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi basılı ortamlarda\ntipografinin kullanıldığı yüzeylerden biri\ndeğildir?",
+            "options": {
+                "A": "Afiş",
+                "B": "Film jeneriği",
+                "C": "Bilboard",
+                "D": "Katalog",
+                "E": "Broşür"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Dijital ortamlarda yazının boyutlandırılması\niçin en uygun ölçü birimi aşağıdakilerden\nhangisidir?",
+            "options": {
+                "A": "Metre (m)",
+                "B": "Milimetre (mm)",
+                "C": "Piksel (Px)",
+                "D": "İnç (in)",
+                "E": "Santimetre (cm)"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Tipografinin gelişiminde en büyük\nhızlanmayı ve çeşitliliği sağlayan gelişme\naşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Serigrafik baskının bulunuşu",
+                "B": "1920 ile 1950 arasında yaşanan gelişmeler",
+                "C": "İlk gazetelerin ortaya çıkışı",
+                "D": "Bilgisayarın keşfi ve masaüstü yayıncılık\nteknolojisinin gelişmesi",
+                "E": "El yazması kitaplardan matbaaya geçiş"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "\"Kerning\" ile ilgili aşağıdaki ifadelerden\nhangisi doğrudur?",
+            "options": {
+                "A": "Farklı boşluk düzenine sahip harflerdir.",
+                "B": "Harf arası sistemematik boşluk hesaplama\ncetvelidir.",
+                "C": "Küçük harflerden oluşan kelimelerin yapısal\nbenzerlikleridir.",
+                "D": "Harflerin iç ve dış boşluklarıdır.",
+                "E": "Belirli bir harf çiftinin varsayılan karakter"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "----- dizgi ve baskı endüstrisinde kullanılan,\ndengeli harf dağılımları sayesinde okunabilir yazı\nblokları yaratan, anlamı olmayan mıgır dolgu\nmetinleridir.\nYukarıdaki cümlede boş bırakılan yeri\naşağıdakilerden hangisi doğru şekilde\ntamamlar?",
+            "options": {
+                "A": "Paragraf yazıları",
+                "B": "Lorem ipsum",
+                "C": "Geniş sütun yazıları",
+                "D": "Soldan bloklama",
+                "E": "Modüler yazılar"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi tipografide fazla dar\nveya geniş bırakılan boşlukların yol açtığı\nsorunlardan biridir?",
+            "options": {
+                "A": "Okunurluk",
+                "B": "Punto",
+                "C": "Benzerlik",
+                "D": "Ritim",
+                "E": "Piksel"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi tasarımda kullanılan\nen temel ızgara çeşitlerinden biri değildir?",
+            "options": {
+                "A": "Blok ızgara",
+                "B": "İleri, geri ızgara",
+                "C": "Modüler ızgara",
+                "D": "Sütun ızgara",
+                "E": "Hiyerarşik ızgara"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Küçük harfin büyük harfe göre y üksekliğinin\ntipografideki karşılığı aşağıdakilerden\nhangisidir?",
+            "options": {
+                "A": "Karakter Genişliği",
+                "B": "Karakter Ağırlığı",
+                "C": "x- Yüksekliği",
+                "D": "Yazı Karakteri",
+                "E": "Bitişik Yazılar"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi karakter ağırlığının\ntanımıdır?",
+            "options": {
+                "A": "Yazı karakterinin ağırlığı, tırnaklı harflerin\ntırnaklarının inceliği ve kalınlığıdır.",
+                "B": "Yazı karakterinin ağırlığı, harf çizgisi\nkontrastının harfteki kalın ve ince çizgilerin\nbirbiriyle olan ilişkisidir.",
+                "C": "Yazı karakterinin ağırlığı, yüksekliğine göre\nne kadar geniş olduğuna bağlıdır.",
+                "D": "Yazı karakterinin ağırlığı, Harflerin belirgin\nolup olmamasıdır.",
+                "E": "Yazı karakterinin ağırlığı, harf çizgilerinin"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi bir yazı karakterinin\nokunurluğuna katkıda bulunan ana\nbaşlıklardan biri değildir?",
+            "options": {
+                "A": "Tipografinin Doğası",
+                "B": "Karakter Genişliği",
+                "C": "x- yüksekliği",
+                "D": "Bitişik Yazılar",
+                "E": "Tırnaklı ve Tırnaksız Yazılar"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "------- koyu renk zeminde açık renk harflerin\nkullanılmasıdır.\nYukarıdaki cümlede boş bırakılan yeri\naşağıdakilerden hangisi doğru şekilde\ntamamlar?",
+            "options": {
+                "A": "Allograf",
+                "B": "Nehirler",
+                "C": "Uyumlama",
+                "D": "Dişi yazı",
+                "E": "Kırıntılar"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Duygu ve düşünceleri ba şkalarına bildirmek\niçin herhangi bir madde üzerine çizerek,\nkazıyarak gösterilen şekil ve i şaretlere ne ad\nverilir?",
+            "options": {
+                "A": "Logogram",
+                "B": "Yazı",
+                "C": "Simge",
+                "D": "Piktogram",
+                "E": "Fonetik"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi F ütürizmin genel\nözelliklerinden biridir?",
+            "options": {
+                "A": "İşlevsellik",
+                "B": "Dekorasyon",
+                "C": "Süsleme",
+                "D": "Geleneksellik",
+                "E": "Eşzamanlılık"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Bir yazı karakterinin birden çok\nvaryasyonunun (ağırlıklar, genişlikler, optik\nboyut, tırnaklıdan tırnaksıza gibi)\noluşturulmasına olanak tanıyan ve dosya\nalanından tasarruf sağlayan yazı formatı\naşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Bitmap Font",
+                "B": "Type 3 Font",
+                "C": "Variable Font",
+                "D": "TrueType Font",
+                "E": "Postscript Font"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi  o luşturulacak\nmetnin algılanabilir bir düzen içerisinde\nolmasını öncelikli olarak sağlar?",
+            "options": {
+                "A": "Üst Uzantılar Çizgisi",
+                "B": "Satır Çizgisi",
+                "C": "Alt Uzantılar Çizgisi",
+                "D": "X Yüksekliği",
+                "E": "Orta Çizgi"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Tasarımda genellikle ------- ve ------- dengeden\nsöz edilmektedir.\nYukarıdaki cümlede boş bırakılan yerleri\naşağıdakilerden hangi si sırasıyla ve doğru\nşekilde tamamlar?",
+            "options": {
+                "A": "sıcak / soğuk",
+                "B": "tipografik / resimsel",
+                "C": "boş / dolu",
+                "D": "simetrik / asimetrik",
+                "E": "sık / seyrek"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi tipografik\ndüzenlemelerde görsel ağırlığı belirleyen\nfaktörlerden  biri değildir?",
+            "options": {
+                "A": "Devamlılık",
+                "B": "Konumlandırma",
+                "C": "Şekil",
+                "D": "Renk",
+                "E": "Büyük-küçük ilişkisi"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "2022 BAHAR DÖNEM SONU - A\n\n\n\n\n\n\n\nYazının boyutlandırılması için basılı ortamlarda\nendüstri standardı olan  ------- ölçeklendirme\nbiçimi kullanılırken, dijital ortamlarda  -------\nölçeklendirmesi kullanılmaktadır.\nYukarıdaki cümlede boş bırakılan yerleri\naşağıdakilerden hangi si sırasıyla ve doğru\nşekilde tamamlar?",
+            "options": {
+                "A": "CMYK / RGB",
+                "B": "tram / bitmap",
+                "C": "santimetre / inç",
+                "D": "punto / piksel",
+                "E": "true type / variable font"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi bir \"altın\ndikdörtgen\" örneğidir?",
+            "options": {
+                "A": "A4 Kâğıt",
+                "B": "Kapı Ölçüsü",
+                "C": "Cep Telefonu Ekranı",
+                "D": "5/4 Bilgisayar Ekranı",
+                "E": "16/9 TV Ekranı"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "----- alfabe, piktogramik alfabelerden tamamen\nfarklı olarak, seslerin yazılı olarak gösterilmesini\nsağlayan semboller veya harfler bütünüdür.\nYukarıdaki cümlede boş bırakılan yeri\naşağıdakilerden hangisi doğru şekilde\ntamamlar?",
+            "options": {
+                "A": "Latin",
+                "B": "Fonetik",
+                "C": "Göktürk",
+                "D": "Uygur",
+                "E": "Piktogramik"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Matbaacılıkta bazı yazı karakter i ailelerinde,\nbüyük harf görünümünde olan, ancak boyları\nküçük harf “x” yüksekliğinde olacak şekilde\ntasarlanan harflere ne ad verilir?",
+            "options": {
+                "A": "Lowercase",
+                "B": "Point Size",
+                "C": "Uppercase",
+                "D": "Minuscules",
+                "E": "Small Caps"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Verilmek istenen mesaj doğrultusunda,\ntasarım yüzeyi üzerinde yer alan görsel\nelemanların, baskınlık derecesine göre\nölçülendirilerek düzenlenmesine ne ad\nverilir?",
+            "options": {
+                "A": "Görsel hiyerarşi",
+                "B": "Vurgu",
+                "C": "Denge",
+                "D": "Mizanpaj",
+                "E": "Asimetrik denge"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "MetaDesign, (1979) United Designers (2002)\nve Edenspiekermann (2009) gibi önemli\ntasarım stüdyolarını kurucusu ve Heidelberg\nPrinting, Volkswagen ve Berlin Transit gibi\nuluslararası şirketlerin tasarım süreçlerinin\nyöneticiliğini yapmış kişi aşağıdakilerden\nhangisidir?",
+            "options": {
+                "A": "Neville Brody",
+                "B": "Zuzana Licko",
+                "C": "Erik Spiekermann",
+                "D": "Jonathan Barnbrook",
+                "E": "Eric Van Blokland"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "\"Görsel a ğırlık, konum ve d üzenlemenin\nbirbirleriyle olan ili şkisi g öz önünde\nbulundurulmalıdır.\" ifadesi aşağıdaki tasarım\nilkelerinden hangisi ile ilgilidir?",
+            "options": {
+                "A": "Ritim",
+                "B": "Denge",
+                "C": "Vurgu",
+                "D": "Oran-orantı",
+                "E": "Görsel hiyerarşi"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi etkili bir tipografik\nhiyerarşi için kullanılması gerekenlerden biri\ndeğildir?",
+            "options": {
+                "A": "Bilgilerin önem sırası belirlenmelidir.",
+                "B": "Metni vurgulayıcı unsurlar kullanılmalıdır.",
+                "C": "Hizalama ve sütun kullanımı ile devamlılık\nsağlanmalıdır.",
+                "D": "Metni ayırıcı işaretler kullanılmalıdır.",
+                "E": "Kenar çubukları ve madde işaretleri"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi Nike Logosunda\nkullanılan yazı karakteridir?",
+            "options": {
+                "A": "Helvetica Condensed Black Italic",
+                "B": "Helvetica Condensed Italic",
+                "C": "Helvetica Narrow Condensed",
+                "D": "Helvetica Narrow Bold",
+                "E": "Helvetica Condensed Black"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Otoyollarda kullanılan d ış mekân\nyönlendirme tasarım larında  harf y üksekliği\nkaç cm. olmalıdır?",
+            "options": {
+                "A": "10 cm",
+                "B": "12 cm",
+                "C": "15 cm",
+                "D": "24 cm",
+                "E": "40 cm"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Sayfa tasarımında layout oluşturulurken\ntasarlanan s ağ sayfa ve s ol sayfa nın\ntipografik terimleri aşağıdakilerden\nhangisinde birlikte ve doğru olarak\nverilmiştir?",
+            "options": {
+                "A": "Light - Bold",
+                "B": "Lorem - İpsum",
+                "C": "En - Boy",
+                "D": "Verso - Recto",
+                "E": "Dul - Yetim"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "------- bir kurum, kuruluş ya da düşüncenin akılda\nkalıcı ve benzersiz bir görselleştirme ile temsil\nedilmesidir.\nYukarıdaki c ümlede boş bırakılan yeri\naşağıdakilerden hangisi doğru şekilde\ntamamalar?",
+            "options": {
+                "A": "Font",
+                "B": "Logo",
+                "C": "İdeogram",
+                "D": "Piktogram",
+                "E": "Tipografi"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Bütünü oluşturan par çalardan k üçüğün\nbüyüğe olan oranının, b üyüğün bütüne\noranına eşit olduğu ilkesine dayanan prensip\naşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Gestalt kuramı prensibi",
+                "B": "Punto prensibi",
+                "C": "Altın oran prensibi",
+                "D": "Grid sistemi",
+                "E": "Kağıt ölçüsü"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "----- tasarıma yardımcı olmak ve rehberlik etmek\niçin kullanılıp, gerekli durumda bozulabilen bir\nyapıdır.\nYukarıdaki cümlede boş bırakılan yeri\naşağıdakilerden hangisi doğru şekilde\ntamamlar?",
+            "options": {
+                "A": "Tam blok",
+                "B": "Modül",
+                "C": "Fibonacci",
+                "D": "Izgara sistemi",
+                "E": "Altın dikdörtgen"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Aşağıdaki terim-tanım eşleştirmelerinden\nhangisi yanlıştır?",
+            "options": {
+                "A": "Kırıntılar – paragraf sonlarında kalan çoğul\nöbeklerdir.",
+                "B": "Uyumlama – iki harf arasındaki boşluğun\nözel olarak ayarlanmasıdır.",
+                "C": "Nehir – sağlı sollu hizalanmış metinlerde\noluşan beyaz boşluklardır.",
+                "D": "Serif – karakter çizgisinin bitiminde bulunan\nküçük çıkıntılardır.",
+                "E": "Sans serif – tırnaksız olan yazı karakterlerini"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Bir harf karakterinin geni şliği (character width) ,\nyüksekliğine g öre ne kadar geni ş oldu ğuna\nbağlıdır. \nBuna göre daha dar oranlara sahip yani\ndarlaştırılmış/daraltılmış harf formlarına ne\nad verilir",
+            "options": {
+                "A": "Regular",
+                "B": "Medium",
+                "C": "Extended",
+                "D": "Condensed",
+                "E": "Light"
+            },
+            "correctAnswer": "D"
         }
     ],
     "summerExam": []
