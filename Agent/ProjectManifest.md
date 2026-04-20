@@ -11,6 +11,7 @@
 - **Data Storage**: Local JSON files (modularized per-course in `data/courses/`).
 - **Offline Support**: Service Worker (`sw.js`) with Cache API for static assets and dynamic dynamic JSON caching.
 - **State Management**: LocalStorage for persisting user selections and theming (`study_buddy_state`).
+- **Data Processing**: Python 3.x with `pypdf` library (requires local `.venv` for installation).
 
 ## 3. Directory Structure
 ```

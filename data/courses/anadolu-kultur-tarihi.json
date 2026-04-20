@@ -705,6 +705,479 @@
                 "E": "Tiyatro"
             },
             "correctAnswer": "A"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi Hz. İsa’nın bedenini\nsimgeleyen ekmek ve kanını simgeleyen\nşarabın kutsandığı Hıristiyan litürjisinin ana\nayinidir?",
+            "options": {
+                "A": "Krizobul",
+                "B": "Lektionar",
+                "C": "Perikop",
+                "D": "Oktateuch",
+                "E": "Ökaristi"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "13. Yüzyılda Selçuklu Anadolu’sunu etkileyen\nistila hangisidir?",
+            "options": {
+                "A": "Haçlılar",
+                "B": "Bizans",
+                "C": "Moğollar",
+                "D": "Vikingler",
+                "E": "Ruslar"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Aşağıdaki savaşlardan hangisi Babai isyanı\nsonrası 1243’te gerçekleşen ve Selçukluların\nsiyasi otoritesini sarsan savaştır?",
+            "options": {
+                "A": "Malazgirt",
+                "B": "Miryakefalon",
+                "C": "Pasinler",
+                "D": "Kösedağ",
+                "E": "Kosova"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Çeşitli iktisadi ve kültürel ortak öğeleri\nbelirtmek için kullanılan “Neolitik Paket”\ntanımı kime aittir?",
+            "options": {
+                "A": "Gordon Childe",
+                "B": "Robert J. Braidwood",
+                "C": "H.J. Breasted",
+                "D": "Mehmet Özdoğan",
+                "E": "Manfred Korfmann"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi dini el yazmaları\narasında yer almaz?",
+            "options": {
+                "A": "Oktateuch",
+                "B": "Mezmurlar",
+                "C": "Meseller",
+                "D": "Kronik",
+                "E": "Evangeliar"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Hellen göç hareketleri sonrası Batı\nAnadolu’da kurulmuş, Miletus, Myus, Priene,\nEphesos, vkimi kentlerin kendi aralarında\nkurdukları ve belirli zamanlarda toplanarak\nsavaş gibi önemli kararlar aldıkları birliğe ne\nad verilmektedir?",
+            "options": {
+                "A": "Attika Delos Birliği",
+                "B": "Likya Birliği",
+                "C": "Panionion",
+                "D": "Kutsal Birlik",
+                "E": "Panhellenizm"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi üniversite reformu\niçin Türkiye'ye çağrılmış, hazırladığı rapor ile\nbu reforma temel oluşturmuş bilim insanıdır?",
+            "options": {
+                "A": "Rudolf Belling",
+                "B": "Léopold Lèvy",
+                "C": "Carl Ebert",
+                "D": "Paul Hindemith",
+                "E": "Albert Malch"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Seyirlik sanatlarda bir topluluk önünde\nhikâye anlatan ve canlandıran kişiye ne ad\nverilir?",
+            "options": {
+                "A": "Çengi",
+                "B": "Meddah",
+                "C": "Karagöz",
+                "D": "Köçek",
+                "E": "Kuklacı"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Pisanello’nun öğrencisi, Venedikli sanatçı\nCostanzo’yu İstanbul’a davet ederek ona büst\nportresinin yer aldığı madalyonu yaptıran\nOsmanlı padişahı aşağıdakilerden\nhangisidir?",
+            "options": {
+                "A": "Yavuz Sultan Selim",
+                "B": "Kanuni Sultan Süleyman",
+                "C": "II. Selim",
+                "D": "II. Bayezid",
+                "E": "Fatih Sultan Mehmet"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi Ankara’nın erken\nCumhuriyet dönemindeki imarında iz bırakan\nmimarlardan biri değildir?",
+            "options": {
+                "A": "Heinrich Krippel",
+                "B": "Herman Jansen",
+                "C": "Ernst Egli",
+                "D": "Clemens Holzmeister",
+                "E": "Theodor Post"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Urartu panteonunda fırtına ve gökgürültüsü\ntanrısı Teişeba’nın kökeni aşağıdakilerden\nhangisidir?",
+            "options": {
+                "A": "Hurri",
+                "B": "Hatti",
+                "C": "Hint-Avrupa",
+                "D": "Mezopotamya",
+                "E": "Mısır"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Selçuklu devrinde Kırım’ın fethi ile Sinop’a\nyerleştirilen Türkler kimlerdir?",
+            "options": {
+                "A": "Peçenekler",
+                "B": "Kıpçaklar",
+                "C": "Türkmenler",
+                "D": "Avarlar",
+                "E": "Uzlar"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Türkiye Selçuklularında ilk medreseler kimin\nzamanında kurulmuştur?",
+            "options": {
+                "A": "I. Kılıçarslan",
+                "B": "II. Mesud",
+                "C": "II. Kılıçarslan",
+                "D": "Gıyaseddin Keyhüsrev",
+                "E": "Alaeddin Keykubad"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi Cumhuriyetin ilk\nyıllarında Batı tekniğiyle işlenerek millî\nmüziği oluşturacak nitelikte görülmüş müzik\ntürüdür?",
+            "options": {
+                "A": "Mehter müziği",
+                "B": "Orta Asya Türk müziği",
+                "C": "Alaturka müzik",
+                "D": "Halk müziği",
+                "E": "Saray müziği"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi Bizans’ın ipek\nüretim merkezlerinden biridir?",
+            "options": {
+                "A": "Selanik",
+                "B": "Kiev",
+                "C": "Amorium",
+                "D": "Şam",
+                "E": "Ravenna"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi Geç Hitit\nKrallıklarından biri değildir?",
+            "options": {
+                "A": "Kargamış",
+                "B": "Melid",
+                "C": "Frig",
+                "D": "Sam’al",
+                "E": "Tabal"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Divanü Lûgat-it Türk ve Yunus Emre’nin\ndivanında geçen, Türk müziğinin bilinen en\neski çalgıları arasında yer alan müzik aleti\naşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Ney",
+                "B": "Kanun",
+                "C": "Tambur",
+                "D": "Ud",
+                "E": "Kopuz"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi Roma’da ilk\nHıristiyanların içinde toplanıp, tapındıkları\nyer altı mezarlarının genel adıdır?",
+            "options": {
+                "A": "Katakomp",
+                "B": "Tempera",
+                "C": "Şapel",
+                "D": "Hipoje",
+                "E": "Diptikon"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Hititler'de Tabarna ve Tavananna\nkavramlarının karşılığı aşağıdakilerden\nhangisidir?",
+            "options": {
+                "A": "Hitit rahip ve rahibeleri",
+                "B": "Hitit büyük kralı ve kraliçesi",
+                "C": "Hitit yaya birlikleri ve atlı savaş arabaları\nbirlikleri komutanları",
+                "D": "Hitit prens ve prensesi",
+                "E": "Hitit baş tanrı ve tanrıçası"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "İlhanlıların zayıflamasından yararlanarak\nortaya çıkan ve Selçuklu nizamının\nAnadolu'ya yerleşmesinde rol oynayan\ndöneme ne ad verilir?",
+            "options": {
+                "A": "Osmanlı Devleti",
+                "B": "Büyük Selçuklular",
+                "C": "Anadolu Beylikleri",
+                "D": "Erken Osmanlı",
+                "E": "Selçuklular"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "VII. ve VIII. yüzyıllardaki Arap akınları ve Batı\nile olan ilişkilerin gerginleşmesi sonucunda\nimparatorluğun doğusunda (Bizans’ta)\nHıristiyanlığının tek temsilcisi olarak kalan\nmerkez aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Kapadokya",
+                "B": "Konstantinopolis",
+                "C": "İskenderiye",
+                "D": "Antakya",
+                "E": "Kudüs"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Bizans halkının, hukuk ve geleneklerine göre,\nkendileri için belirledikleri isim ve kültürel\nanlamda devamı olduğunu kabul ettikleri\nuygarlık aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Sasaniler",
+                "B": "Hellenler",
+                "C": "Romalılar",
+                "D": "Balkan halkları",
+                "E": "Germenler"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Bizans sanatında büyük bir kısmı paten,\nkalis, röliker veya kitap kapağı gibi dini\nişlevli eserler veya taç, küpe, bilezik gibi süs\neşyaları üzerinde kullanılan kuyumculuk\ntekniği aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Eskitme tekniği",
+                "B": "Dövme tekniği",
+                "C": "Ergitme tekniği",
+                "D": "Isıtma tekniği",
+                "E": "Mine tekniği"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "13. yüzyılda Anadolu’da yaşamış Mevlâna\nCelâleddin-i Rumî’nin, didaktik dinî-tasavvufi\ngörüşlerini hikayelerle anlattığı ve Farsça\notuz binden fazla dizeden oluşan eseri\naşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Divan-ı Kebir",
+                "B": "Çarhname",
+                "C": "Halaik",
+                "D": "Mesnevi",
+                "E": "Salsalname"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Avcı ve toplayıcı toplumların zamanla\ngöçebeliği terk edip, üretici konumuna\ngelmeleri ve yıl boyunca iskân edilen ilk\nsürekli yerleşmeleri kurdukları dönem\naşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Paleolitik Dönem",
+                "B": "Mezolitik Dönem",
+                "C": "Epipaleolitik Dönem",
+                "D": "Neolitik Dönem",
+                "E": "Kalkolitik Dönem"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Asurlu tüccarın Anadolu’ya getirdiği\nürünlerin başında kalay madeni yer alırken,\nbu üründen sonra Anadolu’daki halkların\ntalep ettiği ikinci ürün aşağıdakilerden\nhangisinde belirtilmiştir?",
+            "options": {
+                "A": "Tunç",
+                "B": "Demir",
+                "C": "Kumaş",
+                "D": "Gümüş",
+                "E": "Köle"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Aşağıdakilerden hangisi, 19. yüzyıl Osmanlı\nyenileşme hareketinin ortaya çıkardığı ve\nöncülüğünü Sultan Abdülaziz’in yaptığı sanat\ndalıdir?",
+            "options": {
+                "A": "Çinicilik",
+                "B": "Tiyatro",
+                "C": "Resim",
+                "D": "Opera",
+                "E": "Heykel"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "13. yüzyıldaki iktisadî gelişme ortamı\niçerisinde Anadolu’da ticarî ve sınai\nfaaliyetlerin gelişmesi ile şehirler çok\ngenişlemiş, hatta bazıları var olan surlarının\ndışına taşmıştır. Aşağıdakilerden hangisi bu\nkentlerden birine örnek olarak gösterilebilir?",
+            "options": {
+                "A": "Kayseri",
+                "B": "Bursa",
+                "C": "Amasya",
+                "D": "İstanbul",
+                "E": "İzmir"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Devletin kültür alanına müdahalesinin\ngevşediği 1950’li ve 60’lı yıllarda, müzik ve\nmimariyle birlikte kültürel değişimi en açık\nbiçimde gösteren üçüncü alan\naşağıdakilerden hangisi olmuştur?",
+            "options": {
+                "A": "Tiyatro",
+                "B": "Resim",
+                "C": "Sinema",
+                "D": "Opera",
+                "E": "Heykel"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Anadolu’da kültürün mayalanmasında etkili\nolan ve tekke şiir geleneğini Anadolu’da\ncanlandırarak Türkçe’nin edebi oluşumunda\nbüyük rol oynayan kişi aşağıdakilerden\nhangisidir?",
+            "options": {
+                "A": "Kaşgarlı Mahmut",
+                "B": "Yunus Emre",
+                "C": "Ahi Evran",
+                "D": "Nasreddin Hoca",
+                "E": "Hacı Bektaş-ı Veli"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Bizans uygarlığında, İsa, Meryem, Azizler ve\nAzizlerin yaşamlarının canlandırıldığı,\ntaşınabilir nitelikte ibadet amacı taşıyan dini\nkonulu resimlere ne ad verilmektedir?",
+            "options": {
+                "A": "Rölyef",
+                "B": "Katakomp",
+                "C": "Kronik",
+                "D": "İkona",
+                "E": "Transept"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Selçuklu kültüründe karşımıza çıkan\nYabanlu(ğ) terimi, aşağıdaki kültürel\nögelerden hangisine ilişkindir?",
+            "options": {
+                "A": "Yollar",
+                "B": "Köprüler",
+                "C": "Kervansaraylar",
+                "D": "Hanlar",
+                "E": "Pazarlar"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Karayolları, barajlar ve göletler yanında\nUrartuların en önemli bayındırlık\nfaaliyetlerinden bir diğeri aşağıdakilerden\nhangisinde belirtilmiştir?",
+            "options": {
+                "A": "Mil taşları",
+                "B": "Hamamlar",
+                "C": "Su kanalları",
+                "D": "Zafer takları",
+                "E": "Hipodromlar"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Aşağıdakilerde hangisi, Erken Cumhuriyet\ndöneminde müzik alanında bir dönüm noktası\nolarak ortaya çıkmış ve daha sonra Ankara\nDevlet Konservatuvarına dönüşmüş\nkurumudur?",
+            "options": {
+                "A": "Musiki Muallim Mektebi",
+                "B": "Darü’l-Elhan",
+                "C": "Darü’l-Bedayi",
+                "D": "Mızıka-i Hümayun",
+                "E": "Riyaseti Cumhur Musiki Heyeti"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Özellikle MÖ. 7. ve 6. yüzyıllarda Batı\nAnadolu’daki kültürlerin birbirleriyle\nkaynaşmasında kilit rol oynayan temel etmen\naşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Kent devletleri",
+                "B": "Tiranlar",
+                "C": "Persli yöneticiler",
+                "D": "Yerel halklar",
+                "E": "Senatus"
+            },
+            "correctAnswer": "A"
+        },
+        {
+            "questionText": "Ankara dışında, Erken Cumhuriyet\ndönemindeki büyük ölçekli kentlerin\nmodernizasyonuna örnek olabilecek diğer\nkent olarak aşağıdakilerden hangisi\ngösterilebilir?",
+            "options": {
+                "A": "Bursa",
+                "B": "Trabzon",
+                "C": "İstanbul",
+                "D": "Adana",
+                "E": "İzmir"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Orta Bizans Dönemi tekstilinde Sasani Pers\nüslubu olarak adlandırılmış kumaşlar da\nkullanılmıştır. Bu kumaşlarda genellikle\nmadalyonlar içerisinde aslan, kartal, fil, sfenks ve\n------- gibi hayali yaratıkların tasvirleri\ngörülmektedir.\nYukarıdaki cümlede boş bırakılan yeri\naşağıdakilerden hangisi doğru şekilde\ntamamlar?",
+            "options": {
+                "A": "Gamayun",
+                "B": "Dragon",
+                "C": "Satir",
+                "D": "Yılan",
+                "E": "Grifon"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Avrupa’dan gelerek Anadolu’yu yurt edinen\nve başkentleri Gordion etrafında MÖ. 9. yüzyıl\nve 7. yüzyıl arasında Orta Anadolu’da etkin\nolan uygarlık aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Urartular",
+                "B": "Thraklar",
+                "C": "Lidyalılar",
+                "D": "Frigler",
+                "E": "Hititler"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Dairesel kent suru ve şehir planı ile dikkati\nçeken Geç Hitit Krallığı aşağıdakilerden\nhangisidir?",
+            "options": {
+                "A": "Kargamış",
+                "B": "Melid",
+                "C": "Sam’al",
+                "D": "Gurgum",
+                "E": "Tabal"
+            },
+            "correctAnswer": "C"
+        },
+        {
+            "questionText": "Batı Anadolu’dan zengin buluntular\nsağlaması ve ilk kent örneği olması gibi\nçeşitli nedenlerden dolayı, Anadolu\narkeolojisinde çok önemli bir yer tutan,\nHomeros’un İliada Destanı’na konu olmuş\nyerleşim aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Atina",
+                "B": "Knossos",
+                "C": "Ephesus",
+                "D": "Troia",
+                "E": "Miletus"
+            },
+            "correctAnswer": "D"
+        },
+        {
+            "questionText": "Asurlu tüccarın Anadolu’da kurmuş olduğu\nve ticari merkez olarak düşünebileceğimiz\nbütün karum'ların merkezi, bugün hangi\nilimizin sınırları içerisinde kalmaktadır?",
+            "options": {
+                "A": "Aksaray",
+                "B": "Kayseri",
+                "C": "Nevşehir",
+                "D": "Malatya",
+                "E": "Kahramanmaraş"
+            },
+            "correctAnswer": "B"
+        },
+        {
+            "questionText": "Roma’nın ilk imparatoru Octavianus’un,\nicraatlarını halka anlattığı ve bir çeşit “ulusa\nsesleniş” konuşması gibi düşünebileceğimiz\n“Res Gestae Divi Augusti ”nin günümüze\nkadar sağlam gelmiş en iyilerinden bir tanesi\nülkemizde hangi ilde ele geçirilmiştir?",
+            "options": {
+                "A": "Antakya",
+                "B": "İzmir",
+                "C": "Kayseri",
+                "D": "İstanbul",
+                "E": "Ankara"
+            },
+            "correctAnswer": "E"
+        },
+        {
+            "questionText": "Hemen hemen her kalede kendisi için\nyapılmış bir tapınağın olduğu ve Urartu\ndevletinin baş tanrısı olarak kabul edilen\ntanrı aşağıdakilerden hangisidir?",
+            "options": {
+                "A": "Teşup",
+                "B": "Haldi",
+                "C": "Zeus",
+                "D": "Iuppiter",
+                "E": "Hades"
+            },
+            "correctAnswer": "B"
         }
     ],
     "summerExam": []
