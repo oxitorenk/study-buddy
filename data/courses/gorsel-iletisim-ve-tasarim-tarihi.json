@@ -631,7 +631,7 @@
             "correctAnswer": "C"
         },
         {
-            "questionText": "2022 BAHAR DÖNEM SONU - A\n\n\n\n\n\n\n\nGenellikle tanıtım ve duyuru amaçlı yapılan\nresimli ve yazılı duvar ilanlarına ne ad\nverilir?",
+            "questionText": "2022 BAHAR DÖNEM SONU \nGenellikle tanıtım ve duyuru amaçlı yapılan\nresimli ve yazılı duvar ilanlarına ne ad\nverilir?",
             "options": {
                 "A": "Font ailesi",
                 "B": "Font",
@@ -692,7 +692,7 @@
                 "B": "Kristof Kolomb",
                 "C": "Marco Polo",
                 "D": "Pîrî Reis",
-                "E": "Ricoldus de Monte Crucis"
+                "E": "Ricoldusde Monte Crucis"
             },
             "correctAnswer": "C"
         },
@@ -736,7 +736,7 @@
                 "B": "Soyut ifadelerin kullanımı ve duygusal\nderinlik",
                 "C": "Fotomontaj tekniklerinin ustaca kullanımı ve\nfilm tekniğiyle benzerlikler",
                 "D": "Özgün tipografi kullanımı ve basit,\nanlaşılabilir tasarım anlayışı",
-                "E": "Natüralist anlatımların tercih edilmesi ve"
+                "E": "Natüralist anlatımların tercih edilmesi ve geleneksel formların kullanılması"
             },
             "correctAnswer": "D"
         },
@@ -747,7 +747,7 @@
                 "B": "Helvetica, Akzidenz Grotesk'ten daha\nmodern ve minimalist bir tasarıma sah ip\nolması",
                 "C": "Helvetica, New York Metrosu gibi büyük\nprojelerde kullanılmış olması",
                 "D": "Helvetica, Massimo Vignelli gibi tanınmış\ntasarımcılar tarafından destekleniyor olması",
-                "E": "Helvetica, Avrupa ve ABD'de yaygın olarak"
+                "E": "Helvetica, Avrupa ve ABD'de yaygın olarak kullanılan bir yazı tipidir"
             },
             "correctAnswer": "A"
         },
@@ -807,7 +807,7 @@
             "correctAnswer": "D"
         },
         {
-            "questionText": "----- bilgilendirme ve yönlendirme işaretleri, sergi\nalanları ve açık hava reklamcılığını içerir. Bunun\nyanı sıra çevremizde kurulu yapılardaki tüm\ntasarım ögelerini de kapsar.\nYukarıdaki cümlede boş bırakılan yeri\naşağıdakilerden hangisi doğru şekilde\ntamamlar?",
+            "questionText": "----- bilgilendirme ve yönlendirme işaretleri, sergi\nalanları ve açık hava reklamcılığını içerir. Bunun\nyanı sıra çevremizde kurulu yapılardaki tüm\ntasarım ögelerinide kapsar.\nYukarıdaki cümlede boş bırakılan yeri\naşağıdakilerden hangisi doğru şekilde\ntamamlar?",
             "options": {
                 "A": "Dijital tasarım",
                 "B": "İç mekan tasarımı",
@@ -820,7 +820,7 @@
         {
             "questionText": "Orta Çağ Avrupası'ndaki el yazmaları ve yazı\nstilleri hakkında aşağıdaki ifadelerden\nhangisi doğrudur?",
             "options": {
-                "A": "Romanesk Dönem'de el yazmalarının\nsayısının arttığı gibi manastırlar ve kiliselerin\nsayısı da artmıştır.",
+                "A": "Romanesk Dönem'de el yazmalarının\nsayısının arttığı gibi manastırlar ve kiliselerin\nsayısıda artmıştır.",
                 "B": "Carolingian yazı stili, yalnızca büyük\nharflerden oluşmuş ve küçük harfler\niçermemiştir.",
                 "C": "Gotik Dönem'deki \"Textura\" yazı stili,\nmetinleri daha açık ve geniş alanlı hale\ngetirerek okunabilirliği artırmıştır.",
                 "D": "Kelt el yazmalarında, gerçekçi figürler ve\ndoğal manzaralar ön planda olup, soyut\ndesenler kullanılmamıştır.",
@@ -868,12 +868,12 @@
                 "B": "Geçmişin zanaat tekniklerini canlandırmayı\nhedeflerken, yeni ve özgün tasarımlar\nyaratmaya çalışmaları",
                 "C": "Toplumsal bir değişim yaratmayı\nhedeflerken, daha çok elit bir kesime hitap\neden ürünler üretmeleri",
                 "D": "El emeğinin değerini savunurken, üretim\nmaliyetlerini yeterince hesaplayamamaları",
-                "E": "Sanat ve zanaatı birleştirmeyi amaçlarken,"
+                "E": "Sanat ve zanaatı birleştirmeyi amaçlarken, işlevselliği göz ardı etmeleri"
             },
             "correctAnswer": "D"
         },
         {
-            "questionText": "Üretici ve el işçiliğini bir araya getirmenin\nçabası, modern yaşam, makine çağı kültürüne\nait motifler, tüketim kültürüne gönderme gibi\nözellikler aşağıdaki akımlardan hangi sine\naittir?",
+            "questionText": "Üretici ve el işçiliğini bir araya getirmenin\nçabası, modern yaşam, makine çağı kültürüne\nait motifler, tüketim kültürüne gönderme gibi\nözellikler aşağıdaki akımlardan hangisine\naittir?",
             "options": {
                 "A": "Kubizm",
                 "B": "Dada",
@@ -901,7 +901,7 @@
                 "B": "Yeni Tipografi, süslemelerden uzak ve\nişlevsel bir tasarım anlayışını benimsemiştir.",
                 "C": "Paul Renner, Yeni Tipografi manifestolarını\nyazmış ve Univers yazı tipini tasarlamıştır.",
                 "D": "Jan Tschichold, tipografide süslemeleri\nsavunmuş ve geleneksel tasarımları\nreddetmiştir.",
-                "E": "Jan Tschichold, Bauhaus’un bir üyesi olarak"
+                "E": "Jan Tschichold, Bauhaus’un bir üyesi olarak tipografi eğitimi vermiştir"
             },
             "correctAnswer": "B"
         },
@@ -939,7 +939,7 @@
             "correctAnswer": "C"
         },
         {
-            "questionText": "Postmodernizmin grafik tasarıma katkıları\naşağıdakilerden hangi sinde doğru olarak\nverilmiştir?",
+            "questionText": "Postmodernizmin grafik tasarıma katkıları\naşağıdakilerden hangisinde doğru olarak\nverilmiştir?",
             "options": {
                 "A": "Wolfgang Weingart, tipografik kuralları\nsorgulayarak görsel efektler ve sezgisel\ntasarımlarla İsviçre stilini dönüştürmüştür.",
                 "B": "Wolfgang Weingart’ın “Staatlicher” afişi,\ndüzenli yazı öbekleri ve sabit bir\nkompozisyonla geleneksel tipografiyi\nyansıtmaktadır.",

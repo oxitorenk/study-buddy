@@ -576,7 +576,7 @@
             "correctAnswer": "C"
         },
         {
-            "questionText": "Leonardo da Vinci tasarladığı, oturup, kalkabilen ve kafasını oynatabilen robotik şövalye konusunda aşağıdakilerden hangisinden ilham almıştır?",
+            "questionText": "Leonardoda Vinci tasarladığı, oturup, kalkabilen ve kafasını oynatabilen robotik şövalye konusunda aşağıdakilerden hangisinden ilham almıştır?",
             "options": {
                 "A": "El Cezeri",
                 "B": "Electro",
@@ -622,8 +622,8 @@
         {
             "questionText": "Aşağıdakilerden hangisi yapılandırılmış verilerin özelliklerinden biridir?",
             "options": {
-                "A": "Bir lokasyonda ya da alanda depolanmış veya dosyalanmış olmaları",
-                "B": "Bir sistem ya da düzen içerisinde tanımlanmış olmaları",
+                "A": "Bir lokasyondayada alanda depolanmış veya dosyalanmış olmaları",
+                "B": "Bir sistemyada düzen içerisinde tanımlanmış olmaları",
                 "C": "Genellikle nitel olarak tanımlanan, özelliğe veya forma dayalı veriler olmaları",
                 "D": "Daha çok depolama alanı gerektirmeleri",
                 "E": "Doğası gereği aranması daha zor veriler olması ve anlaşılabilir hâle gelmesi için işlenmesinin gerekmesi"
@@ -633,7 +633,7 @@
         {
             "questionText": "Isaac Asimov robotları konu eden bir dizi hikaye yazmış ve bunları I Robot adıyla 1950’de yayımlamıştır. Bu hikayelerdeki en önemli ve paylaşılan şey üç robot kuralıdır. 1985'te bu üç kurala sonradan eklenen zeroth kuralı aşağıdakilerden hangisidir?",
             "options": {
-                "A": "Bir robot insanlığı incitemez ya da hiçbir şey yapmayarak zarar gelmesine izin veremez.",
+                "A": "Bir robot insanlığı incitemezyada hiçbir şey yapmayarak zarar gelmesine izin veremez.",
                 "B": "Daha üst bir kuralı ihlal etmedikçe robotlar insanların verdikleri emirleri yerine getirmek zorundadır.",
                 "C": "Bu kural daha üst bir kuralı ihlal etmedikçe hiçbir robot hareketsiz kalarak bir insanın zarar görmesine izin veremez.",
                 "D": "Bu kural daha üst bir kuralı ihlal etmedikçe hiçbir robot bir insana zarar veremez.",
@@ -653,68 +653,13 @@
             "correctAnswer": "D"
         },
         {
-            "questionText": "Sanal ve gerçek nesnelerin bir araya geldiği\ndijital uzam ve fiziki uzam arasında melez bir\nortam oluşturulması sürecidir. Kamera entegre\nedilmiş akıllı telefonların ve tabletlerin\nyaygınlaşması, bu uygulamaların yaygınlaşması\nsonucunu doğurmuştur.\nYukarıda açıklaması verilen kavram\naşağıdakilerden hangisidir?",
-            "options": {
-                "A": "Artırılmış gerçeklik",
-                "B": "Sanal gerçeklik",
-                "C": "Platformizasyon",
-                "D": "Mobil oyun",
-                "E": "Sihirli çember"
-            },
-            "correctAnswer": "?"
-        },
-        {
-            "questionText": "2022 BAHAR DÖNEM SONU - A\n\n\n\n\nA\nCelia Pearce (2009) dijital kültürün en baskın\nkültürel formu olarak dijital oyunları, 21. yüzyılın\n------- ortamı olarak nitelendirir.\nYukarıdaki cümlede boş bırakılan yeri\naşağıdakilerden hangisi doğru şekilde\ntamamlar?",
-            "options": {
-                "A": "dijital",
-                "B": "iletişim",
-                "C": "kültür",
-                "D": "geçici",
-                "E": "etkileşim"
-            },
-            "correctAnswer": "?"
-        },
-        {
-            "questionText": "“Yeni medya ile başlayan dijital kültür çağında,\nsanat nesnesi; roman, şiir gibi edebiyat\nformlarından, performansa, oyuna kadar\ngeleneksel konsept ve kategoriler -------.”\nYukarıdaki cümlede boş bırakılan yeri\naşağıdakilerden hangisi doğru şekilde\ntamamlar?",
-            "options": {
-                "A": "yok olmaktadırlar",
-                "B": "etkileşimli olmuşlardır",
-                "C": "yeniden tanımlanmaktadır",
-                "D": "yerlerini yeni sanata bırakmışlardır",
-                "E": "yenileriyle tanımlanırlar"
-            },
-            "correctAnswer": "?"
-        },
-        {
-            "questionText": "Bu soru iptal edilmiştir.\n15.\nAğ analizini kolaylaştıran önemli\nyeniliklerden biri, ilişkisel verileri\ngörselleştirmek için tasarlanmış yazılımların\nortaya çıkışıdır. Aşağıdakilerden hangisi bu\nyazılımlara örnek olarak gösterilebilir?",
-            "options": {
-                "A": "Topic modelling",
-                "B": "SAA",
-                "C": "Moreno",
-                "D": "Ecxel",
-                "E": "Graph Commons"
-            },
-            "correctAnswer": "?"
-        },
-        {
-            "questionText": "ı\n\n2022 BAHAR DÖNEM SONU - A\n\n\n\n\n\n\n\n1960’ların ortalarında Yapay Zeka alanındaki\nen dikkat çeken olay Newell ve Simon’un\ninsani problem çözme metotlarını bilgisayar\nkullanarak simule etmeye yarayan çok amaçlı\nprogramı aşağıdakilerden hangisidir?",
-            "options": {
-                "A": "Enigma",
-                "B": "Deep Blue",
-                "C": "Genel Problem Çözücü",
-                "D": "ELIZA",
-                "E": "First-Order Logic"
-            },
-            "correctAnswer": "?"
-        },
-        {
             "questionText": "Üretken sanat (Generative Art) ve NFT’ler\narasındaki ilişki yle ilgili aşağıdaki\nifadelerden hangisi doğrudur?",
             "options": {
                 "A": "NFT’ler yalnızca geleneksel sanat eserlerini\ndijital ortama taşımak için kullanılırken,\nüretken sanat tamamen bağımsız bir alan\nolarak gelişmiştir.",
                 "B": "Üretken sanat, sanatçılar tarafından\ngeliştirilen algoritmalar aracılığıyla benzersiz\nparçalar üretir ve NFT’lerin oluşturulmasında\navantaj sağlar.",
                 "C": "Üretken sanat, algoritmalar kullanılarak\ntamamen rastgele eserler oluşturan bir\nsanat türüdür ve NFT’lerle herhangi bir\nilişkisi yoktur.",
                 "D": "Üretken sanat eserleri yalnızca fiziksel\nortamda üretilebilen ve NFT’lere uygun\nolmayan bir sanat türüdür.",
-                "E": "NFT’ler yalnızca dijital resimler için"
+                "E": "NFT’ler yalnızca dijital resimler için kullanılır ve üretken sanatla ilgisi yoktur"
             },
             "correctAnswer": "B"
         },
@@ -818,7 +763,7 @@
             "correctAnswer": "E"
         },
         {
-            "questionText": "Oyunun sunduğu olanakları derinlemesine\nkeşfetmeye ve oyun uzamına odaklanan\noyunculardır. Puan ya da ödül kazanmak\nöncelikli değildir. Oyun dünyası içinde yapılan\nkeşifler ödül yerine geçer. Oyunun daha önce\nulaşılmamış uzamsal noktalarına erişmek,\noyunda gizlenmiş paskalya yumurtalarını\nkeşfetmek, gizli bir geçitten geçmek gibi\nkeşfedilmemiş yeni deneyimlerin peşinden\ngiderler.\nYukarıda açıklaması verilen  oyuncu tipi\naşağıdakilerden hangisidir?",
+            "questionText": "Oyunun sunduğu olanakları derinlemesine\nkeşfetmeye ve oyun uzamına odaklanan\noyunculardır. Puanyada ödül kazanmak\nöncelikli değildir. Oyun dünyası içinde yapılan\nkeşifler ödül yerine geçer. Oyunun daha önce\nulaşılmamış uzamsal noktalarına erişmek,\noyunda gizlenmiş paskalya yumurtalarını\nkeşfetmek, gizli bir geçitten geçmek gibi\nkeşfedilmemiş yeni deneyimlerin peşinden\ngiderler.\nYukarıda açıklaması verilen  oyuncu tipi\naşağıdakilerden hangisidir?",
             "options": {
                 "A": "Kahramanlar",
                 "B": "Kaşifler",
@@ -884,7 +829,7 @@
             "correctAnswer": "C"
         },
         {
-            "questionText": "Juul (2005) kapsayıcı ve betimleyici bir tanım\nönermekle birlikte, bazı örneklerin bu tanımın\nsınırlarını zorladığını ve bazı örneklerin de\noyun nitelikleri taşımalarına karşın bu\ntanımsal sınırların dışında kaldığını savunur.\nBuna göre, a şağıdakilerden hangi si Juul'un\noyun ile oyun olmayan  arasında kalan sınır\nörneklerinden biridir?",
+            "questionText": "Juul (2005) kapsayıcı ve betimleyici bir tanım\nönermekle birlikte, bazı örneklerin bu tanımın\nsınırlarını zorladığını ve bazı örneklerinde\noyun nitelikleri taşımalarına karşın bu\ntanımsal sınırların dışında kaldığını savunur.\nBuna göre, a şağıdakilerden hangisi Juul'un\noyun ile oyun olmayan  arasında kalan sınır\nörneklerinden biridir?",
             "options": {
                 "A": "Satranç",
                 "B": "Tenis",
@@ -912,7 +857,7 @@
                 "B": "İnternet protokolünün doğasında bulunan\nbağlantı ve fırsat eşitliği, merkezî işleyişi\nbozar ve ağın mimarisini\nmerkezsizleştirmeye başlar.",
                 "C": "Merkezsizlik, İnternet ağının tek bir\nnoktadan yönetilmeye çalışıldığı ilk\ndönemlerde ortaya çıkmış bir kavramdır.",
                 "D": "İnternet protokolü, merkezi bir yapıya sahip\nolduğu için bağlantı ve fırsat eşitliği\nsağlayamaz.",
-                "E": "Merkezsizlik, İnternet ağının doğal bir"
+                "E": "Merkezsizlik, İnternet ağının doğal bir sonucu değildir"
             },
             "correctAnswer": "B"
         },
@@ -939,7 +884,7 @@
             "correctAnswer": "E"
         },
         {
-            "questionText": "Akılcı davranışlar göstermek yalnızca mantık\nkurallarına göre hareket etmekle sınırlı\nkalmamaktadır. Bazen muhtemel en iyi çıktıyı ya\nda sonucu elde etmek gerekir. Bu durum özellikle\nkarmaşık ortamlardaki problem çözümlerinde\nönemlidir. İnsanlar karmaşık çevrelere çok çabuk\nuyum sağlasa da burada bir hesaplama yapmak\nve harekete geçmek için yapay zeka çok fazla\nveriye ihtiyaç duymaktadır.\nYukarıdaki açıklama hangi yapay zeka\ntanımlamasına aittir?",
+            "questionText": "Akılcı davranışlar göstermek yalnızca mantık\nkurallarına göre hareket etmekle sınırlı\nkalmamaktadır. Bazen muhtemel en iyi çıktıyıya\nda sonucu elde etmek gerekir. Bu durum özellikle\nkarmaşık ortamlardaki problem çözümlerinde\nönemlidir. İnsanlar karmaşık çevrelere çok çabuk\nuyum sağlasada burada bir hesaplama yapmak\nve harekete geçmek için yapay zeka çok fazla\nveriye ihtiyaç duymaktadır.\nYukarıdaki açıklama hangi yapay zeka\ntanımlamasına aittir?",
             "options": {
                 "A": "Akılcı Fail Yaklaşımı",
                 "B": "Akılcı Düşünmek",
@@ -967,7 +912,7 @@
                 "B": "Dijital kameraların oluşturduğu bozuk ve\npikselli görüntülerin insanlar arasında nasıl\nalgılandığı",
                 "C": "SXSW konferansında ortaya atılan sayısal\nteknolojilerin estetik değeri",
                 "D": "İnsan ve makine arasındaki ayrımın gittikçe\nbelirsizleşmesinin insan yaşamına etkisi",
-                "E": "İnsanlar ve makineler arasında belirgin bir"
+                "E": "İnsanlar ve makineler arasında belirgin bir ayrımın olmaması"
             },
             "correctAnswer": "D"
         },
@@ -994,7 +939,7 @@
             "correctAnswer": "C"
         },
         {
-            "questionText": "Özgün içerik türünde ve yapısında  olan  ve\ngeleneksel analitik araçlar tarafından\nayrıştırılamayan \"t ipik insan tarafından\noluşturulan yapılandırılmamış veri \" türü\naşağıdakilerden hangisidir?",
+            "questionText": "Özgün içerik türünde ve yapısında  olan  ve\ngeleneksel analitik araçlar tarafından\nayrıştırılamayan \"tipik insan tarafından\noluşturulan yapılandırılmamış veri \" türü\naşağıdakilerden hangisidir?",
             "options": {
                 "A": "E-posta",
                 "B": "Web",
@@ -1040,11 +985,11 @@
         {
             "questionText": "Aşağıdakilerden hangisi yapılandırılmış\nverilerin ayırt edici özelliklerinden biridir?",
             "options": {
-                "A": "Bir sistem ya da düzen içerisinde\ntanımlanmış olmaları",
+                "A": "Bir sistemyada düzen içerisinde\ntanımlanmış olmaları",
                 "B": "Daha çok depolama alanı gerektirmeleri",
                 "C": "Genellikle nitel olarak tanımlanan, özelliğe\nveya forma dayalı veriler olmaları",
                 "D": "Doğası gereği aranması daha zor veriler\nolması ve anlaşılabilir hâle gelmesi için\nişlenmesinin gerekmesi",
-                "E": "Bir lokasyonda ya da alanda depolanmış"
+                "E": "Bir lokasyondayada alanda depolanmış"
             },
             "correctAnswer": "A"
         },
@@ -1066,18 +1011,18 @@
                 "B": "Yeni medya sanatı kod bilgisi gerektirir.",
                 "C": "Yeni medya sanatı geleneksel sanat adına\nbir tehdittir.",
                 "D": "Yeni medya sanatı birden fazla duyuya hitap\netme potansiyelindedir.",
-                "E": "Glitch sanatı nın dijitalleşme siyle ortaya"
+                "E": "Glitch sanatının dijitalleşmesiyle ortaya çıkmıştır"
             },
             "correctAnswer": "D"
         },
         {
-            "questionText": "Janet H. Murray 'in, dijital medyanın ifadesel\nolanaklarını tartışırken söz e ttiği dört temel\nözelliği aşağıdakilerin hangisinde birlikte ve\ndoğru olarak verilmiştir?",
+            "questionText": "Janet H. Murray 'in, dijital medyanın ifadesel\nolanaklarını tartışırken söz ettiği dört temel\nözelliği aşağıdakilerin hangisinde birlikte ve\ndoğru olarak verilmiştir?",
             "options": {
                 "A": "Prosedürellik, Katılım, Uzamsallık, Tasarım",
                 "B": "Enformasyon, Prosedürellik, Ansiklopedik\nnitelik, Tasarım",
                 "C": "Prosedürellik, Katılım, Ansiklopedik nitelik,\nUzamsallık",
                 "D": "Katılım, Uzamsallık, Nitelik, Değer",
-                "E": "Deneyimsellik, Tasarım, Prosedürellik,"
+                "E": "Deneyimsellik, Tasarım, Prosedürellik, Ansiklopedik nitelik"
             },
             "correctAnswer": "C"
         },
