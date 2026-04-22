@@ -653,21 +653,21 @@
             "correctAnswer": "D"
         },
         {
-            "questionText": "Üretken sanat (Generative Art) ve NFT’ler\narasındaki ilişki yle ilgili aşağıdaki\nifadelerden hangisi doğrudur?",
+            "questionText": "Üretken sanat (Generative Art) ve NFT’ler arasındaki ilişki yle ilgili aşağıdaki ifadelerden hangisi doğrudur?",
             "options": {
-                "A": "NFT’ler yalnızca geleneksel sanat eserlerini\ndijital ortama taşımak için kullanılırken,\nüretken sanat tamamen bağımsız bir alan\nolarak gelişmiştir.",
-                "B": "Üretken sanat, sanatçılar tarafından\ngeliştirilen algoritmalar aracılığıyla benzersiz\nparçalar üretir ve NFT’lerin oluşturulmasında\navantaj sağlar.",
-                "C": "Üretken sanat, algoritmalar kullanılarak\ntamamen rastgele eserler oluşturan bir\nsanat türüdür ve NFT’lerle herhangi bir\nilişkisi yoktur.",
-                "D": "Üretken sanat eserleri yalnızca fiziksel\nortamda üretilebilen ve NFT’lere uygun\nolmayan bir sanat türüdür.",
+                "A": "NFT’ler yalnızca geleneksel sanat eserlerini dijital ortama taşımak için kullanılırken, üretken sanat tamamen bağımsız bir alan olarak gelişmiştir.",
+                "B": "Üretken sanat, sanatçılar tarafından geliştirilen algoritmalar aracılığıyla benzersiz parçalar üretir ve NFT’lerin oluşturulmasında avantaj sağlar.",
+                "C": "Üretken sanat, algoritmalar kullanılarak tamamen rastgele eserler oluşturan bir sanat türüdür ve NFT’lerle herhangi bir ilişkisi yoktur.",
+                "D": "Üretken sanat eserleri yalnızca fiziksel ortamda üretilebilen ve NFT’lere uygun olmayan bir sanat türüdür.",
                 "E": "NFT’ler yalnızca dijital resimler için kullanılır ve üretken sanatla ilgisi yoktur"
             },
             "correctAnswer": "B"
         },
         {
-            "questionText": "Leydi Augusta Ada Lovelace’in bilgisayar\ntarihindeki önemi aşağıdakilerden\nhangisidir?",
+            "questionText": "Leydi Augusta Ada Lovelace’in bilgisayar tarihindeki önemi aşağıdakilerden hangisidir?",
             "options": {
                 "A": "İlk bilgisayar oyununu tasarlayan kişi  olması",
-                "B": "Ticari olarak satılan ilk bilgisayarın\ntasarımcısı olması",
+                "B": "Ticari olarak satılan ilk bilgisayarın tasarımcısı olması",
                 "C": "İlk bilgisayar programcısı olması",
                 "D": "Bilgisayarla ilk ses kaydı alınan kişi  olması",
                 "E": "Fark motorunun tasarımcısı olması"
@@ -675,7 +675,7 @@
             "correctAnswer": "C"
         },
         {
-            "questionText": "OpenAI tarafından Ocak 2021’de yayınlanan,\nDALL-E algoritmaları tarafından üretilmiş\ngörüntülerin ayırt edici özelliği\naşağıdakilerden hangisidir?",
+            "questionText": "OpenAI tarafından Ocak 2021’de yayınlanan, DALL-E algoritmaları tarafından üretilmiş görüntülerin ayırt edici özelliği aşağıdakilerden hangisidir?",
             "options": {
                 "A": "Yapay zekânın üretimi olması",
                 "B": "Fotoğraf formatında olması",
@@ -686,7 +686,7 @@
             "correctAnswer": "A"
         },
         {
-            "questionText": "Farklı sosyoekonomik düzeylerdeki\ninsanların, dezavantajlı grupların, hanelerin,\nülkelerin ve coğrafi bölgelerin internet başta\nolmak üzere dijital iletişim teknolojilerine\nerişimlerinde ve ondan yararlanmalarında\ngözlenen eşitsizlikleri anlatan kavram\naşağıdakilerden hangisidir?",
+            "questionText": "Farklı sosyoekonomik düzeylerdeki insanların, dezavantajlı grupların, hanelerin, ülkelerin ve coğrafi bölgelerin internet başta olmak üzere dijital iletişim teknolojilerine erişimlerinde ve ondan yararlanmalarında gözlenen eşitsizlikleri anlatan kavram aşağıdakilerden hangisidir?",
             "options": {
                 "A": "Trollük",
                 "B": "Homofili",
@@ -697,29 +697,29 @@
             "correctAnswer": "D"
         },
         {
-            "questionText": "Aşağıdakilerden hangisi sosyal ağ analizinin\n(SAA) temel varsayımlarından biridir?",
+            "questionText": "Aşağıdakilerden hangisi sosyal ağ analizinin (SAA) temel varsayımlarından biridir?",
             "options": {
                 "A": "Sosyal bilimlerde ağ haritaları gereksizdir.",
-                "B": "Bireyler karmaşık sosyal ilişki ağları\noluştururlar.",
-                "C": "Sanayileşme sosyal ağların oluşumunu\ntamamen engeller.",
-                "D": "Sosyal ağlar sadece geleneksel\ntopluluklarda bulunur.",
+                "B": "Bireyler karmaşık sosyal ilişki ağları oluştururlar.",
+                "C": "Sanayileşme sosyal ağların oluşumunu tamamen engeller.",
+                "D": "Sosyal ağlar sadece geleneksel topluluklarda bulunur.",
                 "E": "Bireyler toplum içinde birbirleriyle ilişki"
             },
             "correctAnswer": "B"
         },
         {
-            "questionText": "Walter Benjamin’in “Tekniğin Olanaklarıyla\nYeniden Üretilebildiği Çağda Sanat Yapıtı”\nadlı makalesinde sanatın yeniden\nüretilebilirliği ile ilgili temel görüşü\naşağıdakilerden hangisidir?",
+            "questionText": "Walter Benjamin’in “Tekniğin Olanaklarıyla Yeniden Üretilebildiği Çağda Sanat Yapıtı” adlı makalesinde sanatın yeniden üretilebilirliği ile ilgili temel görüşü aşağıdakilerden hangisidir?",
             "options": {
-                "A": "Sanat eserlerinin mekanik çoğaltımı, onların\nözgün değerini ve \"aura\"sını tamamen yok\neder.",
-                "B": "Sanatın yeniden üretilebilir olması, sanatın\nendüstrileşmesini hızlandırarak onu bir meta\nhaline getirir.",
-                "C": "Benjamin, Adorno ve Lukacs gibi Frankfurt\nOkulu düşünürleriyle aynı şekilde mekanik\nçoğaltımı olumsuz bir gelişme olarak\ndeğerlendirir.",
-                "D": "Sanat eserlerinin mekanik çoğaltımı, onların\ntarihsel ve kültürel bağlamlarını tamamen\nortadan kaldırır.",
+                "A": "Sanat eserlerinin mekanik çoğaltımı, onların özgün değerini ve \"aura\"sını tamamen yok eder.",
+                "B": "Sanatın yeniden üretilebilir olması, sanatın endüstrileşmesini hızlandırarak onu bir meta haline getirir.",
+                "C": "Benjamin, Adorno ve Lukacs gibi Frankfurt Okulu düşünürleriyle aynı şekilde mekanik çoğaltımı olumsuz bir gelişme olarak değerlendirir.",
+                "D": "Sanat eserlerinin mekanik çoğaltımı, onların tarihsel ve kültürel bağlamlarını tamamen ortadan kaldırır.",
                 "E": "Çoğaltma teknolojileri, sanat yapıtlarını"
             },
             "correctAnswer": "E"
         },
         {
-            "questionText": "Henry Jenkins’in geliştirdiği ------- kavramı\ninternet sayesinde sıradan\nvatandaşların kamusal alana daha kolay ve aktif\nbir şekilde katılabilir olmasını kastetmektedir.\nYukarıdaki cümledeki boşluğu\naşağıdakilerden hangisi doğru şekilde\ntamamlar?",
+            "questionText": "Henry Jenkins’in geliştirdiği ------- kavramı internet sayesinde sıradan vatandaşların kamusal alana daha kolay ve aktif bir şekilde katılabilir olmasını kastetmektedir. Yukarıdaki cümledeki boşluğu aşağıdakilerden hangisi doğru şekilde tamamlar?",
             "options": {
                 "A": "katılımcı demokrasi",
                 "B": "kültür endüstrisi",
@@ -730,7 +730,7 @@
             "correctAnswer": "C"
         },
         {
-            "questionText": "Kültür ve teknoloji arasındaki ilişkiyi\ndeğerlendirirken kültürün endüstrileşmesi\nkavramını ortaya atan düşünürlerden biri\naşağıdakilerden hangisidir?",
+            "questionText": "Kültür ve teknoloji arasındaki ilişkiyi değerlendirirken kültürün endüstrileşmesi kavramını ortaya atan düşünürlerden biri aşağıdakilerden hangisidir?",
             "options": {
                 "A": "Max Horkheimer",
                 "B": "Martin Heidegger",
@@ -741,7 +741,7 @@
             "correctAnswer": "A"
         },
         {
-            "questionText": "Aşağıdakilerden hangisi robotik alanında\nmekanik sistemler geliştirerek Leonardo Da\nVinci'ye ilham kaynağı olmuştur?",
+            "questionText": "Aşağıdakilerden hangisi robotik alanında mekanik sistemler geliştirerek Leonardo Da Vinci'ye ilham kaynağı olmuştur?",
             "options": {
                 "A": "Isaac Asimov",
                 "B": "Frederich Kaufmann",
@@ -752,18 +752,18 @@
             "correctAnswer": "D"
         },
         {
-            "questionText": "Aşağıdakilerden hangisi Uygulama\nProgramlama Arayüzü (UPA) kullanımı yla\nilgili doğru bir ifadedir?",
+            "questionText": "Aşağıdakilerden hangisi Uygulama Programlama Arayüzü (UPA) kullanımı yla ilgili doğru bir ifadedir?",
             "options": {
-                "A": "Verileri manuel olarak toplama gereksinimini\nartırır.",
-                "B": "Sadece belirli programlama dilleriyle\nerişilebilir.",
-                "C": "Web kazıma yöntemlerine kıyasla daha\ndüzensiz veri sağlar.",
+                "A": "Verileri manuel olarak toplama gereksinimini artırır.",
+                "B": "Sadece belirli programlama dilleriyle erişilebilir.",
+                "C": "Web kazıma yöntemlerine kıyasla daha düzensiz veri sağlar.",
                 "D": "Verileri yalnızca metin formatında depolar.",
                 "E": "Sürekli ve gözetimsiz veri toplamaya olanak"
             },
             "correctAnswer": "E"
         },
         {
-            "questionText": "Oyunun sunduğu olanakları derinlemesine\nkeşfetmeye ve oyun uzamına odaklanan\noyunculardır. Puanyada ödül kazanmak\nöncelikli değildir. Oyun dünyası içinde yapılan\nkeşifler ödül yerine geçer. Oyunun daha önce\nulaşılmamış uzamsal noktalarına erişmek,\noyunda gizlenmiş paskalya yumurtalarını\nkeşfetmek, gizli bir geçitten geçmek gibi\nkeşfedilmemiş yeni deneyimlerin peşinden\ngiderler.\nYukarıda açıklaması verilen  oyuncu tipi\naşağıdakilerden hangisidir?",
+            "questionText": "Oyunun sunduğu olanakları derinlemesine keşfetmeye ve oyun uzamına odaklanan oyunculardır. Puanyada ödül kazanmak öncelikli değildir. Oyun dünyası içinde yapılan keşifler ödül yerine geçer. Oyunun daha önce ulaşılmamış uzamsal noktalarına erişmek, oyunda gizlenmiş paskalya yumurtalarını keşfetmek, gizli bir geçitten geçmek gibi keşfedilmemiş yeni deneyimlerin peşinden giderler. Yukarıda açıklaması verilen  oyuncu tipi aşağıdakilerden hangisidir?",
             "options": {
                 "A": "Kahramanlar",
                 "B": "Kaşifler",
@@ -774,29 +774,29 @@
             "correctAnswer": "B"
         },
         {
-            "questionText": "Ciddi oyunlar (serious games) ile ilgili\naşağıdaki ifadelerden hangisi doğrudur?",
+            "questionText": "Ciddi oyunlar (serious games) ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
             "options": {
-                "A": "Tüm oyunlar doğal olarak ciddi oyun\nkategorisine girer, çünkü hepsi bir tür\nöğrenme süreci içerir.",
-                "B": "Eğlenceli olmaması gereken, tamamen\nakademik veya işle ilgili konulara odaklanan\noyunlardır.",
-                "C": "Ciddi oyunlar, belirli bir eğitimsel veya pratik\namacı olan, oyun dışı bağlamlarda\nkullanılan dijital oyunlardır.",
-                "D": "Ciddi oyunlar, yalnızca askeri ve savunma\namaçlı olarak kullanılan oyunları ifade eder.",
+                "A": "Tüm oyunlar doğal olarak ciddi oyun kategorisine girer, çünkü hepsi bir tür öğrenme süreci içerir.",
+                "B": "Eğlenceli olmaması gereken, tamamen akademik veya işle ilgili konulara odaklanan oyunlardır.",
+                "C": "Ciddi oyunlar, belirli bir eğitimsel veya pratik amacı olan, oyun dışı bağlamlarda kullanılan dijital oyunlardır.",
+                "D": "Ciddi oyunlar, yalnızca askeri ve savunma amaçlı olarak kullanılan oyunları ifade eder.",
                 "E": "Ciddi oyunlar, yalnızca bireysel oyuncuların"
             },
             "correctAnswer": "C"
         },
         {
-            "questionText": "ISO standartlarına göre bir robot nasıl\ntanımlanmaktadır?",
+            "questionText": "ISO standartlarına göre bir robot nasıl tanımlanmaktadır?",
             "options": {
-                "A": "Otomatik olarak kontrol edilen, üç boyutlu,\nçok amaçlı bir manipülatördür.",
-                "B": "İnsan müdahalesi olmadan çalışan herhangi\nbir elektronik cihazdır.",
-                "C": "Sadece yazılımsal sistemlerden oluşan bir\nalgoritmadır.",
-                "D": "Sadece insana benzeyen makinelerden\noluşur.",
+                "A": "Otomatik olarak kontrol edilen, üç boyutlu, çok amaçlı bir manipülatördür.",
+                "B": "İnsan müdahalesi olmadan çalışan herhangi bir elektronik cihazdır.",
+                "C": "Sadece yazılımsal sistemlerden oluşan bir algoritmadır.",
+                "D": "Sadece insana benzeyen makinelerden oluşur.",
                 "E": "Yapay zekâ ile donatılmış bir sistemdir."
             },
             "correctAnswer": "A"
         },
         {
-            "questionText": "Blokzincirleri çok daha etkin ve işleyişi daha\nyönetilebilir hâle getiren inovasyon akıllı\nsözleşmelerdir. İlk a kıllı sözleşmeler hangi\nkriptoparanın blokzinciri üzerinde yer\nalmaktadır?",
+            "questionText": "Blokzincirleri çok daha etkin ve işleyişi daha yönetilebilir hâle getiren inovasyon akıllı sözleşmelerdir. İlk a kıllı sözleşmeler hangi kriptoparanın blokzinciri üzerinde yer almaktadır?",
             "options": {
                 "A": "Litecoin",
                 "B": "Celo",
@@ -807,29 +807,29 @@
             "correctAnswer": "E"
         },
         {
-            "questionText": "Aşağıdakilerden hangisi Lofti Zadeh’in yapay\nzekâ çalışmalarına getirdiği önemli\nkatkılardan biridir?",
+            "questionText": "Aşağıdakilerden hangisi Lofti Zadeh’in yapay zekâ çalışmalarına getirdiği önemli katkılardan biridir?",
             "options": {
                 "A": "Turing testi ile yapay zekâyı değerlendirmek",
-                "B": "Newell ve Simon’un Genel Problem\nÇözücüsü’nü geliştirmek",
-                "C": "Yapay zekânın ilk kez resmî olarak\ntanımlandığı toplantıyı düzenlemek",
-                "D": "Bilgisayarların yalnızca ikili sistem yerine\ninsan düşüncesine daha yakın şekilde\nçalışabileceğini savunmak",
+                "B": "Newell ve Simon’un Genel Problem Çözücüsü’nü geliştirmek",
+                "C": "Yapay zekânın ilk kez resmî olarak tanımlandığı toplantıyı düzenlemek",
+                "D": "Bilgisayarların yalnızca ikili sistem yerine insan düşüncesine daha yakın şekilde çalışabileceğini savunmak",
                 "E": "İlk chatbot olan ELIZA’yı geliştirmek"
             },
             "correctAnswer": "D"
         },
         {
-            "questionText": "Lev Manovich’in “estetik toplum” kavramı ile\nilgili aşağıdaki ifadelerden hangisi\ndoğrudur?",
+            "questionText": "Lev Manovich’in “estetik toplum” kavramı ile ilgili aşağıdaki ifadelerden hangisi doğrudur?",
             "options": {
-                "A": "Estetik toplumda görsel güzellik sadece\nsanat alanıyla sınırlıdır ve ticari ürünlerde\nestetik anlayışı bulunmamaktadır.",
-                "B": "Estetik toplum, sanat eserlerinin ekonomik\ndeğerinin giderek arttığı ve ticari malların\nsanattan bağımsız olduğu bir düzeni ifade\neder.",
-                "C": "Manovich’e göre estetik toplum, güzel\ngörüntüler, arayüzler ve nesnelerin\nekonomik ve sosyal işleyişin merkezinde\nolduğu bir yapıyı ifade eder.",
-                "D": "Estetik toplum, sosyal medyanın sanattan\ntamamen bağımsız olduğu ve estetik\nanlayışın yalnızca geleneksel sanat\ndallarında görüldüğü bir kavramdır.",
+                "A": "Estetik toplumda görsel güzellik sadece sanat alanıyla sınırlıdır ve ticari ürünlerde estetik anlayışı bulunmamaktadır.",
+                "B": "Estetik toplum, sanat eserlerinin ekonomik değerinin giderek arttığı ve ticari malların sanattan bağımsız olduğu bir düzeni ifade eder.",
+                "C": "Manovich’e göre estetik toplum, güzel görüntüler, arayüzler ve nesnelerin ekonomik ve sosyal işleyişin merkezinde olduğu bir yapıyı ifade eder.",
+                "D": "Estetik toplum, sosyal medyanın sanattan tamamen bağımsız olduğu ve estetik anlayışın yalnızca geleneksel sanat dallarında görüldüğü bir kavramdır.",
                 "E": "Manovich, dijital teknolojilerin estetik toplum"
             },
             "correctAnswer": "C"
         },
         {
-            "questionText": "Juul (2005) kapsayıcı ve betimleyici bir tanım\nönermekle birlikte, bazı örneklerin bu tanımın\nsınırlarını zorladığını ve bazı örneklerinde\noyun nitelikleri taşımalarına karşın bu\ntanımsal sınırların dışında kaldığını savunur.\nBuna göre, a şağıdakilerden hangisi Juul'un\noyun ile oyun olmayan  arasında kalan sınır\nörneklerinden biridir?",
+            "questionText": "Juul (2005) kapsayıcı ve betimleyici bir tanım önermekle birlikte, bazı örneklerin bu tanımın sınırlarını zorladığını ve bazı örneklerinde oyun nitelikleri taşımalarına karşın bu tanımsal sınırların dışında kaldığını savunur. Buna göre, a şağıdakilerden hangisi Juul'un oyun ile oyun olmayan  arasında kalan sınır örneklerinden biridir?",
             "options": {
                 "A": "Satranç",
                 "B": "Tenis",
@@ -840,29 +840,29 @@
             "correctAnswer": "E"
         },
         {
-            "questionText": "Aşağıdakilerden hangisi e-sporun temel\nözellikleriyle ilgili doğru bir ifadedir?",
+            "questionText": "Aşağıdakilerden hangisi e-sporun temel özellikleriyle ilgili doğru bir ifadedir?",
             "options": {
-                "A": "E-spor turnuvalarında tüm oyuncular aynı\ndonanım ve yazılımı kullanmak zorundadır.",
-                "B": "E-spor yalnızca bireysel oyuncuların\nyarıştığı bir oyun formatıdır.",
-                "C": "E-spor etkinlikleri yalnızca fiziksel\nmekânlarda düzenlenebilir, çevrimiçi\nortamda gerçekleşemez.",
-                "D": "E-spor, profesyonel oyuncuların ve\ntakımların sponsorlar tarafından\ndesteklendiği rekabetçi video oyunu\nmüsabakalarını içerir.",
+                "A": "E-spor turnuvalarında tüm oyuncular aynı donanım ve yazılımı kullanmak zorundadır.",
+                "B": "E-spor yalnızca bireysel oyuncuların yarıştığı bir oyun formatıdır.",
+                "C": "E-spor etkinlikleri yalnızca fiziksel mekânlarda düzenlenebilir, çevrimiçi ortamda gerçekleşemez.",
+                "D": "E-spor, profesyonel oyuncuların ve takımların sponsorlar tarafından desteklendiği rekabetçi video oyunu müsabakalarını içerir.",
                 "E": "E-spor oyunları, yalnızca spor türündeki"
             },
             "correctAnswer": "D"
         },
         {
-            "questionText": "Aşağıdakilerden hangisi merkezsizlik\nkavramının İnternet ağıyla ilişkisini doğru bir\nşekilde açıklar?",
+            "questionText": "Aşağıdakilerden hangisi merkezsizlik kavramının İnternet ağıyla ilişkisini doğru bir şekilde açıklar?",
             "options": {
-                "A": "İnternet ağının doğal bir özelliği olan\nmerkezsizlik, ilk başlarda tek bir noktadan\nyönetilmeye çalışılan sosyal ve ticari\nsüreçleri etkilemez.",
-                "B": "İnternet protokolünün doğasında bulunan\nbağlantı ve fırsat eşitliği, merkezî işleyişi\nbozar ve ağın mimarisini\nmerkezsizleştirmeye başlar.",
-                "C": "Merkezsizlik, İnternet ağının tek bir\nnoktadan yönetilmeye çalışıldığı ilk\ndönemlerde ortaya çıkmış bir kavramdır.",
-                "D": "İnternet protokolü, merkezi bir yapıya sahip\nolduğu için bağlantı ve fırsat eşitliği\nsağlayamaz.",
+                "A": "İnternet ağının doğal bir özelliği olan merkezsizlik, ilk başlarda tek bir noktadan yönetilmeye çalışılan sosyal ve ticari süreçleri etkilemez.",
+                "B": "İnternet protokolünün doğasında bulunan bağlantı ve fırsat eşitliği, merkezî işleyişi bozar ve ağın mimarisini merkezsizleştirmeye başlar.",
+                "C": "Merkezsizlik, İnternet ağının tek bir noktadan yönetilmeye çalışıldığı ilk dönemlerde ortaya çıkmış bir kavramdır.",
+                "D": "İnternet protokolü, merkezi bir yapıya sahip olduğu için bağlantı ve fırsat eşitliği sağlayamaz.",
                 "E": "Merkezsizlik, İnternet ağının doğal bir sonucu değildir"
             },
             "correctAnswer": "B"
         },
         {
-            "questionText": "Dijital oyun yayıncılığının yayıncılara gelir\nkazandırdığı ilk büyük mecra aşağıdakilerden\nhangisidir?",
+            "questionText": "Dijital oyun yayıncılığının yayıncılara gelir kazandırdığı ilk büyük mecra aşağıdakilerden hangisidir?",
             "options": {
                 "A": "Facebook",
                 "B": "Youtube",
@@ -873,7 +873,7 @@
             "correctAnswer": "E"
         },
         {
-            "questionText": "Aşağıdakilerden hangisi yeni medya\nsanatının ortamlarından biri ve aynı zamanda\nsosyal medya alt türü olarak değerlendirilen\nçok kullanıcılı, açık kaynak kodlu oyun\nSecond Life’ın ilham aldığı romandır?",
+            "questionText": "Aşağıdakilerden hangisi yeni medya sanatının ortamlarından biri ve aynı zamanda sosyal medya alt türü olarak değerlendirilen çok kullanıcılı, açık kaynak kodlu oyun Second Life’ın ilham aldığı romandır?",
             "options": {
                 "A": "Neuromancer",
                 "B": "The Bladerunner",
@@ -884,7 +884,7 @@
             "correctAnswer": "E"
         },
         {
-            "questionText": "Akılcı davranışlar göstermek yalnızca mantık\nkurallarına göre hareket etmekle sınırlı\nkalmamaktadır. Bazen muhtemel en iyi çıktıyıya\nda sonucu elde etmek gerekir. Bu durum özellikle\nkarmaşık ortamlardaki problem çözümlerinde\nönemlidir. İnsanlar karmaşık çevrelere çok çabuk\nuyum sağlasada burada bir hesaplama yapmak\nve harekete geçmek için yapay zeka çok fazla\nveriye ihtiyaç duymaktadır.\nYukarıdaki açıklama hangi yapay zeka\ntanımlamasına aittir?",
+            "questionText": "Akılcı davranışlar göstermek yalnızca mantık kurallarına göre hareket etmekle sınırlı kalmamaktadır. Bazen muhtemel en iyi çıktıyıya da sonucu elde etmek gerekir. Bu durum özellikle karmaşık ortamlardaki problem çözümlerinde önemlidir. İnsanlar karmaşık çevrelere çok çabuk uyum sağlasada burada bir hesaplama yapmak ve harekete geçmek için yapay zeka çok fazla veriye ihtiyaç duymaktadır. Yukarıdaki açıklama hangi yapay zeka tanımlamasına aittir?",
             "options": {
                 "A": "Akılcı Fail Yaklaşımı",
                 "B": "Akılcı Düşünmek",
@@ -895,7 +895,7 @@
             "correctAnswer": "A"
         },
         {
-            "questionText": "Sadece bilgisayar bilimi alanında\nuzmanlaşmış insanlar tarafından kullanılan 2.\nnesil bilgisayarların kişisel bilgisayarlara\nevrilmesini sağlayan teknoloji\naşağıdakilerden hangisidir?",
+            "questionText": "Sadece bilgisayar bilimi alanında uzmanlaşmış insanlar tarafından kullanılan 2. nesil bilgisayarların kişisel bilgisayarlara evrilmesini sağlayan teknoloji aşağıdakilerden hangisidir?",
             "options": {
                 "A": "Ana kart",
                 "B": "Kurumsal bilgisayarlar",
@@ -906,18 +906,18 @@
             "correctAnswer": "C"
         },
         {
-            "questionText": "James Bridle'ın \"yeni estetik\" kavramın ın\ntemel dayanağı aşağıdakilerden hangisidir?",
+            "questionText": "James Bridle'ın \"yeni estetik\" kavramın ın temel dayanağı aşağıdakilerden hangisidir?",
             "options": {
-                "A": "Sayısal teknolojilerin insanlarla işbirliği\nyapmasının zararları",
-                "B": "Dijital kameraların oluşturduğu bozuk ve\npikselli görüntülerin insanlar arasında nasıl\nalgılandığı",
-                "C": "SXSW konferansında ortaya atılan sayısal\nteknolojilerin estetik değeri",
-                "D": "İnsan ve makine arasındaki ayrımın gittikçe\nbelirsizleşmesinin insan yaşamına etkisi",
+                "A": "Sayısal teknolojilerin insanlarla işbirliği yapmasının zararları",
+                "B": "Dijital kameraların oluşturduğu bozuk ve pikselli görüntülerin insanlar arasında nasıl algılandığı",
+                "C": "SXSW konferansında ortaya atılan sayısal teknolojilerin estetik değeri",
+                "D": "İnsan ve makine arasındaki ayrımın gittikçe belirsizleşmesinin insan yaşamına etkisi",
                 "E": "İnsanlar ve makineler arasında belirgin bir ayrımın olmaması"
             },
             "correctAnswer": "D"
         },
         {
-            "questionText": "Aşağıdakilerden hangisi Doğal Dil İşleme\n(DDİ) görevleri arasında yer almaz?",
+            "questionText": "Aşağıdakilerden hangisi Doğal Dil İşleme (DDİ) görevleri arasında yer almaz?",
             "options": {
                 "A": "Dilbilgisel etiketleme",
                 "B": "Regresyon analizi",
@@ -928,7 +928,7 @@
             "correctAnswer": "B"
         },
         {
-            "questionText": "“Cogito Ergo Sum” deyişi aşağıdaki\ndüşünürlerden hangisine aittir?",
+            "questionText": "“Cogito Ergo Sum” deyişi aşağıdaki düşünürlerden hangisine aittir?",
             "options": {
                 "A": "Goethe",
                 "B": "Zupancic",
@@ -939,7 +939,7 @@
             "correctAnswer": "C"
         },
         {
-            "questionText": "Özgün içerik türünde ve yapısında  olan  ve\ngeleneksel analitik araçlar tarafından\nayrıştırılamayan \"tipik insan tarafından\noluşturulan yapılandırılmamış veri \" türü\naşağıdakilerden hangisidir?",
+            "questionText": "Özgün içerik türünde ve yapısında  olan  ve geleneksel analitik araçlar tarafından ayrıştırılamayan \"tipik insan tarafından oluşturulan yapılandırılmamış veri \" türü aşağıdakilerden hangisidir?",
             "options": {
                 "A": "E-posta",
                 "B": "Web",
@@ -950,7 +950,7 @@
             "correctAnswer": "A"
         },
         {
-            "questionText": "Dijital oyunların, oyuncuların ve dijital oyunlar\netrafında gelişen kültürün ------- bir yapısı yoktur. \nYukarıdaki cümlede boş bırakılan yeri\naşağıdakilerden hangisi doğru şekilde\ntamamlar?",
+            "questionText": "Dijital oyunların, oyuncuların ve dijital oyunlar etrafında gelişen kültürün ------- bir yapısı yoktur.  Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
             "options": {
                 "A": "teknolojik",
                 "B": "heterojen",
@@ -961,7 +961,7 @@
             "correctAnswer": "E"
         },
         {
-            "questionText": "Kullanıcılar ürettikleri ve paylaştıkları yazılı, sesli,\ngörüntülü içeriğe ------- atayarak arama motorları\naracılığıyla diğer kullanıcıların bu içeriğe kolayca\nulaşmalarını sağlarlar.\nYukarıdaki cümlede boş bırakılan yeri\naşağıdakilerden hangisi doğru şekilde\ntamamlar?",
+            "questionText": "Kullanıcılar ürettikleri ve paylaştıkları yazılı, sesli, görüntülü içeriğe ------- atayarak arama motorları aracılığıyla diğer kullanıcıların bu içeriğe kolayca ulaşmalarını sağlarlar. Yukarıdaki cümlede boş bırakılan yeri aşağıdakilerden hangisi doğru şekilde tamamlar?",
             "options": {
                 "A": "blog",
                 "B": "log",
@@ -972,7 +972,7 @@
             "correctAnswer": "C"
         },
         {
-            "questionText": "Hangi Doğal Dil İşleme (DDİ) uygulaması çok\nbüyük hacimli verilerde genel yapı ve\nkapsama genel bir bakış açısı sağlama\nolanağı sunar?",
+            "questionText": "Hangi Doğal Dil İşleme (DDİ) uygulaması çok büyük hacimli verilerde genel yapı ve kapsama genel bir bakış açısı sağlama olanağı sunar?",
             "options": {
                 "A": "İstatistiksel modelleme",
                 "B": "Derin öğrenme",
@@ -983,51 +983,51 @@
             "correctAnswer": "D"
         },
         {
-            "questionText": "Aşağıdakilerden hangisi yapılandırılmış\nverilerin ayırt edici özelliklerinden biridir?",
+            "questionText": "Aşağıdakilerden hangisi yapılandırılmış verilerin ayırt edici özelliklerinden biridir?",
             "options": {
-                "A": "Bir sistemyada düzen içerisinde\ntanımlanmış olmaları",
+                "A": "Bir sistemyada düzen içerisinde tanımlanmış olmaları",
                 "B": "Daha çok depolama alanı gerektirmeleri",
-                "C": "Genellikle nitel olarak tanımlanan, özelliğe\nveya forma dayalı veriler olmaları",
-                "D": "Doğası gereği aranması daha zor veriler\nolması ve anlaşılabilir hâle gelmesi için\nişlenmesinin gerekmesi",
+                "C": "Genellikle nitel olarak tanımlanan, özelliğe veya forma dayalı veriler olmaları",
+                "D": "Doğası gereği aranması daha zor veriler olması ve anlaşılabilir hâle gelmesi için işlenmesinin gerekmesi",
                 "E": "Bir lokasyondayada alanda depolanmış"
             },
             "correctAnswer": "A"
         },
         {
-            "questionText": "Aşağıdaki ifadelerden hangisi Johan\nHuizinga’nın oyun tanımı kapsamına girer?",
+            "questionText": "Aşağıdaki ifadelerden hangisi Johan Huizinga’nın oyun tanımı kapsamına girer?",
             "options": {
                 "A": "Belirgin bir amaçları yoktur.",
                 "B": "Özgürce razı olunan etkinliklerdir.",
-                "C": "Belirli bir zaman ve mekan içinde\ngerçekleşmezler.",
+                "C": "Belirli bir zaman ve mekan içinde gerçekleşmezler.",
                 "D": "Dijital oyunları kapsar.",
                 "E": "Kuralları esnek etkinliklerdir."
             },
             "correctAnswer": "B"
         },
         {
-            "questionText": "Yeni medya sanatıyla ilgili aşağıdaki\nyargılardan hangisi doğrudur?",
+            "questionText": "Yeni medya sanatıyla ilgili aşağıdaki yargılardan hangisi doğrudur?",
             "options": {
                 "A": "Yeni medya sanatı geçicidir.",
                 "B": "Yeni medya sanatı kod bilgisi gerektirir.",
-                "C": "Yeni medya sanatı geleneksel sanat adına\nbir tehdittir.",
-                "D": "Yeni medya sanatı birden fazla duyuya hitap\netme potansiyelindedir.",
+                "C": "Yeni medya sanatı geleneksel sanat adına bir tehdittir.",
+                "D": "Yeni medya sanatı birden fazla duyuya hitap etme potansiyelindedir.",
                 "E": "Glitch sanatının dijitalleşmesiyle ortaya çıkmıştır"
             },
             "correctAnswer": "D"
         },
         {
-            "questionText": "Janet H. Murray 'in, dijital medyanın ifadesel\nolanaklarını tartışırken söz ettiği dört temel\nözelliği aşağıdakilerin hangisinde birlikte ve\ndoğru olarak verilmiştir?",
+            "questionText": "Janet H. Murray 'in, dijital medyanın ifadesel olanaklarını tartışırken söz ettiği dört temel özelliği aşağıdakilerin hangisinde birlikte ve doğru olarak verilmiştir?",
             "options": {
                 "A": "Prosedürellik, Katılım, Uzamsallık, Tasarım",
-                "B": "Enformasyon, Prosedürellik, Ansiklopedik\nnitelik, Tasarım",
-                "C": "Prosedürellik, Katılım, Ansiklopedik nitelik,\nUzamsallık",
+                "B": "Enformasyon, Prosedürellik, Ansiklopedik nitelik, Tasarım",
+                "C": "Prosedürellik, Katılım, Ansiklopedik nitelik, Uzamsallık",
                 "D": "Katılım, Uzamsallık, Nitelik, Değer",
                 "E": "Deneyimsellik, Tasarım, Prosedürellik, Ansiklopedik nitelik"
             },
             "correctAnswer": "C"
         },
         {
-            "questionText": "2030 yılında bir insanî yapay zekânın ortaya\nçıkacağını daha 2000 yılındayken iddia eden\ndüşünür aşağıdakilerden hangisidir?",
+            "questionText": "2030 yılında bir insanî yapay zekânın ortaya çıkacağını daha 2000 yılındayken iddia eden düşünür aşağıdakilerden hangisidir?",
             "options": {
                 "A": "Baudrillard",
                 "B": "Zizek",
@@ -1038,12 +1038,12 @@
             "correctAnswer": "E"
         },
         {
-            "questionText": "Dijital uçurum kavramı  ile ilgili aşağıdaki\ntanımlardan hangisi doğrudur?",
+            "questionText": "Dijital uçurum kavramı  ile ilgili aşağıdaki tanımlardan hangisi doğrudur?",
             "options": {
-                "A": "İnternetin ve diğer dijital iletişim\nteknolojilerinin yaygın kullanımı",
+                "A": "İnternetin ve diğer dijital iletişim teknolojilerinin yaygın kullanımı",
                 "B": "Dijital teknolojilere erişimdeki farklılıklar",
                 "C": "Dijital eşitsizliklerin genel bir tanımı",
-                "D": "Dezavantajlı grupların dijital teknolojilere\nerişimindeki eşitsizlikler",
+                "D": "Dezavantajlı grupların dijital teknolojilere erişimindeki eşitsizlikler",
                 "E": "Diğer sosyal medya platformlarının kullanımı"
             },
             "correctAnswer": "D"
