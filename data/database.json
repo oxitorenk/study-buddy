@@ -5,19 +5,39 @@
             "courses": [
                 {
                     "courseName": "Dijital Kültür",
-                    "id": "dijital-kultur"
+                    "id": "dijital-kultur",
+                    "csvUrls": {
+                        "semiExam": "",
+                        "finalExam": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS2ib2XxklBScBx7jZwHZrEFe7ZYjsnKEIfGY4979npy0yQrP7pcVIvvmpxbuvP2AQy8Y-Gk5-ZKE27/pub?gid=698277184&single=true&output=csv",
+                        "summerExam": ""
+                    }
                 },
                 {
                     "courseName": "Tipografi",
-                    "id": "tipografi"
+                    "id": "tipografi",
+                    "csvUrls": {
+                        "semiExam": "",
+                        "finalExam": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS2ib2XxklBScBx7jZwHZrEFe7ZYjsnKEIfGY4979npy0yQrP7pcVIvvmpxbuvP2AQy8Y-Gk5-ZKE27/pub?gid=1591242898&single=true&output=csv",
+                        "summerExam": ""
+                    }
                 },
                 {
                     "courseName": "Görsel İletişim ve Tasarım Tarihi",
-                    "id": "gorsel-iletisim-ve-tasarim-tarihi"
+                    "id": "gorsel-iletisim-ve-tasarim-tarihi",
+                    "csvUrls": {
+                        "semiExam": "",
+                        "finalExam": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS2ib2XxklBScBx7jZwHZrEFe7ZYjsnKEIfGY4979npy0yQrP7pcVIvvmpxbuvP2AQy8Y-Gk5-ZKE27/pub?gid=196388983&single=true&output=csv",
+                        "summerExam": ""
+                    }
                 },
                 {
                     "courseName": "Anadolu Kültür Tarihi",
-                    "id": "anadolu-kultur-tarihi"
+                    "id": "anadolu-kultur-tarihi",
+                    "csvUrls": {
+                        "semiExam": "",
+                        "finalExam": "https://docs.google.com/spreadsheets/d/e/2PACX-1vS2ib2XxklBScBx7jZwHZrEFe7ZYjsnKEIfGY4979npy0yQrP7pcVIvvmpxbuvP2AQy8Y-Gk5-ZKE27/pub?gid=0&single=true&output=csv",
+                        "summerExam": ""
+                    }
                 }
             ]
         },
@@ -26,19 +46,39 @@
             "courses": [
                 {
                     "courseName": "Görsel Kültür",
-                    "id": "gorsel-kultur"
+                    "id": "gorsel-kultur",
+                    "csvUrls": {
+                        "semiExam": "",
+                        "finalExam": "",
+                        "summerExam": ""
+                    }
                 },
                 {
                     "courseName": "Fotoğraf ve Video Proje Geliştirme",
-                    "id": "fotograf-ve-video-proje-gelistirme"
+                    "id": "fotograf-ve-video-proje-gelistirme",
+                    "csvUrls": {
+                        "semiExam": "",
+                        "finalExam": "",
+                        "summerExam": ""
+                    }
                 },
                 {
                     "courseName": "Optik Bakış",
-                    "id": "optik-bakis"
+                    "id": "optik-bakis",
+                    "csvUrls": {
+                        "semiExam": "",
+                        "finalExam": "",
+                        "summerExam": ""
+                    }
                 },
                 {
                     "courseName": "Videonun Kullanım Alanları",
-                    "id": "videonun-kullanim-alanlari"
+                    "id": "videonun-kullanim-alanlari",
+                    "csvUrls": {
+                        "semiExam": "",
+                        "finalExam": "",
+                        "summerExam": ""
+                    }
                 }
             ]
         }

@@ -88,7 +88,14 @@ function renderDepartmentSelection() {
 }
 
 function renderCourseSelection() {
-    const courses = _state.currentSelection.department.courses;
+    let courses = _state.currentSelection.department.courses || [];
+    
+    // Sadece en az bir geçerli csvUrl'si olan dersleri filtrele
+    courses = courses.filter(course => {
+        if (!course.csvUrls) return false;
+        return Object.values(course.csvUrls).some(url => url && url.trim() !== "");
+    });
+
     ui.container.innerHTML = `
         <div class="slide-in-right">
             <div class="ios-navbar">
@@ -99,6 +106,7 @@ function renderCourseSelection() {
                 <span class="nav-title">Ders Seç</span>
             </div>
             <div class="ios-list-group">
+                ${courses.length > 0 ? `
                 <div class="ios-list">
                     ${courses.map((course, idx) => `
                         <div class="ios-cell course-item" data-idx="${idx}">
@@ -109,6 +117,11 @@ function renderCourseSelection() {
                         </div>
                     `).join('')}
                 </div>
+                ` : `
+                <div style="padding: 40px 20px; text-align: center; color: var(--ios-gray);">
+                    <p class="body-text">Bu bölüm için henüz sınavları girilmiş bir ders bulunmamaktadır.</p>
+                </div>
+                `}
             </div>
         </div>
     `;
@@ -130,11 +143,37 @@ function renderCourseSelection() {
 }
 
 function renderExamTypeSelection() {
-    const types = [
+    const course = _state.currentSelection.course;
+    const allTypes = [
         { id: 'semiExam', label: 'Ara Sınav' },
         { id: 'finalExam', label: 'Dönem Sonu Sınavı' },
         { id: 'summerExam', label: 'Yaz Okulu Sınavı' }
     ];
+
+    // Filter types based on whether there is a valid CSV URL
+    const types = allTypes.filter(type => course.csvUrls && course.csvUrls[type.id] && course.csvUrls[type.id].trim() !== "");
+
+    if (types.length === 0) {
+        ui.container.innerHTML = `
+            <div class="slide-in-right">
+                <div class="ios-navbar">
+                    <button class="nav-btn" id="back-to-courses">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"></polyline></svg>
+                        Dersler
+                    </button>
+                    <span class="nav-title">Sınav Türü</span>
+                </div>
+                <div style="padding: 40px 20px; text-align: center; color: var(--ios-gray);">
+                    <p class="body-text">Bu ders için henüz sınav verisi eklenmemiş.</p>
+                </div>
+            </div>
+        `;
+        document.getElementById('back-to-courses').onclick = () => {
+            tap();
+            renderCourseSelection();
+        };
+        return;
+    }
 
     ui.container.innerHTML = `
         <div class="slide-in-right">
@@ -218,7 +257,7 @@ function renderQuestionCountSelection() {
     `;
 
     const input = document.getElementById('question-count-input');
-    
+
     document.getElementById('back-to-types').onclick = () => {
         tap();
         renderExamTypeSelection();
@@ -267,20 +306,28 @@ async function startQuiz() {
     const course = _state.currentSelection.course;
     const type = _state.currentSelection.examType;
 
-    // Show loading state if needed
-    ui.container.innerHTML = '<div class="fade-in" style="padding: 20px; text-align: center;"><p class="body-text">Sorular yükleniyor...</p></div>';
+    // Show loading state
+    ui.container.innerHTML = '<div class="fade-in" style="padding: 20px; text-align: center; margin-top: 50px;"><p class="body-text">Sorular yükleniyor...</p></div>';
 
+    let pool = [];
     try {
-        const response = await fetch(`data/courses/${course.id}.json`);
-        _state.currentCourseData = await response.json();
+        const csvUrl = course.csvUrls[type];
+        if (!csvUrl) {
+            throw new Error("CSV URL not found for this exam type.");
+        }
+
+        const response = await fetch(csvUrl);
+        if (!response.ok) throw new Error("Failed to fetch CSV data.");
+
+        const csvText = await response.text();
+        pool = parseGoogleSheetsCSV(csvText);
+
     } catch (error) {
         console.error("Failed to load course questions:", error);
-        alert("Sorular yüklenirken hata oluştu!");
+        alert("Sorular yüklenirken hata oluştu! Lütfen internet bağlantınızı kontrol edin.");
         renderExamTypeSelection();
         return;
     }
-
-    let pool = _state.currentCourseData[type] || [];
 
     if (pool.length === 0) {
         alert("Bu kategori için soru bulunamadı!");
@@ -334,13 +381,13 @@ function renderQuizQuestion() {
         showActionSheet({
             title: "Sınavdan çıkmak istediğinize emin misiniz?",
             buttons: [
-                { 
-                    text: 'Sınavı Bitir', 
-                    style: 'destructive', 
+                {
+                    text: 'Sınavı Bitir',
+                    style: 'destructive',
                     onClick: () => {
                         _state.quiz.active = false;
                         renderDepartmentSelection();
-                    } 
+                    }
                 }
             ]
         });
@@ -353,7 +400,7 @@ function renderQuizQuestion() {
 
             const key = opt.getAttribute('data-key');
             const correct = question.correctAnswer;
-            
+
             _state.quiz.userAnswers[_state.quiz.currentIndex] = key;
 
             if (key === correct) {
@@ -427,7 +474,7 @@ function showResults() {
 function renderWrongAnswers() {
     const questions = _state.quiz.questions;
     const userAnswers = _state.quiz.userAnswers;
-    
+
     const wrongOnes = questions.filter((q, idx) => userAnswers[idx] !== q.correctAnswer);
 
     ui.container.innerHTML = `
@@ -466,7 +513,7 @@ function renderWrongAnswers() {
 function showActionSheet(options) {
     const overlay = document.createElement('div');
     overlay.className = 'action-sheet-overlay';
-    
+
     // Create the structure
     overlay.innerHTML = `
         <div class="action-sheet">
@@ -535,11 +582,58 @@ async function init() {
     }
 }
 
+function parseGoogleSheetsCSV(csvText) {
+    // Simple robust CSV parser for Soru,A,B,C,D,E,Doğru Cevap format
+    const lines = csvText.split(/\r?\n/);
+    const questions = [];
+
+    // Process line by line, handling quotes
+    for (let i = 1; i < lines.length; i++) { // Skip header row
+        const line = lines[i];
+        if (!line.trim()) continue;
+
+        let cols = [];
+        let inQuote = false;
+        let col = '';
+
+        for (let j = 0; j < line.length; j++) {
+            const char = line[j];
+            if (char === '"' && line[j + 1] === '"') {
+                col += '"';
+                j++;
+            } else if (char === '"') {
+                inQuote = !inQuote;
+            } else if (char === ',' && !inQuote) {
+                cols.push(col);
+                col = '';
+            } else {
+                col += char;
+            }
+        }
+        cols.push(col);
+
+        if (cols.length >= 7 && cols[0].trim()) {
+            questions.push({
+                questionText: cols[0].trim(),
+                options: {
+                    "A": cols[1].trim(),
+                    "B": cols[2].trim(),
+                    "C": cols[3].trim(),
+                    "D": cols[4].trim(),
+                    "E": cols[5].trim()
+                },
+                correctAnswer: cols[6].trim()
+            });
+        }
+    }
+    return questions;
+}
+
 document.addEventListener('keydown', (e) => {
     if (!_state.quiz.active) return;
-    
+
     const key = e.key.toLowerCase();
-    
+
     if (key === 'enter') {
         const nextBtn = document.getElementById('next-question');
         if (nextBtn && nextBtn.style.display !== 'none') {
